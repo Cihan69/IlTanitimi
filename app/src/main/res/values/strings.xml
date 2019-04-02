@@ -1,0 +1,1461 @@
+<resources>
+    <string name="app_name">İllerimizi Tanıyalım</string>
+    <color name="primary">#9fa8da</color>
+    <color name="primary_dark">#78909c</color>
+
+    <string-array name="cityArrayList">
+        <item>Adana</item>
+        <item>Adıyaman</item>
+        <item>Afyon</item>
+        <item>Ağrı</item>
+        <item>Amasya</item>
+        <item>Ankara</item>
+        <item>Antalya</item>
+        <item>Artvin</item>
+        <item>Aydın</item>
+        <item>Balıkesir</item>
+        <item>Bilecik</item>
+        <item>Bingöl</item>
+        <item>Bitlis</item>
+        <item>Bolu</item>
+        <item>Burdur</item>
+        <item>Bursa</item>
+        <item>Çanakkale</item>
+        <item>Çankırı</item>
+        <item>Çorum</item>
+        <item>Denizli</item>
+        <item>Diyarbakır</item>
+        <item>Edirne</item>
+        <item>Elazığ</item>
+        <item>Erzincan</item>
+        <item>Erzurum</item>
+        <item>Eskişehir</item>
+        <item>Gaziantep</item>
+        <item>Giresun</item>
+        <item>Gümüşhane</item>
+        <item>Hakkari</item>
+        <item>Hatay</item>
+        <item>Isparta</item>
+        <item>İçel/Mersin</item>
+        <item>İstanbul</item>
+        <item>İzmir</item>
+        <item>Kars</item>
+        <item>Kastamonu</item>
+        <item>Kayseri</item>
+        <item>Kırklareli</item>
+        <item>Kırşehir</item>
+        <item>Kocaeli</item>
+        <item>Konya</item>
+        <item>Kütahya</item>
+        <item>Malatya</item>
+        <item>Manisa</item>
+        <item>Kahramanmaraş</item>
+        <item>Mardin</item>
+        <item>Muğla</item>
+        <item>Muş</item>
+        <item>Nevşehir</item>
+        <item>Niğde</item>
+        <item>Ordu</item>
+        <item>Rize</item>
+        <item>Sakarya</item>
+        <item>Samsun</item>
+        <item>Siirt</item>
+        <item>Sinop</item>
+        <item>Sivas</item>
+        <item>Tekirdağ</item>
+        <item>Tokat</item>
+        <item>Trabzon</item>
+        <item>Tunceli</item>
+        <item>Şanlıurfa</item>
+        <item>Uşak</item>
+        <item>Van</item>
+        <item>Yozgat</item>
+        <item>Zonguldak</item>
+        <item>Aksaray</item>
+        <item>Bayburt</item>
+        <item>Karaman</item>
+        <item>Kırıkkale</item>
+        <item>Batman</item>
+        <item>Şırnak</item>
+        <item>Bartın</item>
+        <item>Ardahan</item>
+        <item>Iğdır</item>
+        <item>Yalova</item>
+        <item>Karabük</item>
+        <item>Kilis</item>
+        <item>Osmaniye</item>
+        <item>Düzce</item>
+    </string-array>          //İLLERİMİZİN LİSTESİ
+
+
+    <string-array name="cityContentData">
+
+        <item>ADANA\'NIN PLAKASI: 01\n\n
+
+ADANA\'NIN NÜFUSU: 2,006,650\n\n
+
+ADANA\'NIN İLÇELERİ NELERDİR?\n
+
+Tufanbeyli, Saimbeyli, Feke, Kozan, Aladağ, Pozantı, İmamoğlu, Karaisalı, Yüreğir, Ceyhan, Seyhan, Yumurtalık, Karataş.
+\n\n
+ADANA\'NIN TARİHİ DOKUSUNDA NELER VAR?\n
+
+Hitit tabletlerinden Hititler döneminde kent ve çevresinde Kizzuvatna Krallığı\'nın egemen olduğu anlaşılmaktadır. M.Ö. 9. yy sonlarına doğru Asur, M.Ö. 6. yy.da Pers, M.Ö. 333\'te Büyük İskender\'in egemenliğine girdi... Birinci Dünya Savaşı sırasında (1914-1918) Toros ve Gâvur dağı tünelleri ve Bağdat demiryoluyla kent İstanbul ve Suriye\'ye bağlandı. Birinci Dünya Savaşı sonrasında 24 Aralık 1918\'de Fransız birlikleri, işbirlikçi Ermeni çeteleriyle Adana\'yı işgal etti. Türk milis kuvvetlerinin şiddetle direnmesi, işgalcilerin önemli kayba uğramalarına yol açtı. 20 Ekim 1921\'de imzalanan Ankara Antlaşması uyanırca, Fransız işgal kuvvetleri şehirden çekildi. 5 Ocak 1922 Adana\'nın Kurtuluş Günü olarak kutlanmaktadır.
+\n\n
+ADANA\'DA NEREDE GEZİLİR?
+\n
+Akören Kalesi, Mazilik Ören Yeri ve Kalesi, Postyağbasan Kalesi, Yılankale, Feke Kalesi, Antik Magarsus Kilisesi, Amfi Tiyatro, Kozan Kalesi, Tepebağ Höyüğü, Sar Harabeleri, Kaya Kabartmaları ve tüneller arası Tarihi Köprü.
+
+Arkeoloji Tarih ve Kültür Turizmi için: Kartepe. Çevre ve Bilimsel Turizm için: Seyhan nehrinin meydana getirdiği Tuzla ve Akyatan golleriyle; Ceyhan nehrinin oluşturduğu Akyayan gölü ve Yumurtalık dalyanı. Her iki alanda önemli çevre bilimsel (ekolojik) zenginliğe sahiptir. Doğal ortamlarında az bulunan çeşitli kuşlar ile deniz ve kara canlıları yaşamaktadır. Rafting için: Tahtalı dağlarından doğan Tufanbeyli, Saimbeyli ve Feke ilçelerinde geçen aşağıda Seyhan nehrine karışarak denize dökülen Göksu ırmağı kıvrımlı güzergâhı ve uygun debisi ile rafting sporuna çok elverişlidir. Termal Turizm için: Aladağ yakınlarındaki Acısu İçmesi, Ceyhan yakınlarındaki Tahtalıköy, Kokarpmar İçmeleri, şehir merkezindeki Kurttepe, Alihocalı. Yayla Turizmi için: Tekir, Bürücek, Hamidiye, Fındıklı, Asar, Asmacık, Armutoluk, Belemedik, Kızıldağ, Meydan, Çamlıyayladır. Mağra ve Kanyon Turizmi için: Aladağ\'daki Bığbığ mağarası doğal güzelliği ile mağara turizmine, Feke\'deki Göksu ırmağının oluşturduğu vadi ise kanyon turizmine çok uygundur. Doğa Yürüyüşü (Trakking) için: Bu spor için Toroslar\'da çok sayıda güzergâh bulunmaktadır. Ancak bunların en önemlisi Pozantı ilçesinden Hamidiye köyünden başlayıp Eyner suyuna kadar olan kısmıdır. Av Turizmi için: İl sınırları içinde Toros dağlarında dağ keçisi, geyik, yaban domuzu, keklik, bıldırcın, üveyik, tavşan, yaban ördeği, yaban kazı ve benzerinin avı mevsimine göre yapılmaktadır. İlde deniz avcılığı da gelişmiştir. Yumurtalık\'ta Çamlık ve Yerkuma, Karataş\'ta Akyatan, Tuzla ve Burma boğazı dalyanlarında kefal, levrek, çupra, lagos, dil balığı, kara kulak, mercan ve karides avı ile baraj göllerinde sudak, sazan, yaym(gelebicin), yılanbalığı avı yapılmaktadır. Göl ve Su Sporları Turizmi için: Seyhan, Çatalan, baraj gölleri. İnanç Turizmi için: Adana\'da şehir merkezindeki Bebekli Küse, Saimbeyli\'deki Kale Kilise (Kara Kilise), Şar\'daki Antik Kilise ve Kent kalıntıları, Aladağ\'daki Akören Kilisesi inanç turizmi bakımından önemli yerlerdir.
+\n\n
+ADANA\'DA NE YENİLİR?\n
+
+Adana kıyma kebabı, Adana kuşbaşı, içli köfte, kısır, işkembe dolması, acabekli bulgur çorbası, analı kızlı, börek çorbası, dul avrat çorbası, hayır çorbası, kara çorba, lepe, mırmirik çorbası, namaz çorbası, püsürük çorbası, rüştiye çorbası, Babagannüç, Bartavit, Ezme salata, Fette, Fettüş, haydari, muhammara, pişmiş soğan salatası, tahnli turp salatası, vartabet, arap kebabı, banduri, etli tava, gerdan paçası, cığırtlak kebabı, domatesli bulgur dolması, fıstıklı köfte, simit köfte, sini köftesi, tahinli köfte, baş kavurma, çoban böreği, acebekli bulgur pilavı, avgan pilavı, dövme pilavı, ıspanaklı bulgur pilavı, kabaklı bulgur pilavı, kelleli bulgur pilavı, kömeç lepesi, nohutlu etli bulgur pilavı, tavuklu perde pilavı, ıspanaklı tandır böreği, muska böreği, sıkma, şiş börek, yufka ekmek.
+\n\n
+ADANA\'NIN ÜNLÜ İÇECEK VE YİYECEKLERİ NELERDİR?\n
+
+Şalgam  suyu, aşlama (meyan kökü), yayık ayranı.
+
+Taş Kadayıf, adana tatlısı, meyve ezmesi, portakallı gül tatlısı, karakuş tatlısı, nemse tatlısı, halka tatlısı (Adana Burması) ve bici-bici\'dir.
+\n\n
+ADANA\'DA NEREDE YEMEK YENİLİR?\n
+
+Adana Seyhan\'daki Büyük Fırat adlı Restaurant tavsiye edebileceğimiz mekânlardandır. Adananın İlk Et Lokantası ve Konya Fırın Lezzetini tadabileceğiniz tek adres Ünal Et Lokantası, Adananın ilk tam teşekküllü, her çeşit balık lezzetini tadabileceğiniz Akoluk balıkçı barınağı, Adana Kebabının en lezzetlisini ve hizmetin kalitesini tatmak için Hasan Usta Kebap Restoranları, \'İskender\' menüsü ile Törem Kafe ve Restoranları.
+\n\n
+ADANA HALKI NE ÜRETİR?\n
+
+Adana\'ya Türkiye\'nin tahıl ambarı da diyebiliriz. Tarımsal Ürünler; Pamuk, buğday, patates, soya, mısır, yer fıstığı, portakal, mandalina, domates, karpuz, susam, kavun, arpa, yulaf, şeker kamışı, üzüm, incir, tütün, pirinç. Adana Sanayi; tekstil sanayi, gıda sanayi, tarım ve inşaat makineleri sanayi, makine ve yedek parça sanayi, taş ve toprağa dayalı sanayi, başlıca sanayi dallarıdır.</item>
+
+        <item>ADIYAMAN\'IN PLAKASI: 02 \n\n
+
+ADIYAMAN\'IN NÜFUSU: 582,762\n\n
+
+ADIYAMAN\'IN İLÇELERİ: Çelikhan, Gerger, Kâhta, Gölbaşı, Besni, Samsat, Sincik ve Tut.
+\n\n
+ADIYAMAN\'IN TARİHİ DOKUSUNDA NELER VARDIR?\n
+
+Adıyaman ve çevresinde yapılan arkeolojik kazılar ve yüzey araştırmaları bu şehrin tarihinin paleolitik döneme kadar uzandığım göstermiştir. İnsanlık âleminin Toplayıcılık ve Avcılık Dönemi adını verdiğimiz kültür evresinin de izlerini taşıyan, büyük medeniyetlere beşiklik eden Adıyaman, 100 yıldan bu yana dünya arkeologlarını meşgul eden bir araştırma alanı hâline gelmiştir. Adıyaman ve çevresinin tarihî zenginliklerinin eskiden beri bilinmesi, bölgenin son yüzyıllarda birçok yerli ve yabancı bilim adamı, seyyah tarafından araştırılmasına vesile olmuştur.
+\n\n
+ADIYAMAN\'DA NEREDE GEZİLİR?\n
+
+Nemrut Dağı, Arsameia ören yeri, Yeni Kale (Kâhta), Derik Kutsal Alanı (Sincik), Gerger Kalesi (Gerger), Perra Antik Kenti (Örenli), Karakuş Tümülüsü, Sofraz Tümülüsü (Sofraz Beldesi), Sesönk Dikilitaş (Besni), Karadağ Tümülüsü, Beş Tepeler (Ilıcak Köyü), Haydaran Kaya Mezarları (Taşgedik Köyü), Turuş Kaya Mezarları, Gümüşkaya Mezarları.
+\n\n
+ADIYAMAN\'DA NE YENİLİR?\n
+
+Döme çorbası, pıtpıtı çorbası, parmak kebap, dolma-sarma, yeşil fasulye sulusu, kavurmalı sıcak köfte, kel köfte, dolmalı köfte, yapıştırma, pirpirim salatası, mercimekli pilav, domatesli pilav, basma köfte, çağala aşı.
+
+Ünlü Tatlılar:Tene helvası, nişe bulamacı, heside, kesme, kaşık tatlısı.
+\n\n
+ADIYAMAN\'DA NEREDE YEMEK YENİLİR?\n
+
+Adıyaman merkezde bulunan Yeni Osmanoğlu Lokantası Yöresel yemeklerin yenilebileceği bir yerdir.
+\n\n
+ADIYAMAN\'DA NE ÜRETİLİR?
+\n
+Tekstil sanayi, gıda sektörü, kimya sanayi, metal sanayi, ağaç ve plastik sanayi. Bunun yanında tarımsal ürünler olarak şunları sayabiliriz; buğday, kırmızı mercimek, pamuk, tütün, arpa, çeltik, mısır, nohut, kuru fasulye, şeker pancarı, susam, kuru soğan ve kuru sarımsak.</item>
+
+        <item>AFYONKARAHİSAR\'IN PLAKASI: 03\n\n
+
+AFYONKARAHİSAR\'IN NÜFUSU: 701,572 \n\n
+
+AFYONKARAHİSAR\'IN İLÇELERİ: Başmakçı, Bayat, Bolvadin, Çay, Çobanlar, Dazkırı, Dinar, Emirdağ, Evciler, Hocalar, İhsaniye, İscehisar, Kızılören, Sandıklı, Sincanlı, Sultandağı, Şuhut.
+
+\n\n
+AFYONKARAHİSAR\'IN TARİHİ DOKUSUNDA NELER VARDIR?\n
+
+Afyon M.Ö. 3000 yılından itibaren yerleşim yeri olarak önem kazanmıştır. Tarih içerisinde birçok uygarlık bu topraklar üzerinde hüküm sürmüştür. Yaklaşık 5 bin yıllık bilinen tarihimizde Hitit, Frig, Yunan, Roma, Bizans, Selçuklu, Osmanlı yönetiminde kalmıştır. Ayrıca Afyon, Ege Bölgesi\'ndeki sivil direnişin temel taşlarından biri olan Afyon Kongresi\'ni gerçekleştirmekle, Doğu\'da yapılan kongrelerle Batı\'da yapılan kongrelerin birleşmesini sağlamış,  iki bölge arasında çıkması muhtemel çekişmeleri bu toplantıyla önlenmiştir.
+\n\n
+AFYONKARAHİSAR\'DA NEREDE GEZİLİR?\n
+
+Birçok kaplıcanın yanı sıra, Afyon Kalesi, Kocatepe, İmaret Camii, Zafer Müzesi, Ayazin, Aladağ kanyonu ve ATATÜRK Kültür Merkezi.
+\n\n
+AFYONKARAHİSAR\'DA NE YENİR?\n
+
+Göçe köfte, cimcik hamuraşı, patlıcan böreği, sakala çarpan çorbası, afyon salatası, ramazan kebabı, paça 3, çullama köfte, duvaklı hindi, bamya, düğülü yaprak sarması, ilibada dolması, maydanoz musakka, haşhaşlı bulgur pilavı, Özbek pilavı, ağzı açık börek, crzdırma, haşhaşlı börek, haşhaşlı lokul, kedikülümbe.
+
+Ünlü Tatlılar:kaymaklı ekmek kadayıfı, pişi, güllaç, kaymaklı elma tatlısı, arabası.
+\n\n
+AFYONKARAHİSAR\'DA NEREDE YEMEK YENİR?\n
+
+Afyon merkezde bulunan Hisar Kebap Afyon yemeklerinin yenebileceği bir mekândır.
+\n\n
+AFYONKARAHİSAR\'DA NE ÜRETİLİR?\n
+
+Kaymak, kaymaklı şeker, sucuk, lokum. Mermer işleme. Bunun yanında makarna, un, yem, tuğla, yağ ve lâstik, Afyon ekonomisine önemli katkılar sağlar.</item>
+        <item>AĞRI\'NIN PLAKASI:  04 \n\n
+
+AĞRI\'NIN NÜFUSU: 530,879 \n\n
+
+AĞRI\'NIN İLÇELERİ: Eleşkirt, Taşlıçay, Diyadin, Doğubayazıt, Hamur, Tutak ve Patnos.\n\n
+
+AĞRI\'NIN TARİHİ DOKUSUNDA NELER VARDIR?\n
+
+Ağrı ili tarih boyunca birçok medeniyetlere ev sahipliği yapmıştır. Hititler, Hurriler, Urartular, Kimmerler, Asurlular, Medler, Persler. Bölgeye gelen ilk Türkler Sakalardır. Bölge Hz. Osman zamanında İslâm orduları tarafından fethedilmiştir. Abbasilere kadar Müslümanların elinde kalan bölge, daha sonra Bizans kontrolüne geçmiştir. 1071 Malazgirt savaşı sonrası bölgeye Türk boyları gelmeye başlamıştır. Ermenilerin harekete geçmeleri, 93 ve Birinci Dünya Savaşları sırasında hızlandı. Rusya savaş öncelerinde Ermenileri kışkırtmış ve parlak bir gelecek vaat ederek, halkımızı katlettirmiştir. Rusya, ABD, Fransa ve İngiltere\'nin desteğini alan Ermeniler, devlet kurma hevesine kapılıp yüzyıllarca birlikte yaşadıkları Müslümanları katletmeye başlayınca, Osmanlı Devleti bazı tedbirler almak zorunda kaldı.
+\n\n
+AĞRI\'DA NEREDE GEZİLİR?\n
+
+Doğu Beyazıt Kalesi, Beyazıt Eski Camii, Diyadin Kalesi, Avni Kalesi, Ma Mağaraları, İshakpaşa Sarayı, Aznavur Tepe, Tokluca Kalesi, Üç Kilise, Ağrı Dağı, Kızıl Ziyaret Kalesi, Hamur Kümbeti ve Karagöz Kilisesi.
+\n\n
+AĞRI\'DA NE YENİLİR:?\n
+
+Ayran aşı, kesme aşı, saç kavurma, Abdigör köftesi, halise, haşıl, hengel, kuymak çılbır, kete, bişi, mercimekli köfte, çiriş ketesi, murtuğa, haside, keledaş, çaşır ve kuşekmeği çorbası
+\n\n
+AĞRI\'DA NEREDE YEMEK YENİR?\n
+
+Ağrı Merkezde bulunan Sultan Sofrası adlı restoran, Ağrı\'nın ünlü mekânlarındandır.
+\n\n
+AĞRI\'DA NE ÜRETİLİR? \n
+
+İlin endüstri ürünleri ve sanayi malları genellikle uzak illerden sağlanmaktadır. Belli başlı sanayi, Ağrı Şeker Fabrikası, et kombinası ve Doğu Beyazıt Yem Fabrikasıdır.</item>
+
+        <item>AMASYA 05 \n\n
+
+NÜFUSU:328,674
+\n\n
+İLÇELERİ:\nTaşova, Suluova, Merzifon, Göynücek, Gümüşhacıköy ve Hamamözü.
+\n\n
+TARİHÇESİ:\nYapılan arkeolojik çalışmalara göre, Amasya\'da ilk yerleşme M.Ö.5 bin 500 yıllarında başlayıp Hitit, Frig, Kimmer, İskit, Litya, Pers, Helenistik, Pontus, Roma, Bizans, Danişmend, Selçuklu, İlhanlı ve Osmanlı dönemlerinde de devam etmiştir. Amasya\'yı 1071 yılında Anadolu\'ya giren Alparslan\'ın komutanlarından Melik Ahmet Danişmend Gazi 1075 yıllında fethederek, burada ilk Türk hakimiyetini kurmuştur. Osmanlı döneminde Şehzadeler ili olarak bilinmiştir. İstanbul Hükümetini temsilen Bahriye nazırı Salih Paşa ile Temsil Heyeti adına Mustafa Kemal Paşa, Rauf Orbay ve Bekir Sami Bey arasında, 20-22 Ekim 1919 ?da Amasya\'da gerçekleşen görüşmelerde üç açık ve ikisi gizli olmak üzere, toplam beş protokol imzalanmıştır. Bu itibarla Amasya Türkiye Cumhuriyetimin kuruluşunda da ilk önemli adımın atıldığı yer olmuştur.
+\n\n
+NEREDE GEZİLİR:\nAmasya Kalesi, Kral Kaya Mezarları, Gökmedrese Külliyesi, Torumtay Türbesi, Burmalı Minare Camii, Bimarhâne, Borabay gölü, Çakallar ve Karakaya Mesireleri, Kızlar Sarayı, Pirler Parkı, Kaynar gölü, Terziköy Kaplıcası, Sultan Bayazıd Cami ve Şehri boydan boya kesen Yeşilırmak kıyıları.
+\n\n
+NE YENİR:\nAmasya çöreği, bakla dolması, kesme ibik çorbası, eli böğründe, toyga çorbası, sakala çarpan çorbası, çatal çorba, gale, ev yıkan, patlıcan pehli, dilber kirpiği, yeşil fasulye kavurması, Amasya misket elması, keşkek ve madımak.
+\n\n
+NEREDE YENİR:\nAmasya merkezde bulunan Beyaz Saray restoran ve Çiçek lokantası Amasya\'nın lezzetlerini tatmak için iki ayrı lezzet noktasıdır. Ayrıca Emin Efendi Konağı da önemli mekânlardan biridir.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, nohut, şekerpancarı, tütün, kuru soğan, patates, elma, şeftali, üzüm, domates, hıyar, karpuz, lahana, bal ve süt. El sanatları olarak halı-kilim dokumacılığı, iğne oyası, ağaç işleri, hasır işi, peştamal-çarşaf el dokuma ve bağlama, kırnap-halat eğirme, teneke ve semaver yapımı.</item>
+        <item>ANKARA 06\n
+\n
+NÜFUSU:4,466,756
+\n\n
+İLÇELERİ:\nAkyurt, Altındağ, Ayaş, Bala, Çankaya, Çubuk, Elmadağ, Etimesgut, Gölbaşı, Kalecik, Kazan, Keçiören, Mamak, Sincan, Yenimahalle, Beypazarı, Çamlıdere, Evren, Güdül, Haymana, Kızılcahamam, Nallıhan, Polatlı ve Şereflikoçhisar.
+\n\n
+TARİHÇESİ:\nAnkara\'da yapılan arkeolojik kazılarda paleolitik ve neolitik dönemlere ait eserlerin bulunması Ankara\'nın çok eski bir yerleşim yeri olduğunu göstermektedir. Bölgede Hitit\'ler, FrigTer, Lidya\'lılar ve Persler\'e ait kalıntılar bulunmuştur. Ovalık bir alanda kurulan ilin yüzölçümünün; yaklaşık % 50\'sini tarım alanları, % 28\'ini ormanlık ve fundalık alanlar, % 12\'sini çayır ve meralar % 10\'unu tarım dışı araziler teşkil etmektedir. İlin başlıca akarsuları; Kızılırmak, Sakarya Nehri, Ankara Çayı, Kirmir Çayı,Ova Çayı ve Balaban Çayı\'dır. Başlıca gölleri; Tuz Gölü, MoganGölü ve Eymir Gölü\'dür. Başlıca barajları; Sarıyar, Kesikköprü,Çubuk-1, Çubuk-2, Bayındır, Kurtboğazı, Çamlıdere ve Asartepe barajlarıdır.
+\n\n
+NEREDE GEZİLİR:\nAnkara Kalesi, Agustus Tapmağı, ODTÜ Müzesi, Atatürk Müzesi, Etnografya Müzesi, Ayaş Kaplıcaları, Kocatepe Camii, Hacı Bayram Veli Camii, Mehmet Akif Ersoy Evi ve Müzesi, TRT ve PTT Müzesi.
+\n\n
+NE YENİR:\nMiyane çorbası, arabası çorbası, kikirdekli çorba, sütlü tarhana çorbası, omaç çorbası, paça çorbası, yoğurt çorbası, Ankara kapaması, Ankara kebabı, fasla et, papara, tatmak tiridi, bici, kadınbudu köfte, mucirim köftesi, bici aşı, etli patlıcan tava, Ankara tavası, kelem gıydısı, pirpir, pıt pıt pilavı, Ankara ketesi, ay böreği, bohça böreği, entekke böreği, gözleme, horakayi, kaygana, köbete, ölüğün körü, pazar böreği, çir hoşafı, bal tiridi, cennet küngü, hedik, karga beyni, petçem, ala börtme, calla, sızgaç, Beypazarı kurusu ve güveç.
+\n\n
+NEREDE YENİR:\nAnkara Nallıhan\'da bulunan Köy Sofrası adlı lezzet durağında kapama pilavı ve malak makarnası denenmelidir. Ayrıca Beypazarı\'nın tarihî yemeği güveç Bostancılar çarşısındaki Tarihî Güveç Fırınında yenebilir. Ayrıca Ankara\'da Diyarbakır lezzetlerini tatmak isteyenler için, Kızılay\'da bulunana Tavacı Recep Usta önemli bir uğrak yerdir.
+\n\n
+NE ÜRETİR:\nTarımsal ürünlerde; buğday, arpa, çavdar, yulaf, çeltik, mısır, nohut, kuru fasulye, yeşil mercimek, şeker pancarı, haşhaş, ayçiçeği, soğan, sarımsak, patates, lahana, ıspanak, pırasa, taze fasulye, barbunya fasulye, hıyar, domates, biberi havuç, turp, yer elması, armut, ayva, elma, erik, iğde, kayısı, zerdali, kiraz,</item>
+        <item>ANTALYA  07        \n\n
+
+NÜFUSU:1,789,295
+\n\n
+İLÇELERİ:\n Akseki, Alanya, Elmalı, Finike, Gazipaşa, Gündoğmuş, İbradı, Kale, Kaş, Kemer, Korkuteli, Kumluca, Manavgat ve Serik\'tir.
+\n\n
+TARİHÇESİ: \nAntalya ili Türkiye\'de bugüne kadar bilinen en eski yerleşim yerlerinden birisidir. İl merkezine 20 km kuzeybatısında bulunan Karain mağarasında yapılan kazılarda, M.Ö. 2500 yılından bugüne kadar kesintisiz bir uygarlığın varlığı ortaya çıkartılmıştır. Tarihî eser kalıntılarının âdeta açık hava müzesi gibi geniş bir alanda dağılan ilimizde, tarih Öncesi, Roma, Bizans, Selçuklu ve Osmanlı imparatorluğuna ait izler yan yanadır. Birinci Dünya Savaşı sonuna kadar Osmanlı İmparatorluğunun bir sancağı olan Antalya, Sevr anlaşmasıyla kısa bir süre İtalyan işgali görmüş ve Cumhuriyet döneminde vilayet hâline gelmiştir.
+\n\n
+NEREDE GEZİLİR:\nAntalya\'nın belki de en Önemli özelliği temiz bir denize ve upuzun plajlara sahip olmasıdır. Yine deniz turizminin yanında, Antalya ilimizde dağcılık, kayak, kara ve deniz avcılığı, rafting, su altı dalışı gibi sporlar için çok uygun mekânlar mevcuttur. Antalya\'nın millî parkaları da yürüyüş sporundan hoşlananlar, kamp yapmak ve dinlenmek isteyenler için gerçekten görülmeye değer yerlerdir. Antalya şelâleleri ile de ünlü bir ilimizdir. Düden-Kurşunlu-Manavgat Şelâleleri, Dim-Damlataş-Karain Mağaraları, Olimpos-Beydağları-Köprülü Kanyon Milli Parkları, Konyaaltı - Lara-Patara Plajları, Turunçgil ve Seracılık Üretimi ile Alanya, Side, Manavgat, Kemer, Kalkan, Kaş Gibi Turizm Merkezleri, Tarihi Kale içi Evleri, Altın Portakal Film Yarışması, Kesme Çiçek Üretimi, Aspendos, Perge, Phaselis, Termessos, Olympos Antik Kentleri gezilecek yerlerdir. Gezilmeye ve görülmeye değer diğer bazı tarihî mekânlar ise; Şarapsa Kervansarayı, İotape Liman Şehri, Syedra Harabeleri, Mahmutlar Harebeleri, Alara Han, Alara Kalesi, Selçuklu Tershanesi, Kızıl Kule, Termossos, Ariassos, Karatay Medresesi ve Murat Paşa Camii\'dir.
+\n\n
+NE YENİR:\nÇorbalar: Kulaklı çorba, arabası çorbası, kelle-paça çorbası, mercimekli tarhana çorbası, pirinç çorbası, kekikli çorba, göçe çorbası, yarpızlı çorba ve yarma tarhana çorbası. Yemekler: Testi kebabı, borana, alafaşı, softalar aşı, kızartma eti, ilibada( labada) aşı, teretorlu balık, mercimekli humus, grida buğulama, gülgas, bıldırcın mıhlaması, tavuk güveci, ayva aşı, biber frigya dolması, gabuklu guru, kış kabağı dolması, hibeş, kabak çitmesi, patlıcanlı cive, saç böreği, tepsi böreği, kapama, bastarya(babacana) ve Antalya usulü piyaz. Antalya\'daki aktarlar doğal bitki ilâçlarıyla her geçen gün daha da ünlenmektedirler.
+\n\n
+Meşhur Tatlılar:\n£akşuka, lokma, kabak tatlısı, arap kadayıfı, turunç reçeli, portakal kompostosu, tutmaç, karpuz kabuğu reçeli, bergamot reçeli, kıvrım(sarı burma), pelize, kirkitle(Çivirdik) ve betsel (pestil-incir reçeli.)
+\n\n
+NEREDE YENİR:\nAntalya Özdoyum Restaurant tahinli piyazıyla ve kabak tatlısıyla meşhur bir mekândır. Antalya Kaş\'ta bulunan Lokma adlı mekân ise lokmasıyla meşhurdur. Doğanın ve yeşilin tam ortasında, zengin mönüsü açık büfe kahvaltı ve meşhur kebaplanyla Hamit Bey Kebapçısı da tercih edilebilecek mekânlardandır. Çakırlar yolu üzeri İtfaiye yanı Kepez Parkı içinde şubesi bulunmaktadır. Ayrıca Kale Kapısı mevkii Saat Kulesi yanında Meşhur İskender\'iyle hizmet veren Özdemir İskender de bulunmaktadır.
+\n\n
+NE ÜRETİR:\nTurizm, tarım ve tarıma dayalı endüstri bölgenin temel ekonomik karakterini oluşturur. Narenciye ve seracılık konuları, bölge tarımının önemli ve genel karakterini belirlemektedir.</item>
+
+        <item>ARTVİN 08
+\n\n
+NÜFUSU:168,092
+\n\n
+İLÇELERİ:\nArdanuç, Arhavi, Borçka, Hopa, Murgul, Şavşat ve Yusufeli.
+\n\n
+TARİHÇESİ:\nM.Ö.3 bin yıllarında Orta Asya\'dan göç ile gelen Türk kavimlerinden Huniler, Artvin\'e yerleştiler. Alparslan\'ın 1071 Malazgirt Zaferine kadar Türklerin Anadolu\'ya göçleri devam etti. Son olarak, Dokuz Oğuzlar 1071\'de Anadolu\'ya yerleştiler. Artvin 1071 Malazgirt Savaşından sonra Selçuklu Türklerinin eline geçti. Selçuklulardan sonra buraya sırasıyla; Moğollar, İlhanlılar, Cezayirliler, Karakoyunlular, Timurlular, Akkoyunlular ve Safeviler hakim oldu. Fatih Sultan Mehmet Han zamanında, Osmanlı Devleti sınırlarına dahil edildi. 1878 Osmanlı-Rus Savaşında, Rusya tarafından işgal edildi. 43 sene anavatandan ayrı kaldı. Türk İstiklâl Savaşında Kazım Karabekir Paşa, Ermeni ordusunu yenince, Artvin 7 Mart 1921 \'de yeniden Anavatana kavuştu.
+\n\n
+NEREDE GEZİLİR:\nArtvin (Livana) Kalesi^ Şavşat (Satlet) Kalesi, Ardanuç (Gevhernik) Kalesi, Ortacalar Merkez Camii (Arhavi), Muratlı Camii (Borçka), Esenköy Camii (Murgul), Kocabey Camii (Şavşat), Demirkent Camii(Yusufeli), İskender Paşa Camii ve Türbeleri (Ardanuç)\'dir. Altıparmak (Barhal), Manastır Kilisesi Camii (Yusufeli), Hamamlı (Dolishana), Manastır Kilisesi (Merkez), İşhan Kilisesi (Yusufeli), Yeni Rabat Kilisesi (Ardanuç), İbriga Şapeli (Borçka), Tibeti Kilisesi (Şavşat), Köprülü Kilise (Şavşat), Porta Manastır Kilisesi (Merkez) ve Dörtkilise Manastırı (Yusufeli.)
+\n\n
+NE YENİR:\nKuymak, püşürük çorbası, bişi, hınkal, helle, tutmaç, pancar, cincar, pucuko, hasuta, kaysefe, zurbiyet, lâz böreği, çergebaz, gendima, cevizli salata, herisa, şilav, soğan harşosu, çinçar çorbası ve lor çorbası.
+\n\n
+NEREDE YENİR:\nArtvin merkezde bulunan Çavıışoğlu Restaurant buradaki lezzet noktamızdır.
+\n\n
+NE ÜRETİR:\nArtvin\'de en çok çay, patates, buğday, mısır, arpa, fasulye, soğan, tütün, pirinç; meyve olarak da; fındık, portakal, mandalina, elma, armut, üzüm, ceviz, kestane, kiraz, vişne, şeftali, erik ve kayısı yetişir. Orman ürünleri; kızılağaç, kayın, gürgen, meşe, kestane, ladin, köknar, ardıç ve sarıçam bulunur.</item>
+        <item>
+AYDIN  09   \n\n
+
+NÜFÛSU: 946,971
+\n\n
+İLÇELERİ:\nMerkez, Bozdoğan, Buharkent, Çine, Didim, Germencik, İncirliova, Karacasu, Karpuzlu, Köşk, Kuşadası, Kuyucak, Nazilli, Söke, Sultanhisar ve Yenipazar.
+\n\n
+TARİHÇESİ:\nAydın, tarihinin bilinen devirlerinden beri çeşitli uygarlıklara merkez olmuştur. Bu topraklar sırasıyla Frigya, Lidya, Pers, Roma, Bizans çağlarını yaşamış, daha sonra 1171-1270 yılları arasında Selçuklular, 1270-1307 yılları arasında Menteşeoğulları, 1307-1390 yıllan arsında Aydınoğulları, 1390-1922 yıllan arasında Osmanlı dönemini yaşamıştır. 1850 yılına kadar eyalet bu tarihten sonra İzmir\'e bağlı sancak olmuştur. Yunanlılar, 26 Mayıs\'ta Germencik ve İncirliova\'yı, 27 Mayıs 1919\'da da Aydın\'ı işgal ettiler. İlk millî direniş Çine\'deki 57.Tümen Komutanı Albay Şerik Aker ile Yörük Ali Efe\'nin mutabakatının ardından, Yörük Ali Efe \'nin 17 kişilik grubuyla ilk olarak Sultanhisar yakınındaki Malgaç Köprüsünde bulunan Yunan askerlerine baskın düzenlemesiyle başladı ve 30 Haziran\'da düşman, Aydın dışına atıldı. 4 Temmuz\'da şehir tekrar Yunan işgaline maruz kaldı. 26 Ağustos 1922\'de Büyük Taarruz başladı. Yunanlılar ve Rumlar kaçarken tüm köy ve kasabaları ateşe verdiler.
+\n\n
+NEREDE GEZİLİR:\nAprodisias, Alabanda (Çine), Gerga (Çine), Myus, Nysa (Sultanhisar), Orthosia (Yenipazar), Akharaka (Sultanhisar), Sardes, Milet ve Aphorodisias Müzesi.
+\n\n
+NE YENİR:\nTarhana çorbası, kulak çorbası, acılı güveç, zeytinyağlı kırla kızartma, zeytinyağlı taze ve kuru börülce, sarmaşık ve kedirgen kavurma, nohutlu kereviz, etli enginar, Arap saçı, paşa böreği, pilav, pelvize tatlısı, yuvarlama, ısırganotu böreği, ebegümeci kavurması, avukma, bıyık, gelin turşusu, patates püre salatası, tulum peynirli domates, yalancı kuzu dolması, barbunca balığı sulu kızartması, çöp kebabı, kâğıt kebabı, karışık ot kavurması, midyeli lahana böreği ve incir reçeli.
+\n\n
+NEREDE YENİR:\nAydın\'ın Bozdoğan beldesindeki Mikado pide salonunda yapılan pidelerin tadına bakmadan geçilmez. Aydın Çine\'deki Köfteci Dede \'nin köfteleri ve çöp şişi yemeye değer.
+\n\n
+NE ÜRETİR:\nPamuk, incir, kestane, el dokuma mamulleri (hah, kilim, vs.)</item>
+        <item>BALIKESİR 10\n\n
+
+NÜFUSU:1,118.313
+\n\n
+İLÇELERİ:  \nAyvalık,   Balya,   Bandırma,   Balgadiç,  Burhaniye, Edremit, Erdek, Gömeç, Gönen, Havran, İvrindi, Kepsut, Manyas, Marmara, Savaştepe, Sındırgı ve Susurluk.
+\n\n
+TARİHÇESİ:\nBalıkesir ve çevresinde bulunan pek çok höyük,      . iskan edilmiş mağara ve düz yerleşim yerlerinde yapılan araştırmalarda ele geçen bulgular, buralarda bilinmeyen çok eski      \' zamanlarda M.Ö.8000-3000 yılları arasında yerleşilmiş olduğunu ortaya koymaktadır. 4. Truva döneminde (M.Ö. 1800-1250) Antik) Çağda İda diye anılan Kaz dağlan eteklerinde geçen efsanevî Truva savaşları bölge halkını da derinden etkilemiştir. 1071 Malazgirt zaferiyle Anadolu\'nun kapıları Türklere, bir daha kapanmamak üzere açıldı. 1080\'de Süleyman Şah Kyzikos\'u ele geçirdi. 1081\'de Ulubat gölü kıyısında Bizans ordusu yok edildi..
+\n\n
+NEREDE GEZİLİR:\nBalıkesir\'in tamamında birçok tarihî eser ve kalıntıları vardır. Saat kulesi bunların başta gelenlerindendir. Hemen hemen bütün ilçeleri görülmeye değerdir. Ayrıca kaplıcaları ve içmeceleri de çok meşhurdur.
+\n\n
+NE YENİR:\nKaymak hamuru, tirit, tavuklu mantı, kapama, metez, sura, saçaklı mantı, peynirli patlıcan, börülce ekşilemesi, hamur çorbası, Erdek havyan, yumurta dolması, soslu fileto balık, soslu uskumru, dağar kebabı, yoğurtlu et ve kırmızıbiberli börülce.
+\n\n
+Ünlü Tatlılar:\nBalıkesir kaymaklısı, höşmerim, mafiş tatlısı, zerde tatlısı, kalçunya.
+\n\n
+NEREDE YENİR:\nBalıkesir\'in merkezindeki Millî Kuvvetler caddesinde Onur lokantasında yöresel yemeklerin yanı sıra Osmanlı mutfağından lezzetler denenebilir.
+\n\n
+NE ÜRETİR:\nBalıkesir sanayi bakımından gelişmiş illerimizdendir. Başlıca sanayi tesisleri; zeytinyağı ve sabun, meyve, sebze ve balık konserve, pamuklu dokuma ve iplik, şeker, çimento, gübre, sülfürik asit, boraks ve asit, kâğıt, un, yem, süt, deri ve çorap, jeneratör, kereste ve mobilya fabrikaları ile birçok atölye mevcuttur. Yeni fabrika kurulmaya da devam edilmektedir. Tarımsal ürünler olarak ilimizde zeytin, narenciye, incir, pamuk, elma, armut, ayva, üzüm, buğday, arpa, mısır, yulaf, pancar, tütün, ayçiçeği, susam ve pirinç yetiştirilmektedir.</item>
+        <item>BİLECİK 11\n\n
+
+NÜFUSU:203,711
+\n\n
+İLÇELERİ:\nBozüyük, Gölpazarı, İnhisar, Osmaneli, Pazaryeri, Söğüt ve Yenipazar.
+\n\n
+TARİHÇESİ:\nBilecik\'te ilk yerleşim M.Ö. 3 binden öncedir. Anadolu\'da Tunç çağına geçiş sürecinde önemli bir yeri olan Bilecik\'ten M.Ö. 3000\'lerde tunç yapımı için kalay çıkarıldığı bilinmektedir. Bölgede yaşamış kavimler arasında Mısırlılar, Hititler, Frigler, Kimmerler, Lidyalılar, Persler, Makedonlar, Romalılar, Bizanslılar, Emevileri ve Abbasileri sayabiliriz. Ertuğrul gazinin ölümünden sonra Kayı boyunun başına Osman gazi geçti. Bilecik halkı Kurtuluş Savaşma tüm varlığı ile katılmış, gerek milis kuvvetleri ve gerekse düzenli ordularımıza on binlerce evlâdım vermiştir. Bilecik, Kurtuluş Savaşından yanmış-yıkılmış, tam bir enkaz hâlinde çıkmıştır. 1920\'lerde 12.000 olduğu tahmin edilen şehir nüfusu, savaştan sonra 4.000\'e inmiştir. Savaştan önce Bilecik bölgenin en önemli ipek endüstrisi merkeziydi. Şehirde çok sayıda ipekçilik tesisi ve ipek kadife üreten fabrika bulunuyordu. Ancak, Yunanlıların çıkardığı intikam yangınlarında bu fabrika ve tesislerin tümü yanmıştır.
+\n\n
+NEREDE GEZİLİR:\nSöğüt Müzesi, Kömür su yaylası, Çiçekli yaylası, Kamçı yaylası, Sofular yaylası, Osmaneli içmeceleri, Söğüt Çaltı kaplıcası, Zincirli Kayalar, Kınık ve Yukarı Çaylı şelâlesi.
+\n\n
+NE YENİR:\nBükme, hodalak, pide, yalancı tarhana, kuskus, keklik kebabı, piruhi, samsı, ovmaç çorbası, mercimekli mantı, kesme hamur, yağlı yufka, zırz salatası, balık dolması, parmak köftesi, bıldırcın kebabı tavuk kapaması. Ünlü Tatlılar: Köpük helvası, şıra helvası, boza, pancar pekmezi.
+\n\n
+NE ÜRETİR:\nBilecik ilinin başlıca tarım ürünleri buğday, baklagiller, mısır, nohut, fasulye, şeker pancarı, ayçiçeği, barbunya, havuç, domates, patlıcan ve şerbetçi otudur. Beylerce üzümü, nar, erik, ayva, kiraz ve muşmulası meşhurdur. İpekböcekçiliği son yıllarda gelişmektedir. Başlıca sanayi; yem fabrikaları, seramik fabrikaları, şofben ve radyatör üreten demir döküm fabrikaları, kâğıt fabrikaları, su tesisatı malzemeleri üreten fabrikalar, vinyleks halı ve yer döşeme fabrikası, bisküvi fabrikası, ipekli dokuma fabrikaları, defter fabrikası, ambalaj kâğıdı fabrikalarını sayabiliriz. El sanatları: Bölgede ipek ve kadife işletmeciliği kilim ve heybe dokumacılığı ileridir.</item>
+        <item>BİNGÖL 12
+\n\n
+NÜFUSU:251,552
+\n\n
+İLÇELERİ:\nAdaklı, Genç, Karlıova, Kiği, Solhan, Yayladere ve Yedi su.
+\n\n
+TARİHÇESİ:\nTarih boyunca çeşitli medeniyetlerin etkisinde kalan il, İslâm kaynaklarında Cebel-u Cur adıyla geçmektedir. Bingöl\'ün tarihi M.Ö. 2000 yıllarına dayanmaktadır. Çapçakur Beylerinden Süleyman Bey Osmanlıların egemenliğini kabul ederek, Çapçakur (Bingöl) 1514\'de Osmanlılılara bağlanmıştır.l914\'de 1. Dünya Savaşında Ruslar Doğu Anadolu\'da hızla ilerlemeye başladılar. Bu, ilerleyiş esnasında Bingöl\'ü işgal ettiler. Bunlara karşı Kiğı ve Karir dağlarında Sığı boğazından Eşek Meydanı\'na kadar uzanan alanda bir savunma cephesi kuruldu. Cephede yoğun çarpışmalar olmuş Rus birlikleri çok zaiyat vermiştir. 1917 devriminde çarlık yıkılınca iktidara gelen savaştan çekilmesiyle birliklerini de bu bölgelerden çekmişlerdir.
+\n\n
+NEREDE GEZİLİR:\nKral kızı kalesi, Sbeterias kalesi, Kiğı kalesi, Yüzen ada, Kös kaplıcaları, Çur şelâlesi, Kültür Parkı
+\n\n
+NE YENİR:\nTutmaç çorbası, jorinapel, keldaş, sac kavurma, kurt Mustafa, mastuva, köme, sır ve dur pekmezi.
+\n\n
+NEREDE  YENİR:  \n Bingöl\'deki  lezzet noktamız  merkezdeki Restaurant 2000.
+\n\n
+NE ÜRETİR:\nHayvancılık ve hayvansal ürünler, el dokumaları.</item>
+        <item>BİTLİS 13\n\n
+
+NÜFUSU:327,886
+\n\n
+İLÇELERİ:   \nAhlat,  Tatvan,  Adilcevaz,  Güroymak,  Hizan  ve Mutki.
+\n\n
+TARİHÇESİ:\nGeçmişi M.Ö. 2000\'li yıllara dayanan bir yerleşim merkezi olan Bitlis il sınırları içinde Urartu, Pers, Makedonya krallığı Roma ve Bizans dönemine ait izlere rastlanmaktadır. Halife Hz.Ömer zamanında (641) İslâm\'la tanışan Bitlis Emeviler, Abbasiler, Mervaniler yönetiminde kalmıştır.1537 tarihli bir icmal defterinde Bitlis çevresindeki Tatvan, Ahlat, Muş, Bulanık ve Hıns nahiyeleri kendine bağlı olan bir Osmanlı ili olarak gösterilmektedir. Bitlis 17, 18 ve 19. yy.da bölgenin sanat ve kültür merkezi olmuştur. Dönemin medrese,  cami,  külliye,  han, hamam,  gibi yapıları bugün ilin geçmişteki o parlak döneminin delili olarak ayakta durmaktadır.
+\n\n
+NEREDE GEZİLİR:\nNemrut Dağı ve krater gölü, Ahlat Müzesi, Ulu Cami, Bitlis Kalesi, Tatvan Kalesi, Emir Ali Kümbeti, Kührevi Türbesi, Ahlat Selçuklu Mezarlığı, Küllüce, Ahlat Harabe şehri.
+\n\n
+NE YENİR:\n Mastaba çorbası, kurti çorbası, piçoş aşı, büryan kebabı, içli köfte, yalancı köfte, kendir pilavı, katıklı dolma, çorti taplemesi, şekalok yemeği, çorti köftesi, gari aşı, glorik, gebol, çireş pancarı, kengerli pilav, etli keşkek, cacık ve ciğer taplaması.
+\n\n
+Ünlü Tatlılar:\nHalbur hurması, şeker helvası.
+\n\n
+NEREDE   YENİR:   \nBitlis   merkezde   bulunan   birkaç   lezzet noktasının isimleri: Mavi Köşk lokantası, Mermut Restaurant ve Yalı Restaurant’tır.
+\n\n
+NE ÜRETİR:\nBirinci sırayı buğday alır. Sulu tarım ürünlerini ise sırasıyla şeker pancarı ve tütün oluşturur. Bunun dışında hayvancılığın geniş çapta yapılması dolayısıyla yem bitkileri üretimi de önemli yer tutar. Bunu yanında ceviz ve bal üretimi de önemli bir yer tutar. Diğer üretilen tarımsal ürünler ise şunlardır; çavdar, fasulye, soğan, patates, lahana, kavun, karpuz, patlıcan, domates, biber, armut, elma, kiraz, vişne, dut üretimi de ilin ekonomisi açısından önemli bir yer tutar. El sanatları; bastonculuk, halıcılık, kilimcilik, çömlekçilik, iğne ve boncuk oyası.</item>
+        <item>BOLU 14\n
+\n
+NÜFUSU:270, 417
+\n\n
+İLÇELERİ:\nMerkez, Çilimli, Dörtdivan, Gerede, Göynük, Kıbrısçık, Mengen, Mudurnu ve Seben.
+\n\n
+TARİHÇESİ:\nBolu tarihinin her devresinde ilgi çeken yörelerden olmuştur. Hitit İmparatorluğu\'nun tarihe karışmasından sonra, Anadolu güç dengeleri değişti. Phyrig ve Bithynlerden önce de Bebryler, Mariandyler, Koukonesler, Thynler ve Paphlagonlar Bolu yöresinin ilk ahalisini teşkil ettiler. Lydler, Persler de Bolu\'da hakim topluluklardı. Helenler başka kültür ve görüşü Bolu\'ya taşıdılar. Bithynhlerden sonra, yöre halkı bu defa Romalılara boyun eğdi. Helenleşmenin yerini bu defa Latinleşme aldı. Tanzimat ve Islahat uygulamaları Bolu\'da aksiliklerini buldu. Bolu idarî değişikliklere de sahne oldu. Kastamonu vilayetinin bir sancağı, sonra müstakil Bolu sancağı şeklinde getirildi. İzmir\'in Yunanlılarca işgali üzerine Bolu basınında kamyonunda tepkileri ortaya çıktı. Redd-i İlhak Cemiyetinin paralelinde toplantılar düzenlenerek, Yunanlılar arkasındaki İtilaf Devletleri kınandı. Muhtemel bir Yunan işgali Düzce ve Bolu\'da yaşanmadı. Bolu, Sakarya meydan Savaşı, Kütahya mücadelesi ve Afyonkarahisar dolaylarındaki ölüm kalım savaşlarına insanca yardımlarda bulundu.
+\n\n
+NEREDE GEZİLİR:\nYedigöller Millî Parkı, Kartalkaya, Şifalı Su ve Sünnet Gölü, Abant Gölü, Gölcük, Gölköy baraj gölü, Antinoos Tapınağı, Akşemseddin Türbesi, Gazi Süleyman Paşa Camisi, Konuralp Roma Tiyatrosu.
+\n\n
+NE YENİR:\nKabaklı gözleme, kedi batmaz, Bakla çorbası, Oğmaç çorbası, Göynük\'ün şeker fasulyesi, Mengen\'in peyniri ve pilavı, yoğurtlu bakla çorbası, imaret çorbası, acı su bazlamacı, çantıklı pide, orman kebabı, kaldırık dolması, çılbır, Kanlıca mantarlı kuzu kavurması, kaşık sapı, keşli cevizli erişte, kaşık atmaç, bakla çullaması, paşa pilavı, kabak hoşafı, palize, coş hoşafı, karavul şerbeti, kızılcık şurubu.
+\n\n
+Ünlü Tatlılar:\nFındık şekeri, çikolatası, çam balı, kaymağı, Bolu Beyi tatlısı, uğut tatlısı, saray helvası, 40 katlı cevizli ev baklavası, köpük helvası, Seben\'in elması ve üzümü.
+\n\n
+NEREDE YENİR:\nOtel Yurdaer Mutfak Sanatları Merkezi tarihî bir mekân olup, en iyi Bolu aşçılarının yetiştiği bir lezzet durağımızdır. Burada 100-150 civarında yemek çeşidi bulunur. Ayrıca yolu Bolu dağından geçenler için Berceste adlı yer meşhur Bolu dağı sahanda yumurtası, ızgara çeşitleri ve diğer yemek çeşitleriyle hizmet veren bir mekândır.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, yulaf, çeltik, mısır, nohut, fasulye, fiğ, burçak, tütün, şeker pancarı ve şeker pancarı tohumu, patates. Ayrıca Bolu\'da faaliyette bulunan önemli sanayi dalları gıda, orman ürünleri ve mobilya, metal eşya ve makine, dokuma-giyim eşya, deri ve kâğıt sektörleridir.</item>
+        <item>BURDUR  15
+\n\n
+NÜFUSU:251,181
+\n\n
+İLÇELERİ:\nAğlasan, Bucak, Gölhisar, Karamanlı, Kemer, Tefenni, Yeşilova, Çavdır, Altınyayla ve Çeltikçi.
+\n\n
+TARİHÇESİ:\nTarih öncesi devirlerden itibaren Burdur ve çevresi yerleşim sahası olarak görülmektedir. Burdur\'un Hacılar köyünde yapılan kazılar, buradaki yerleşim M.Ö. 7 bin yılma kadar uzandığını göstermektedir. Friglerin, Lidyalılarııı, Perslerin, Makedonların, Bergama krallığının, Roma\'nın, Bizans\'ın, hâkimiyetinde kalan bölgeyi, 1071 Malazgirt zaferinden kısa bir süre sonra Kutalmışoğlu Süleyman Şah ele geçirdi. Cepheye çok sayıda gönüllünün yanı sıra, silah, cephane, yiyecek ve giyecek göndermişlerdir. 1920\'de toplanan Büyük   Millet   Meclisi\'ne   Burdur\'dan   ünlü   kişiler katılmıştır. En ünlüsü ise; İstiklal Marşı\'nın Şairi Mehmet Akif Ersoy\'dur.
+\n\n
+NEREDE GEZİLİR:\nİnsuyu Mağarası, Salda Gölü, Aziziye Ormanları, Tymbrianassos, Sagalassos, Kremna ve Kibyra Eskiçağ Kentleri, Burdur Ulu camisi, Şeyh Sinan ve Taş Camileri, Baltaoğlu, Tabak Hamamları, İncir Kervansarayı ve Burdur Müzesi.
+\n\n
+NE YENİR:\nTesti kebabı, düğürcük, şiş köfte, Bucak nohudu ve bucak fasulyesi.
+\n\n
+Ünlü Tatlılar: \nKabak helvası, ceviz ezmesi, ceviz helvası, burdur muhallebisi, Karaaliler kavunu ve beyler kavunu.
+\n\n
+NEREDE YENİR:\nBurdur Gazi caddesinde bulunan Özsarı Kebap Salonu şehrin lezzet noktalarından biridir. Kebaplarıyla tanınan bu mekân, şiş köftesiyle de meşhur.
+\n\n
+NE ÜRETİR:\nBurdur\'da tarımsal ürünlerde buğday arpa ilk sırayı alır. Bunu yanında şeker pancarı, haşhaş, tütün, anason, yer fıstığı, üzüm, gül yağı için yetiştirilen gül. Sanayi kolları ise şeker fabrikası, et kombinası, sütlü maddeler yapımı, un fabrikalarıdır. El sanatları; halıcılık, kilim dokumacılığı, bakırcılık, hasır dokumacılığı ve dericilik.</item>
+        <item>BURSA  16   \n
+\n
+NÜFUSU:2, 439,876
+\n\n
+İLÇELERİ:\nOsmangazi, Nilüfer, Yıldırım, Büyükorhan, Gemlik, Gürsu, Harmancık, İnegöl, İznik, Karacabey, Keleş, Kestel, Mudanya, Mustafa Kemal Paşa, Orhaneli, Orhangazi ve Yenişehir.
+\n\n
+TARİHÇESİ:\nGünümüzden yaklaşık 5 bin yıl önce insanların yerleştiği bu topraklarda M.Ö. 7. yüzyılda Trakya\'da Strümon nehri kenarmda oturan Bitynler ve akrabaları Tnyniler İskit saldırılarına karşı koyamayınca, göç ederek kuzeybatı Anadolu\'ya göç yerleşirler. Bu verimli topraklara Bitynia adını verirler. Prusa (Bursa) 1204-1261 yılları arasında Nikaia (İznik)\'a bağlı, genelde kale içinde kalmış, fazla büyüyememiştir. Selçuk İmparatorluğu\'nun zayıflayıp dağılmaya başlamasıyla kurulan Anadolu Beylikleri içinde zamanla gelişen Osmanlı Beyliği çevredeki TekfurTarın arazilerini de alarak güçlenmiştir. Bursa 1307 yılında Osman Bey tarafından kuşatılmış, 6 Nisan 1326\'da Osman Bey\'in oğlu Orhan Bey şehri zapt etmiştir.
+\n\n
+NEREDE GEZİLİR:\nUludağ Kayak Merkezi, mesire yerleri, Irganda Köprüsü, Yıldırım Külliyesi, Emirsultan Cami ve Türbesi, Osmangazi Türbesi, Yeşil Türbe, Yeşil Medrese, Ulu Cami, Arkeolji Müzesi, Türk İslâm Eserleri Müzesi, Atatürk Müzesi, Osmanlı Müzesi. İshak Paşa Külliyesi, Kasım Efendi Cami si, Yıldırım Hamamı, Beylik Han (Cafer Paşa Hanı), Tacü\'n-nisa Sultan Hatun Türbesi ve İshak Paşa Mezarı, Sungur Paşa Köyündeki Türbe, Oylat Kaplıcaları, Kilise Camisi, Oylat Mağarası ve Karaca Bey Kervansarayı gelmektedir.
+\n\n
+NE YENİR:\nİskender Kebabı, İnegöl Köftesi, Cantık pidesi, kaba köfte, Pideli Köftesi, ekşili baş çorbası, etli gavata, kestaneli etli lahana dolması; mısır unu sarması, lâlezar, ayva galyası, çardak kebabı, etli erik yemeği, kestane yemeği, paça, güvercin bunu, ayva bastı, bezelye kavurması, kereviz yemeği, sahan böreği, kaşarlı pırasa, patlıcan silkmesi, Yörük kebabı, yufkalı hindi, ciğer sarması, dızmana, hamur bamyası.
+\n\n
+Ünlü Tatlılar:\nKemalpaşa tatlısı, Cennet köşkü, haşlama tatlısı, kadı boğan, sütlü Bursa helvası, dilberdudağı, incir dolması, zerde, kaymaçina, asude, kestanesi şekeri ve Bağdat hurması.
+\n\n
+NEREDE YENİR:\n
+
+Kayhan Pideli Köfte meşhur cantık pidesinin ve pideli köftenin denenebileceği nezih mekânlardan biridir. Elite Park Restaurant (Yeni Mudanya yolu) Lâlezar; bir lokanta kıvamında olan Lâlezar\' da ise Türk yemeklerinin birçok çeşidi bulunup denenebilir. Orhan Köfte, Zeynel Köfte, Besler, Yayla Sofrası (İnegöl Köfte.)
+
+Bağdat Hurmacısı: Bağdat hurma tatlısını yapan en meşhur tatlıcıdır. Bursa Iskenderci: İskender\'i keşfeden İskender İskenderoğlu\'nun torunlarının işlettiği bu mekânı Bursa\'nın çeşitli bölgelerinde bulmanız mümkün.
+\n\n
+NE ÜRETİR:\nHer türlü tarım ürünü, bal, ipek. Çok gelişmiş bir sanayi bölgesidir.</item>
+        <item>ÇANAKKALE  17\n\n
+
+NÜFUSU:476,128
+\n\n
+İLÇELERİ:\nAyvacık, Biga, Bayramiç, Bozcaada, Çan, Eceabat, Ezine, Gelibolu, Gökçeada, Lapseki ve Yenice.
+\n\n
+TARİHÇESİ:\nEski çağlarda Hellespontos ve Dardanel olarak anılan Çanakkale M.Ö. 3000 yılından beri yerleşim alam niteliğini korumuştur. Yörenin en eski halkı Beşiktepe ve Kumtepe yerleşmelerinden bilinen Kalkolitik Dönemin yerli halkıdır. Bunları, İ.Ö. 3000\'lerden 1200\'lere kadar hayatlarını sürdüren Troya halkı izler. Bundan sonra sırasıyla Troya savaşları ile Akalar, Ege göçleri ile çeşitli kavimler gelmiştir. Bölgenin Bizans\'a bağlanmasından sonra, Osmanlılar 1353 tarihinde Avrupa yakasına geçmişlerdir.  Avrupa  yakasındaki  kaleye  "Kilitbahir"  denmiş. Anadolu yakasındaki kaleye ise "Çanak Kalesi" adı verilerek, bugünkü şehrin kuruluşuna başlangıç olmuştur.1915 yılında Boğaz İtilaf Devletlerince geçilmeye çalışılmış, ancak 18 Mart 1915\'de büyük bir yenilgiye uğramışlardır. Denizden Boğazı geçemeyen düşman bu defa Gelibolu yarımadasını ele getirmek maksadıyla 25 Nisan 1915 sabahından itibaren İngiliz, Fransız, Avustralya, Yeni Zelanda kuvvetleri ile Seddülbahir ve Arıburnu bölgelerine çıkartma yapmıştır.
+\n\n
+NEREDE GEZİLİR:\nGelibolu Yarımadası Tarihi Millî Parkı, Truva, Assos, Abydos, Ophrynion, Çanakkale Arkeoloji Müzesi, Çanakkale Askerî Müzesi, Çamyayla Atatürk Müzesi, Çanakkale Şehitleri Müzesi Anıtı ve Harp Hatıraları Müzesi, Truva Müzesi, Kestanbolu, Tepeköy, Külcüler, Çan Kaplıcaları, Kale-i Sultaniye, Köprülü Mehmed Paşa, Yazıcıoğlu, Bolayır Gazi Süleyman Paşa, Lapseki Süleyman Paşa, Umurbey ve Gelibolu Ulu Camii.
+\n\n
+NE YENİR:\nAsma yaprağında sardalye, yoğurtlu kavurma, kaçamak, balık çorbası, çanakta uskumru, kılıç balığı, sardalya buğulaması, uskumru ızgarası, paça, köy azığı, peynirli patlıcan, taze fasulye basması, bakla keşkeği, tumbi, turp otu salatası, kaçamak, lakerda, erik macunu ve ahlat suyu.
+\n\n
+Ünlü Tatlılar:\nPeynir helvası.
+\n\n
+NEREDE YENİR:\nÇanakkale Çan\'daki Mevlanâ sofrası, merkezdeki Ömür restoran ve Sofra restoran tavsiye edilebilecek yerlerden birkaçı.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, yulaf, çavdar, bezelye, bakla, börülce, ayçiçeği, susam, tütün, domates, zeytin, üzüm ve balıkçılık.</item>
+        <item>ÇANKIRI  18\n\n
+
+NÜFUSU:174,012
+\n\n
+İLÇELERİ:\nAtkaracalar, Bayramören, Çerkeş, Eldivan, Eskipazar, Ilgaz, Kızılırmak, Korgun, Kurşunlu, Orta, Şabanözü ve Yapraklı.
+\n\n
+TARİHÇESİ:\n1071 \'de başlayan Anadolu\'nun fethi, Süleyman Şahın 1075\'de İznik\'i alarak Anadolu Selçuklu Devletinin temellerini atmasıyla devam etmiş, aynı zamanda 1080\'deki büyük Türkmen Göçü ile Anadolu\'daki Türk nüfusu hızlı bir artış göstermiştir. Çankırı yöresi 1417\'den sonra Candaroğullan\'ndan Kasım Bey\'in yönetiminde Osmanlı Devletine bağlı olmakla birlikte, Kastamonu ve Sinop yöresinde Candaroğulları\'nın egemenliği sürüyordu. 1461 \'de Fatih Sultan Mehmed Trabzon seferine giderken, askeri ve ekonomik Önemi olan Sinop\'u elinde tutan ve Trabzon\'daki Pontus Devleti’yle de ilişkileri olan bu beyliği kesin olarak ortandan kaldırdı. Mütareke ve Millî Mücadele yıllarında Çankırı, doğrudan işgal görmediği ve işgal bölgelerinden de oldukça uzak olduğu için, Çankırı’da işgale karşı örgütlenmeler, ancak Mayıs 1920\'den sonra gerçekleştirildi.
+\n\n
+NEREDE GEZİLİR:\nGerdek Boğazı, Kayadibi, Hisariçi, İnköyü, Delik Kaya Mezarları, Cendere Köyü, Mezar Odası, Çankırı ve Asar Kaleleri, Çukur Mescid, Çankırı Ulu Camisi, Taş Mescit (Şifahane), İmaret, Kurşunlu Hamamları ve Çankırı Müzesi.
+\n\n
+NE YENİR:\nEtli hamur (mantı), tarhana çorbası, gözleme cızlama, güveç, pıhtı aşı, harmandaşı, fit fit aşı, cevizli hamur, çeç böreği, mıhlama, keşkek, çalma, tirit, yaren güveci, mıkla ve tutmaç.
+\n\n
+Ünlü Tatlılar:\nÇekme helvası, baklava, yumurta tatlısı ve höşmerim.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, mısır, çeltik, patates, yeşil mercimek, şeker pancarı, ayçiçeği, kavun. Çankırı sanayisinde özelikle 1984\'ten beri gelişmektedir. İlde hayvanı gıda ürünleri, tekstil sanayi, tarım araçları sanayi, tuğla imalâtı, silah sanayi, gıda sanayi (un fabrikaları, makarna fabrikaları vs.) sektörler Çankırı ekonomisine önemli katkılar sağlamaktadır.</item>
+        <item>ÇORUM  19
+\n\n
+NÜFUSU:549, 828
+\n\n
+İLÇELERİ:\nAlaca, Bayat, Boğazkale, Dodurga, İskilip, Kargı, Lâçin, Mecitözü, Oğuzlar, Ortaköy, Osmancık, Sungurlu ve Uğurludağ.
+\n\n
+TARİHÇESİ:\nÇorum bölgesi, tarih öncesi ve tarih çağlarında önemli kültürlere ve uygarlıklara sahne olmuştur. Alacahöyük, Büyükgüllücek ve Kuşsaray gibi yerleşim merkezlerindeki mimarî eserler ve maddî kültür kalıntıları, bölgede en eski yerleşimin M.Ö. 5000\'li yıllarda başladığını göstermektedir. Türkler, 1071 Malazgirt zaferi ile Anadolu\'ya girmiş, Çorum ve çevresi Danişmend Ahmet Gazi tarafından 1075 yılında fethedilmiştir. Anadolu Selçuklu Devleti (1243) Kösedağ Savaşında Moğollara yenildikten sonra, Anadolu\'da büyük siyasî karışıklıklar çıkmıştır. Millî Mücadele hareketinin başlangıcı ve en zor zamanında Çorum bir taraftan Çapanoğullarının, öte yandan Pontusçuların tehdidi altında bulunuyordu. Çorum halkının Millî Mücadele hareketine bağlılığı sayesinde, Çapanoğulları isyanı daha fazla genişlemeden sindirilmiştir. Çorum Millî Mücadele en çok şehit veren illerden olup, İstiklâl Savaşına katılan 1510 kişi, İstiklâl madalyası ile onurlandırılmıştır.
+\n\n
+NEREDE GEZİLİR:\nÇorum Müzesi, Alacahöyük Müzesi, Boğazköy Müzesi, Saat Kulesi, Çorum Kalesi, İskilip Kalesi, Osmancık Kalesi, Sungurlu Saat Kalesi, Ulu Cami, Hıdırlık Cami, Şeyh Muhittin Yavsi Camii, Evlik Köyü Cami ve Türbesi, Hamamlıçay Köy Kaplıcası ve Figani Beke Kapılıcası.
+\n\n
+NE YENİR:\nLeblebisi ile ünlü olan Çorum, yöresel yemekler bakımından oldukça zengindir. İlin özgün yemekleri arasında mayalı, yangıç, mıklama, bulgur aşı, altüst böreği, kaypak aşı, cızlak, kömbe, oğmaç, hingal, haşhaşlı çörek, borhani, helise, çullama, madımak, tirit, iskilip dolması.
+\n\n
+Ünlü Tatlılar:\nÇorum şekerlemesi, hasıda, sasak beyni, kara çuval helvası, hedik, teltel, has baklava, pancarlı su böreği, Çorum baklavası ve gül baklavası.
+\n\n
+NEREDE YENİR:\nÇorum\'daki lezzet noktamız, merkezdeki Katipler Konağı\'dır.
+\n\n
+NE ÜRETİR:\nDericilik, dokumacılık, bakırcılık ve demircilik; buğday, arpa, nohut, tane fiğ, yeşil mercimek, ayçiçeği, şeker pancarı, arpa, kuru soğan, domates, karpuz, taze fasulye ve hıyar.</item>
+        <item>DENİZLİ  20\n\n
+
+NÜFUSU:907,325
+\n\n
+İLÇELERİ:\nAcıpayam, Akköy, Babadağ, Baklan, Bekilli, Beyağaç, Bozkurt, Buldan, Çal, Çameli, Çardak, Çivril, Güney, Honaz, Kale, Sarayköy, Serinhisar ve Tavas.
+\n\n
+TARİHÇESİ:\nDenizli ili, ilk defa bugünkü şehrin 6 km. kuzeyinde, Eskihisar Köyü civarında kurulmuştur. Şehir M.Ö. (261-246) yılları arasında, Laodikeia adı ile anılmıştır. Günümüzde kullanılan Denizli adı, Tonguzlu kelimelerinin zamanla ağızdan ağıza, değişmesiyle meydana gelmiştir. Daha sonra Pers, Büyük İskender, Roma ve Bizans, Selçuklular, Beylikler ve Osmanlı yönetimi yörede hakim olmuştur. Türkler, Denizli havalisini zapt ettikten sonra, şehir suyunun bol bulunduğu bugünkü Kaleiçi mevkiine nakletmişlerdir.
+\n
+l.Dünya Savaşı sonrasında 15 Mayıs 1919\'da Yunan ordusu İzmir\'e çıktığı gün, ilk karşı koyma hareketlerinden biri de Denizli\'de gerçekleşmiştir. Bu arada Sivas Kongresine (4 Eylül 1919) Denizli sancağını temsilen Belevli Yusuf Bey, Ali Necip Bey, Helvacızade Mehmet Efendi, Dalamanlızade Mehmet Şükrü Bey katılmışlardır. Bu kongrede 4 delegeyle temsil edilen tek il Denizli olmuştur.
+\n\n
+NEREDE GEZİLİR:\nPamukkale, Çamlık Yenice Kaplıcaları; Beycesultan Höyüğü, Laodikeia, Hierapolis ve Tripolis, Kalıntıları, Akhan, Çardakhan Kervansarayı, 2. Sultan Murad Camii, Beyce Sultan Kümbeti ve Pamukkale Müzesi.
+\n\n
+NE YENİR:\nPirinç çorbası, buldan kebabı, kavurma yemeği, etli bakla, kara katma, türlü güveç, davet pilavı, kalsune, mantar böreği, çaput aşı, alaçora, sıyırma, yoğurtlu patlıcan gömmesi, sura, gamdıra çorbası, keşkek, kaçamak, kuru fasulye, nohut, sarma, dolma, bulgur pilavı, kabak ve soğan yahnisi. Kuzu kellesi ve kuzu kebabı da, bu bölgenin ünlü yemeklerindendir.
+\n\n
+Ünlü Tatlılar:\nİncir tatlısı.
+\n\n
+NEREDE YENİR:\nDenizli\'nin alışveriş merkezinde bulunan Lezzet Kebap-namı diğer Kebapçı Enver\'in Fırın Kebabı çok meşhurdur.
+\n\n
+NE ÜRETİR:\nPamuk, tütün, leblebi, kavun, karpuz, domates, zeytin, soğan, havuç, üzüm. Denizli sanayi; çır çır sanayi, iplik sanayi, konfeksiyon sanayi, boya-apre ve tekstil terbiye sanayi, dericilik sanayi. El sanatları olarak Denizli iyi bir konuma sahiptir. Bazı el sanatları şunlardır: Topraktan yapılan testi ve bardak yapımcılığı, urgancılık, bakırcılık, bıçakçılık, hasır örücülüğü, kilim-heybe -yolluk ve torba dokumacılığı halâ devam ettirilmeye çalışılan el sanatlarıdır.</item>
+        <item>DİYARBAKIR  21 \n\n
+
+NÜFUSU:1,460,714
+\n\n
+İLÇELERİ:\nBismil, Çermik, Çınar, Çüngüş, Dicle, Eğil, Ergani, Hani, Harzo, Kocaköy, Kulp, Lice ve Silvan.
+\n\n
+TARİHÇESİ:\nDiyarbakır tarihinin, önceleri M.Ö. 3 bin yılma kadar uzandığı bilinirken, son zamanlarda Çayönü kazıları ile yapılan araştırmalar sonucunda, uygarlık geçmişinin M.Ö. 7500 yıllarına kadar dayandığı belirlenmiştir. Diyarbakır ve çevresinde Hurriler, Mitanniler, Hititler, Asurlar, Medler, Persler, Büyük İskender, Romalılar, Bizanslılar, Araplar, Selçuklular ve Osmanlılar hüküm sürmüştür. Büyük Selçuklu hâkimiyetinin sona ermesinin ardından İnanoğulları, Nisanoğulları, Artuklular, Eyyübîler gibi mahallî hâkimiyetler ve Türkiye Selçukluları, Timur dönemi, Akkoyunlular ve Şah İsmail idaresindeki İran egemenliğinden sonra, Diyarbakır, 15 Eylül 1515 tarihinde Yavuz Sultan Selim devrinde Bıyıklı Mehmet Paşa tarafında fethedilerek, Osmanlı birliğine katılmıştır. Özellikle 16. yy. boyunca Diyarbakır\'da büyük kalkınma ve imar faaliyetleri gerçekleştirildiği gibi, yüzyılda şehrimiz önemli bir ticaret ve sanat merkezi hâline gelmiştir. Daha sonraki yüzyıllarda da, Öneminde pek fazla bir şey kaybetmeyen Diyarbakır, Osmanlı Devletinin yıkılışına kadar bu konumunu korumuştur.
+\n\n
+NEREDE GEZİLİR:\nÇermik Kaplıcası, Diyarbakır Kalesi ve Nasturi Kilisesi, Atak (Antak) Eskiçağ Kentleri, Meryem Ana Kilisesi, Diyarbakır Arkeoloji ve Etnografya, Diyarbakır Sait Sıtkı Tarancı ve Diyarbakır Atatürk Köşkü Müzeleri, Yedi Kardeşler Burcu, Diyarbakır Surları, Çayönü buluntuları ve Malabadi Köprüsü.
+\n\n
+NE YENİR:\nCartlak kebabı, içli köfte, çiğ köfte, bulgur pilavı, lebeni, kapune yemeği, nardanaşı, analı kızlı köfte, domates tava, duvakpilavı, Nuriye, patlıcan meftunesi, kaburga, kibukudur, lebeni, otlu peynir, örgü peynir ve sumak.
+\n\n
+Ünlü Tatlılar:\n Burma kadayıf, üzümden yapılan pestil ve sucuk.
+\n\n
+NEREDE YENİR:\nDiyarbakır\'ın Silvan ilçesinde bulunan Kristal Fırınlı Et Lokantası ve Merkezde bulunan Kervan Restaurant, Diyarbakır\'ın önemli iki lezzet noktasıdır.
+\n\n
+NE ÜRETİR:\nPamuk, buğday, arpa, kırmızı mercimek, karpuz, tütün. El sanatları; bakırcılık, ipekçilik, kuyumculuk, halı ve kilim dokuması. Son senelerde en büyük gelişme inşaat sektöründe görülmektedir. Küçük sanayi, dokumacılık, bakırcılık, demircilik ve kuyumculuk da gelişmiştir. Fabrikaların çoğu devlet sektörüne aittir. Sümerbank Pamuklu Dokuma Fabrikası, Sümerbank Halı ve Yünlü Dokuma Fabrikası, Yem Fabrikası, Süt Endüstrisi Kurumu, Buhar ve Su Türbinleri Fabrikası, Küçük Su Türbini ile Pompa Fabrikası ve Ergani Çimento Fabrikası vardır.</item>
+        <item>EDİRNE  22\n\n
+
+NÜFUSU:396, 462
+\n\n
+İLÇELERİ:\nEnez, Havsa, İpsala, Keşan, Lalapaşa, Meriç, Süloğlu ve Uzunköprü.
+\n\n
+TARİHÇESİ:\nEdirne\'nin en eski halkı, Traklar soyundan Odrisler\'in yörede, Meriç ve Tunca ırmaklarının bugünkü Edirne\'nin bulunduğu yerde bir kent kurdukları bilinmektedir. Edirne 1361 yılında 1. Murat tarafından fethedilmiş ve İstanbul\'un alınışına kadar 92 yıl boyunca Osmanlı Devleti\'nin başkenti olmuştur. Edirne, Osmanlı İmparatorluğu döneminde, "Paşa Sancağı" adıyla Rumeli Beylerbeyine bağlı bir vilayetti. Beylerbeyliğinin merkezi ise Sofya\'da bulunuyordu. Edirne, imparatorluğun üniversite şehri olarak tanınmaktaydı.
+\n\n
+NEREDE GEZİLİR:\nTarihî Kırkpmar güreşlerinin yapıldığı Edirne\'de, başlıca gezilecek yerler: Üç Şerefeli ve Selimiye Camileri, Rüstem Paşa Kervansarayı, Edirne Arkeoloji ve Etnografya ile Edirne Türk İslâm Eserleri Müzeleri, Peykler Medresesi, Saatli Medrese, Saray-i Cedid (Yeni Saray), Tunca, Meriç Köprüleri ile Uzunköprü, Koru Dağı ve Söğütlük Orman İçi Dinlenme Yerleri, Saray içi ve Erikli Plajı.
+\n\n
+NE YENİR:\nİşkembe çorbası, Pırasa çorbası, Tarhana çorbası, Karnabahar salatası, Kırkağaç köftesi, yanya köftesi, damat paçası, yaban ördeği, tava ciğeri, ciğer sarması, elbasan tava, beyaz peyniri, mamzama, akıtma, hardaliye ve satır kebabı.
+\n\n
+Ünlü Tatlılar:\nDeva-i misk şekeri, badem ezmesi, ceviz tatlısı ile peynir helvası.
+\n\n
+NEREDE YENİR:\nMeşhur Edirne Ciğercisi, tava ciğeri yemek için güzel bir mekândır. Ezmecioğlu Badem Ezmecisi ise Edirne\'nin meşhur badem ezmesini denemek için leziz bir yerdir.
+\n\n
+NE ÜRETİR:\nTütün, ayçiçeği, buğday, çeltik, şeker pancarı, fasulye, kavun, karpuz, domates. Edirne sanayi: Yakın zamana kadar Edirne\'nin sanayisi tarıma dayalı yağ, un, beyaz peynir ve kaşar peynir fabrika ve mandıralarından ibaretti. Son 10 senede sanayi hızla büyüdü. Mühim kısmı imâlat, gıda, tarım, sıhhi tesisat malzemeleri, dokuma ve deri sanayine aittir.</item>
+        <item>ELAZIĞ 23\n\n
+
+NÜFUSU: 541,258
+\n\n
+İLÇELERİ:\n Ağın, Akçakaya, Arıcak, Baskil, Karakocan, Keban, Kovancılar, Maden, Palu ve Sivrice.
+\n\n
+TARİHÇESİ:\n Elâzığ, Doğu Anadolu\'da Tarihî Harput Kalesinin bulunduğu tepenin eteğinde kurulmuş bir şehirdir. Deniz seviyesinde 1067 metre yükseklikte bulunan şehir, hafif meyilli bir zemin üzerindedir. Elazığ tarihinin, Harput tarihi ile birlikte ele almamız gerekir. Mevcut tarihî kaynaklara göre, Harput\'un en eski sakinleri M.Ö. 2 bin yıllarından itibaren Doğu Anadolu\'ya yerleşen Hurriler\'dir. 26 Ağustos 1071 Malazgirt muharebesinden sonra, kesin olmamakla birlikte, 1085 yılında Türklerin eline geçmiştir. Bu ise Selçuklular devrine rastlamaktadır. Bugünkü Elâzığ, 2. Mahmut zamanında, 1834 yılında şark vilayetlerinde ıslahata ve devlet otoritesini yeniden kurmaya memur edilen Reşit Mehmet Paşa zamanında, halk arasında "Mezra" denilen şimdiki yerine kurulmaya başlanmıştır.
+\n\n
+NEREDE GEZİLİR:\n Harput Kalesi (Süt Kalesi),  Ulu Cami,Kurşunlu Cami, Sara Hatun Cami, Meryem Ana Kilisesi, Karakocan Kolan Kaplıcası, Harput Dabakhâne Suyu, Hazar Gölü, Keban Baraj Gölü, Cip Baraj Gölü, MİSLAND, Çırçır Şelâlesi.
+\n\n
+NE YENİR: \nKellcoş, işgene, Harput köfte, yarpuz çorbası, soğan salatası, kapama, ciğer tiridi, eşbabiyeli köfte, Harput köftesi, süslü I fidoş, yalancı köfte, dilim dolma, gömbe, sırın, taş ekmeği, peynir ı        ekmek, fodula, gömme, ufalama, söğürtme, ışkın, pirpirim, heside,gaygana, pestilli yumurta, dolanger, fasulye çorbası, lobik çorbası, anamaşı, kelecoş, taraktık, kındık köfte, küncülü köfte, muhaşerli )köfte, işkene, sapan dolması, kibe dolması, çaypalası, pirpirim boranı tavşan üfelemesi, kırmanlı pilav, simit pilavı, nohut ekmeği, zarafat ve patila.
+\n\n
+Ünlü Tatlılar:\n Dilberdudağı.
+\n\n
+NEREDE YENİR:\n Merkezde bulunan Öz Elazığ Lokantası ve Huzur Lokantası, Elazığ\'daki iki lezzet noktasıdır. Ayrıca, Osmanlı Lokantası, Harput Konağı ve Keban Alabalık (Çırçır Şelâlesi) kayda değer yerlerdendir.
+\n\n
+NE ÜRETİR:\n Et ve süt üretimi, buğday, arpa, pirinç, şeker pancarı, tütün, fasulye, nohut, mercimek, fiğ, burçak, soğan, sarımsak, pamuk, üzüm, elma, armut, kayısı, ceviz, badem ve dut yetiştir. Yetiştirilen ürünler arasında lahana, kavun ve çilek önemli gelir kaynaklarındandır.</item>
+        <item>ERZİNCAN 24\n\n
+
+NÜFUSU:213, 530\n\n
+
+İLÇELERİ: \nÇayırlı, İliç, Kemah, Kemaliye, Otlukbeli, Refahiye, Tercan ve Üzümlü.
+\n\n
+TARİHÇESİ:\nErzincan\'ın bilinen tarihi, Hititlere kadar dayanır. Mühim bir stratejik bölgede ve Asya ile Avrupa\'yı birleştiren yollar üzerinde oluşu yüzünden, birçok istilâya maruz kalmıştır. Sırasıyla bölgeye Urartular, Medler, Persler, Makedonyalılar ve Romalılar hakim oldular. Roma İmparatorluğunun M.S. 395\'te ikiye ayrılmasıyla, Anadolu\'nun diğer bölgeleri gibi bu bölgede de Doğu Roma (Bizans)\'nın payına düşmüştü. Erzincan havalisi daha sonraları Sasanilerle Romalılar arasında el değiştirmiştir. Hz. Osman devrinde Habib bin Mesleme H.655 senesinde Erzincan\'ı fethederek bölgenin tamamen Müslümanların idaresine girmesini sağladı. Birsüre sonra Bizanslılar bölgeyi tekrar geri aldı. Cumhuriyet devrinde bütün sancaklara (mutasarrıflıklara) "vilayet-il" denilince, Erzincan da vilâyet oldu. 1939 senesinde çok şiddetli bir deprem ile Erzincan harabe hâline geldi.
+\n\n
+NEREDE GEZİLİR:\n Erzincan Müzesi, Altmtepe, Kemah Kalesi, Mama Hatun Külliyesi, Abrenk Kilisesi, Akbulut Kayak Merkezi, Ekşisu Kaplıcası, Buz Mağaraları, Ala mağarası, Dumanlı yaylası ve Girlevik şelâlesi.
+\n\n
+NE YENİR:\nEşgili, Erzincan çorbası, kurut çorbası, reyhanlı çorba, yarma çorbası, kesme çorba (un çorbası), et kızartması, gah yahnisi, kırdo, kıyma çılbırı, ekşili köfte, bulgurlu lahana, kabak yahnisi, civilli pilav, gendime pilavı, kabaklı börek, su böreği, kete, sırın, gasefe, tandır, büryan, keşkek, kaygana, bişi, tulum peyniri ve tava leblebisi.
+\n\n
+Ünlü Tatlılar:\nArmut tatlısı, ekmek kayganası ve kıyılmış kadayıf tatlısı.
+\n\n
+NEREDE YENİR:\nErzincan\'ın merkezinde bulunan Erzincan Restaurant ve Yıldızlı turistik Restaurant bu ilimizin yemeklerinin tadına bakabileceğiniz iki lezzet noktasıdır.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, çavdar, kuru fasulye, nohut, şeker pancarı ve patates.</item>
+        <item>ERZURUM  25\n\n
+
+NÜFUSU:1.104,941\n\n
+
+İLÇELERİ:\nAşkale, Çat, Hınıs, Horasan, Ilıca, İspir, Karaçoban, Karayazı, Köprüköy, Narman, Oltu, Olur, Pasinler, Pazaryolu, Şenkaya, Tekman, Tortum ve Uzundere.
+\n\n
+TARİHÇESİ:\n Anadolu\'nun en eski devletlerinden biri olan Hititler sınır bölgesinde bulunan Erzurum, tarihî göç ve istilâ yolları üzerinde bulunduğundan, pek çok savaşlara sahne olmuştur. Hurriler, Asurlar, Kimmerler, İskitler (Sakalar) bölgeye hakim oldular. M.Ö. 4. Asırda Makedonya Kralı İskender, İran\'ı yenerek bu bölgeyi ele geçirdi. Erzurum\'u ve diğer şehirleri geri aldı. 1071 Malazgirt zaferinden sonra Selçuklun Sultanı Alparslan\'ın kumandanlarından Ebül-Kasım, Bizanslıları yenerek Erzurum\'u fethetti. Erzurum eyaleti; Erzurum, Erzincan, Gümüşhane illeri ile Muş\'un Malazgirt ve Bingöl\'ün Kığı ilçelerini içine alıyordu. 23 Temmuz 1919 Erzurum Kongresinde İstiklâl Harbinin ve Millî Mücadelenin temelleri atıldı. Cumhuriyet devrinde il olan Erzurum Doğu Anadolu\'nun en büyük gelişmiş şehridir. Tarihin ilk dönemlerinden beri bir yerleşim yeri olan Erzurum, günümüzde de Doğu Anadolu Bölgesinin en büyük şehirlerinden biridir.
+\n
+Bu bölge tarih boyunca; Urartular, Kimerler, İskitler, Medler, Persler, Partlar, Romalılar, Bizanslılar, Sasaniler, Araplar, Selçuklular, Moğollar, İlhanlılar ve Safaviler, gibi çok çeşitli kavimler ve milletler tarafından zapt ve idare edilmiştir. 1514 yılında şehir ve çevresini fetheden Osmanlılar, Türkiye Cumhuriyeti\'nin Kurulduğu 1923 yılma kadar burada hüküm sürmüşlerdir. Erzurum ve çevresine hakim olan büyük şahsiyetler arasında Büyük İskender ve Timur\'u sayabiliriz. Bölgenin savunmasında şehrin fonksiyonu coğrafî yapısı ile yakından ilgilidir. Zira şehir Doğudan gelebilecek saldırılara karşı kolayca savunulabilecek bir yerde kurulmuştur. 20. Yüzyılın başlarında Batının süper güçlerine karşı girişilen mukavemet hareketi, Atatürk\'ün liderliğinde Erzurum\'da başlamıştır. Atatürk millî birlik ve bağımsızlık hareketinin temelinin atıldığı kongreyi, 23 Temmuz\'da burada toplamıştır.
+\n\n
+NEREDE GEZİLİR;\n Palandöken kayak merkezi, Erzurum Arkeoloji Müzesi, Erzurum Atatürk Evi Müzesi, Türk İslâm Eserleri ve Etnografya Müzesi, Çift Minareli Medrese, Üç Kümbetler (Emir Saltuk, Karanlık, Gümüşlü Kümbet, Cimcime Hatun ve Rabia Hatun Kümbetleri), Saat Kulesi, Yakutiye Medresesi. ( Tortum Şelâlesi, Tortum Gölü, Lala Mustafa Paşa Camii, Abdurrahman Gazi Türbesi, Habipbaba Türbesi, Rüstem Paşa Bedesteni, Erzurum Kongresi Binası, Erzurum Kalesi, Erzurum Tabyaları, Haho Meryem Ana Kilisesi, Olur İlçesi Eski Vank Kilisesi, İspir İlçesi Çoruh Nehri Rafting, Narman Peri Bacaları, İspir ilçesi Elmalı Çamlı Mağarası, Olur İlçesi Yıldızkaya Köyü Mağarası.)
+\n\n
+NE YENİR:\n Su böreği, ekşili dolma, kesme çorbası, hıngel, herle aşı, çeç pancarı, çaşır, odun ateşinde döner, ayran aşı (yayla çorbası), düğün çorbası, soğan çorbası, çoban salatası, cağ kebabı, kuzu kapama, sütlü et, patates şilesi, şalgam dolması, turşu dolması, cevizli kete, içli kete, kavurmalı, lavaş, tatar böreği, şükkar köftesi, çiriş, yumurta pilavı, den çorbası ve ispir fasulyesi.
+\n\n
+Ünlü Tatlılar;\n Kadayıf dolması ve kef kavunu.
+\n\n
+NEREDE YENİR:\nErzurum denince ilk akla gelen Çağ Kebabını yemek için, Erzurum Kongre caddesinde bulunan Koç Çağ Kebabı isimli lokantaya uğrayabilirsiniz. Ayrıca Erzurum\'un meşhur kadayıf dolmasını yemek için de, Numune Hastanesinin giriş kapısındaki Muammer Usîa\'nın Yeri güzel bir mekân. (Emirşeyh Kebap Salonu, ÇA-PA Restaurant, Dönerci Hacıbaba, Can Urfa Restaurant,) Ayrıca Erzurum\'un meşhur kadayıf dolmasını yemek içinse, Numune Hastanesinin giriş kapısındaki Muammer Usta \'mn Yeri güzel bir mekândır. (Dadaş Cağ Kebap Salonu- Kadayıf Dolması)
+\n\n
+NE ÜRETİR:\nBuğday, arpa, çavdar, fiğ (hayvan yemi), mercimek, pancar, ayçiçeği ve korunga yetişir. Koyun, sığır ve kıl keçisi yetiştirilir. Arıcılık yapılır. (Un, kepek, yem, beyaz peynir, tereyağı, kaşar, ayran, akide şekeri, helva, küp şeker, su üretimi, tekstil ürünleri, LPG dolum tesisi (ERGAZ), cam mozaik, alçı, hazır beton (Aşkale Çimento), organik meyve, organik süt sığırcılığı ve diğer organik tarım ürünleri.</item>
+        <item>ESKİŞEHİR  26     \n \n
+
+NÜFUSU:724, 849\n\n
+
+İLÇELERİ:\nAlpu, Beylikova, Çifteler, Günyüzü, Han, İnönü, Mahmudiye, Milahgâzi, Mihalıççık, Sancakaya, Seyitgazi ve Sivrihisar.
+\n\n
+TARİHÇESİ:\nTarihi çok eskilere uzanan Eskişehir\'in ilk yerleşim noktası şimdiki yerleşimin 6 km kuzeyindeki Şarhöyük (Dorylain) dur. Eski yerleş imindeki harabelerden dolayı şehre "Eskişehir" adı verilmiştir. Yapılan arkeolojik çalışmalar sonucu ortaya çıkartılan eserlerden edinilen bilgilere göre, Eskişehir ve yöresinin Neolitik çağa kadar (İ.Ö. 10.000-5.000 yılları) uzanan bir yerleşim bölgesi olduğu anlaşılmıştır. Kurtuluş savaşında ise ciddi bir kahramanlık destanı yazan illerimizdendir.
+\n\n
+NEREDE GEZİLİR:\nEskişehir Arkeoloji Müzesi, Atatürk ve Kültür Müzesi, Osmanlı Evi Müzesi, Yunus Emre Müzesi, Seyitgazi Müzesi, Eskişehir Valiliği Lületaşı Müzesi, Frig Vadisi, Pessinus, Doryleaum, Karacaşehir, Midas Anıtı, Yunus Emre Külliyesi ve Türbesi, Seyit Battal Külliyesi, Sankaya Mağarası, Yelinüstü Mağarası, Yelini Mağarası ve Sakarıhca Termal Jurizm Merkezi.
+\n\n
+NE YENİR:\nGöceli tarhana, bamya çorbası, kaşık börek çorbası, toga çorbası, pancar turşusu, ciğer yahni, çakmak dolması, ağzı açık börek, ekmek uğlaması, kaşık börek, köbete, harşıl, abısta, yufkalı büryan, Çerkez sofrası, çiğ börek, katlama böreği, bulamaç, toyga, sütlü ovmaç, göçeli, haşhaşlı dolama, haşhaşlı lokum, haşhaşlı bükme ve tatar böreği.
+\n\n
+Ünlü Tattılar:\nMet helvası, cevizli tatlılar ve yoğurt tatlısı.
+\n\n
+NEREDE YENİR:\nEskişehir Atatürk bulvarında bulunan Çiğ Börek Evinde meşhur çiğ böreği deneyebilirsiniz.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, şeker pancarı, ayçiçeği, tatlı su balığı üretimi, lüle taşı işlemeciliği. Eskişehir\'deki sanayinin sektörel dağılımı incelendiğinde, tek bir sektörün değil, genelde yüksek katma değer meydana getiren birçok sektörün gelişme gösterdiği görülmektedir. Makine-Metal Eşya Sanayi ve Gıda Sanayinin toplam sanayi içinde % 70\'lik bir ağırlığı olduğu görülmektedir. Toprak ve Seramik sanayinin son senelerdeki hızlı gelişimiyle birlikte, bu sektörün il sanayi içindeki payı giderek artmaktadır. Eskişehir\'de üretimi gerçekleştirilen bazı ürünler, Türkiye çapında da önemli  bir pazar payına sahiptir. İlde üretilen bazı ürünlerin ulusal üretim içindeki paylarına bakıldığında, Uçak Motoru, Dizel Lokomotif ile Boraks üretiminin % 100\'ünün buradan karşılandığı görülmektedir. Bor rezervleri ülkemiz ihtiyacını karşıladığı gibi, çok büyük bir kısmı da ihraç edilmektedir. Toplam dünya bor rezervlerinin ise % 60\'ı ilimiz sınırları içindedir.</item>
+        <item>GAZİANTEP  27    \n\n
+
+NÜFUSU:1,560,023\n\n
+
+İLÇELERİ:\nAraban, İslâhiye, Karkamış, Nizip, Oğuzeli, Nurdağı, Şahinbey, Şehit Kâmil ve Yavuzeli.
+\n\n
+TARİHÇESİ:\nGaziantep tarihinin oluşumunda ve niteliğinde yer unsurunun önemi büyüktür. Bölgenin, ilk uygarlıklarının doğduğu, Mezopotamya ve Akdeniz arasında bulunuşu güneyden ve Akdeniz\'den doğuya, kuzeye ve batıya giden yolların kavşağında oluşu, uygarlık tarihine ve bugüne önem vermiştir. 1. Dünya Savaşı sonunda, Gaziantep önce İngilizler, daha sonra da Fransızlar tarafından işgal edilmiştir. Gaziantep savunması, eşsiz kahramanlığı, yiğitliği ve fedakârlığı ile hem kendini hem de Güneydoğu Anadolu\'yu düşman işgalinden kurtaran bir halk hareketi, millî birliğin ve benliğin bir şahlanışı olarak tarihteki yerini almıştır.
+\n\n
+NEREDE GEZİLİR:\n Arkeoloji Müzesi, Etnografya Müzesi, Karkamış Harabeler, Gaziantep Kalesi, Rumkale, Şeyh Fethullah Cami, Boyacı Cami, Ömeriye Cami İle yer alan Ökkeşiye Hazretleri, Yuşa Peygamber ve Pirsefa Hazretleri Türbesi, islahiye Hızır Yaylası, Sof Yaylaları.
+\n\n
+NE YENİR:\n Dövmeli Alaca çorba, fıstık çorbası, öz çorbası, yuvalama çorbası, Antep salatası, avrat salatası, muhammara, müceddere, yoğurtlu patlıcan salatası, abanuş, et sarması, sarımsak aşı, vişne kebabı, yoğurtlu bakla, yoğurtlu kebap, yoğurtlu yahni, arap köftesi, Antep fıstıklı tavuk, Antep usulü zeytinyağlı dolma, domates tava, firikli acur dolması, kazan kebabı, kuru patlıcan dolması, pirpirim aşı, saçma tava, cortan, firik pilavı, incikli pilav, meyveli pilav, Alinazik kebabı, keme kebabı, Kuşbaşı kebabı (tike Kebabı), kıyma kebabı, patlıcan kebabı, simit kebabı, ciğer (cırtlak) kebabı, yuvarlama, lahmacun, karışık dolma, maş çorbası, beyran, şiveydiz, yaprak sarması, çağla aşı kabaklama, börk aşı, doğrama, kaburga dolması, alinazik, yoğurtlu patates, mılhıtalı (mercimekli) köfte, yoğurtlu ufak köfte, yağlı köfte, kısır, tene katması, haveydi köftesi, omaç, siniköftesi, süzekyapması, ayvakebabı, elmakebabı, lebeniye, öz çorbası, maş çorbası, şirinli çorba, beyran, topaç, Köse Sefer kabağı dolması, loğlazlı aş, çiğdem aşı, akşili darakhak tavası, acur oturtması, kakırdak böreği, loğlaz ve yarpuz piyazı.
+\n\n
+Ünlü Tatlılar: \nKünefe, burmak kadayıf, meyan şerbeti, baklava ve Antep fıstığı ezmesi.
+\n\n
+NEREDE YENİR:\n Gaziantep\'te bir ekol hâline gelmiş İmam Çağdaş Restaurant 120 yıldır hizmet vermekte olup, Gaziantep ziyaretçilerinin lezzet noktasıdır.
+\n\n
+NE ÜRETİR:\n El sanatları; gümüş işletmeciliği, bakırcılık, yemenicilik, sedef kakmacılığı. Sanayi olarak Gaziantep\'te ülke ekonomisine katkı sağlayan önemli sektörler vardır; Tekstil sanayi, gıda sanayi, kimya plastik sanayi, metal ve makine sanayi.</item>
+        <item>GİRESUN  28     \n\n
+
+NÜFUSU:417, 505\n\n
+
+İLÇELERİ:\nAlucra, Bulancak, Çamoluk, Çanakçı, Dereli, Doğankent, Espiye, Eynesil, Görele, Güce, Keşap, Piraziz, Şebinkarahisar, Tirebolu ve Yağlıdere.
+\n\n
+TARİHÇESİ:\nGiresun limanı şehri İyonya (Batı Anadolu) kolonisi olarak kurulmuş, fakat İyonya hâkimiyeti sahilden öteye girememiştir. M.Ö. 6. asırda Perslerin istilasına uğramıştır. Makedonya Kralı İskender burasını ele geçirememiştir. Pers asıllı olup bilahare Yunanca konuşan ve Hıristiyanlaşan (Ortodoks olan) Pontus Krallığı bu bölgeye, Kuzey Karadeniz ve Kırım\'a hakim olmuştur. Roma İmparatorluğu M.Ö.2. Asırda Lucullus emrinde Roma ordusunu göndererek Mithridates\'in direnmesine rağmen Pontus Krallığı, bir eyalet şeklinde Roma İmparatorluğuma bağlandı. Osmanlılar devrinde, Trabzon beylerbeyliğine (eyaletine) bağlı bir kaza merkeziydi. Cumhuriyetken az önce 1920\'de müstakil mutasarrıflık (vilayet - il) oldu. Birinci Dünya Harbi sonunda Giresun gönüllü birlikleri, Rusların Giresun\'un işgalini önledi. Cumhuriyet döneminde bütün mutasarrıflıkların il olması üzerine, Giresun da il oldu.
+\n\n
+NEREDE GEZİLİR:\n Giresun Adası, Giresun Kalesi, Katolik Kilisesi, Seyyit Vakkas Türbesi, Kümbeti Yaylası, Hanalam (Kulakkaya) Yaylası, Melikli Obası Yaylası, Gogora Kilisesi ve Müzesi, Kuva-yi Millîye ve Osman Ağa Müzesi
+\n\n
+NE YENİR:\n Karalâhana çorbası, fasulye çorbası, pancar çorbası, kuru fasulye tavası, sirkeli pırasa, hamsi böreği, hamsi diblesi, hamsi ızgarası, fasulye diblesi, fırın fasulyesi, ekmek makarnası, tavşan içi, çalıçileği çorbası, mendek çorbası, yağlaş, karalâhana diblesi, kiraz tuzlusu kavurması, hamsili mısır ekmeği, ısırgan püresi, mısır ekmeği, fasulye turşusu, kiraz duzlaması ve pezik mıhlaması, ısırgan otu çorbası, samaksa, hamsi böreği, fındık ve kuşburnu hoşafı.
+\n\n
+NEREDE YENİR:\n Giresun adası manzaralı Çerkez Restaurant Giresun yöresel yemekleri ve balık lezzetlerini bulabileceğiniz bir mekândır. Ayrıca Zeytinlik mahallesindeki Konak Restoran da, yöresel yemeklerin sunulduğu diğer bir lezzet noktasıdır.
+\n\n
+NE ÜRETİR: \nFındık, buğday, arpa, tütün, mısır, bakla, bezelye, nohut, fasulye, mercimek, fiğ, soğan, sarımsak, patates, hay, şeker pancarı, yonca, korunga, lahana, marul, ıspanak, pırasa, maydanoz, taze fasulye, balkabağı, kavun, karpuz, sütlü kabak, hıyar, patlıcan, biber, domates, turp, armut, ayva, elma, muşmula, erik, kızılcık, kayısı, kiraz, şeftali, vişne, dut, incir, naro badem, ceviz, kestane, üzüm, çilek ve kivi.</item>
+        <item>GÜMÜŞHANE 29\n\n
+
+NÜFUSU:130,825\n\n
+
+İLÇELERİ:\nKelkit, Köse, Kürtün, Şiran ve Torul.
+\n\n
+TARİHÇESİ:\nGümüşhane bölgesinin ilk sakinleri M.Ö. 2-3 bin yıllarında Orta Asya\'dan gelen Oğuz kabileleridir. Hititler, Asuriler bu bölgeye hakim oldular. Sonraları Hun ve Peçenekler, bölgeyi ele geçirdiler. 1055 \'te Türk Hakanı Tuğrul Bey ve komutanlarından İbrahim Bey bölgeyi fethetti. Tuğrul Bey, Türkmen oymaklarını buralara yerleştirdi. Selçuklular bu bölgeyi kendilerine bağlı Danişmendoğulları ve Saltukoğulları arasında paylaştırdı. Birinci Dünya Harbinde 19 Temmuz 28 Şubat 1918\'e kadar 1 sene 7 ay 10 gün Gümüşhane\'yi İşgal eden Ruslar, çekilirken yerlerini Ermenilere bıraktılar ve onlar da birçok katliam yaparak, binaları ve tarihi eserleri yakıp yaktılar.
+\n\n
+NEREDE GEZİLİR:\nGümüşhane Müzesi, Canca Kalesi, Kov Kalesi, Akçakale, Keçi Kalesi, Torul Kalesi, Gümüşkaya Kalesi, Gümüştuğ (Avliyana) Kalesi, Süleymaniye Camisi, Küçük Cami, Hagios Georgios Manastır Kilisesi, Ayvalos Klişesi, Çakırkaya (Kahır) Kaya Kilisesi, Olucak (İmera) Manastır Kilisesi, Karaca, Anlı, Kartalkaya, K. Ardıçlı, Ambela, Köprübaşı, Taşbaşı, Altıntaş, Yaylım, Üstüaçık, Cingora, İnönü, Kabanbaşı, Mamatlar, Arsa, İkisu mağaraları.
+\n\n
+NE YENİR:\nGümüşhane mantısı, kuşburnu çorbası, Ayranlı çorba, Fukara dırma çorbası, çiy içi, galiye, kalacoş, sac ketesi, zıkırda, köme, kuşburnu, zulurlu çorbası, un herlesi çorbası, gavut çorbası, Pağla denlisi, borani, fıtfıt haşılı, patates kavurması, muhla, yergök dolması, sütlü haşıl, lor dolması, ekmek aşı, çıtma fasulye, kaygana, siron, erişte, lemis, hasuda kuymağı, kanzılı börek, siron .
+\n\n
+Ünlü Tatlılar:\nErişti tatlısı, kara helva, dut pekmezi, dut pestili, burma, (sini) tel helvası, lalanga.
+\n\n
+NE ÜRETİR:\nKuşburnu ve mamulleri, buğday, arpa, şeker pancarı, kuru fasulye, mısır, patates.</item>
+        <item>HAKKARİ  30\n\n
+
+NÜFUSU: 246, 469\n\n
+
+İLÇELERİ:\nÇukurca, Şemdinli ve Yüksekova.
+\n\n
+TARİHÇESİ:\nYörede yapılan araştırmalar, bu topraklarda İÖ. 100.000 - 40.000\'e tarihlenen orta paleolotik dönemden başlayarak kısa süreli yerleşmeler olduğunu ortaya koymaktadır. Bölgede Asurlular, Urartular, Medler, Persler, Romalılar, İslâm uygarlıklarına ait bilgiler ve kalıntılar mevcuttur. Hakkari\'yi üç yıl kadar işgal altında tutan Ruslar, 1917 Ekim Devriminin ardından yapılan Erzincan ve Brest-Litovsk antlaşmaları uyarınca işgal ettikleri yöreleri boşaltmaya başladılar. Ancak, bu kez de Rus birliklerinin yerini silahlı Nasturi\'ler almaya başladı. Urmiye\'deki üslerinden Hakkâri yöresine saldırılar düzenlediler. Giderek artan saldırılar üzerine, Osmanlı Hükümeti, Irak\'ta bulunan 6. Ordu\'yu kuzeye ilerleterek 22 Nisan 1918\'de Hakkâri ve yöresinde denetimi ele aldı.
+\n\n
+NEREDE GEZİLİR:\n Melik Muhammed Esad Medresesi, Zeynel Bey Medresesi, Meydan Medresesi, Kelat Sarayı, Seyyid Abdullah Türbesi, Kaya resimleri ve Hakkâri Kalesi.
+\n\n
+NE YENİR: \nAyran çorbası, gulul çorbası, jaji, duğeba, kirlik, kepaye, kiriş, doleme, keledoş ve keşkek. Ünlü Tatlılar: Asidetatlısı.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, darı, mısır, çavdar, çeltik (pirinç), nohut, fasulye, mercimek, patates, soğan, tütün, arıcılık, balcılık ve el dokuması kilimleri.</item>
+        <item>HATAY  31
+\n\n
+NÜFUSU:1,386,224\n\n
+
+İLÇELERİ:\nAltınözü, Belen, Dörtyol, Erzin, Hassa, İskenderun, Kırıkhan, Kumlu, Reyhanlı. Samandağ ve Yayladağı.
+\n\n
+TARİHÇESİ:\nHatay, Hititlerin bir toprağıydı. Hitit imparatorluğu’nun yıkılışından az önce bu bölgede bağımsız bir Hitit devleti kuruldu. Başkenti Zencirli (Sam\'al) olan bu devlet 150 sene devam etti. M.Ö. 6. Asırda Perslerin istilasına uğradı. Bilahare Makedonya Kralı İskender, Anadolu\'yu işgal edip, Pers (İran) Devletini yenerek bu bölgeyi istilâ etti. İskender\'in ölümünden sonra Makedonya Krallığı, generalleri arasında taksim edildi. Kudüs Haçlı Krallığına bağlı olan Antakya Haçlı Prensliği, 170 sene Antakya\'ya hâkim oldu. 19 Mayıs 1268\'de Türk-Memlük Sultanı Baybars, Antakya\'yı geri alarak, 170 sene bu şehre kan kusturan Haçlı Prensliğini ortadan kaldırdı. Osmanlı Sultanı Yavuz Sultan Selim Han, 1516\'da Mercidabık Zaferi ile Suriye ve Hatay\'ı Osmanlı Devletine kattı. Birinci Dünya Harbinin sonunda Ekim 1918 sonlarında Antakya\'yı İngilizler işgal ettiler ve bir sene sonra Fransızlara devrettiler. 20 Ekim 1921\'de Ankara antlaşması ile Fransızların iç bağımsızlık tanıdıkları İskenderun sancağında çoğunluk Türklerdeydi.. Fransızlar, 1925 Mart\'mda İskenderun sancağının idaresini diğer Suriye illerinden ayırdılar. Türkçe, Arapça ve Fransızca\'yı resmî dil kabul ettiler.
+\n\n
+NEREDE GEZİLİR:\nHatay Arkeoloji Müzesi, Sokullu Mehmet Paşa Külliyesi, HabibNeccar Camisi, ŞalenveDarb-ı Sak(Bayezid-i Bistami) Kaleleri, Aziz Petrus Grottosu, Cin Kulesi, Seleukeia Pieria Yerleşme ve Kent Kalıntıları, Antakya (Antiokheia) Surları, İssos, Hatay Şelalesi, El-Mina, Arsuz (Rhossos ya da Rosus), Soğukohık ve Yayladağı Orman İçi Dinlenme Yerleri ve Arsuz Plajları.
+\n\n
+NE YENİR: \nMahluta çorbası, kesir salatası, zahter salatası, tepsi kebabı, kuru patlıcan dolması, şeyh mualla, oruk, öcce, ekşili börülce, beyaz kabak boranisi, cevizli biber (muhammara), bakla ezmesi, humus, nazlı et yemeği, kaytaz böreği, kerebiç, semirsek, kuşgözü, kuzu etli patlıcan söğürme, Yörük kebabı, tantuni ve tahini i patlıcan.
+\n\n
+Ünlü Tatlılar:\n Paluze, peynirli künefe ve taş kadayıf tatlıları.
+\n\n
+NEREDE YENİR:\n Hatay Sultan Sofrası doğunun içli köftesine benzeyen fakat farklı yöntemlerle yapılan Oruk yemeğiyle ünlüdür.
+\n\n
+NE ÜRETİR:\nPamuk, buğday, fasulye, kavun, karpuz, zeytin, portakal, mandalina, limon, domates, havuç, muz, biber, patlıcan, bal, süt. El sanatları: dokumacılık, ağaç işçiliği, kilim, aba perde, gömlek, şalvar ve entari dokunur. Hasır işi çanta, tepsi ve sepetler meşhurdur. Hatay sanayisi; gıda ve tütün sanayisi, dokuma, giyim eşyası ve deri sanayi, orman ürünleri ve mobilya sanayi, kâğıt ürünleri ve basım sanayi, kimya-petrol-kömür-kauçuk ve plastik sanayi, taş ve toprağa dayalı sanayi, metal eşya- makine ve teçhizat-ulaşım aracı- meslekî ve ilmî ölçüm aletleri sanayi ve demir-çelik sanayi sayılabilir.</item>
+        <item>ISPARTA  32          \n\n
+
+NÜFUSU:419, 845\n\n
+
+İLÇELERİ:\nAksu, Atabey, Eğirdir, Gelendost, Gönen, Keçiborlu, Senirkent, Sütçüler, Şarkîkaraağaç, Uluborlu, Yalvaç ve Yenişarbademli.
+\n\n
+TARİHÇESİ:\nIsparta ve çevresi, tarih sahnesine Hititlerle çıkar. Hititler zamanında bölgenin ismi "Arvaza" idi. Hititlerin yıkılışından sonra Frikya Krallığı bu topraklara sahip olmak istemişse de, burayı Lidyalılar ele geçirmişlerdir. M.Ö.4. Asırda Lidyalılann elinde bulunan bu topraklarla, Kızılırmak batısındaki topraklan Persler istila etmiştir. Makedonya Kralı İskender, Doğu seferine çıktığında, Persler bu bölgeyi almıştır. Bu beyliğin bir kolu da Antalya\'da Tekeoğulları olarak hüküm sürmüştür. 1335\'te İlhanlılar tarih sahnesinden çekilince Hamidoğulları bağımsız olmuştur. 1380\'de Sultan Murad zamanında (Yalvaç ve Şarkîkaraağaç) 80 bin Osmanlı altını karşılığı satın alınmıştır. 1391\'de Yıldırım Bayezit Han, Isparta\'nın geri kalan kısmını ve Hamidoğulları Beyliğini de, Osmanlı Devletine katmıştır. İsparta ismi yalnız merkez için kullanılmış, sancağın ismi de, "Hamid ili" (Hamidabad) olarak kullanılmıştır. Isparta 1203 senesinden bu yana Süşman istilâsına uğramamış bir ilimizdir. Cumhuriyet devrinde il olmuştur.
+\n\n
+NEREDE GEZİLİR:\nEğridir, Uluborlu ve Yalvaç Kaleleri, Pisidya Antiokheiası ve Apollonia İlkçağ Kentleri, Ertokuş ve Dündar Bey Medreseleri, Isparta Hızır Bey, Kutlu Bey, Firdevs Bey, Eğridir Hızır Bey, Çaşnigir, Camileri, Firdevs Bey Bedesteni, Eğridir Kervansarayı, Ertokuş Hanı, Isparta ve Yalvaç Müzeleri, Davrak, Kovada Gölü ve Kızıldağ Millî Parkları, Isparta Gölcüğü, Çamyol ve Kuyucak Orman İçi Dinlenme Yerleri.
+\n\n
+NE YENİR:\nÇevirme çorba, kavurma, örgülü pilav, midye böreği, pırasalı börek, tandır kebabı, Sazan dolması, top tarhana, miyane, sakala sarkan, tapalak, samsa, tosmankara, kabune, tutmaş, kuyruğu sulu, derdimi alan, yoğurtlu et, çömlek kebabı, tirit, banak, balık doldurması ve şalgam aşı.
+\n\n
+Ünlü Tatlılar:\nPeynir baklavası, gavut, samsa, elma, kiraz ve gül.
+\n\n
+NEREDE YENİR:\nIsparta merkezdeki Nil Pide Salonu buradaki lezzet durağımızdır.
+\n\n
+NE ÜRETİR:\nEl dokuması hâli, kilim, gül yetiştiriciliği, gül yağı, elma, kiraz, koyun ve keçi yetiştiriciliği, su ürünleri üretimi. Sanayi açısından da gıda maddeleri sanayi, tekstil-giyim ve deri sanayi, orman ve orman ürünleri sanayi, taş ve toprağa dayalı sanayi, metal işleme, makine ve teçhizat sanayi, kozmetik sanayisini sayabiliriz.</item>
+        <item>İÇEL ( MERSİN )  33
+\n\n
+NÜFUSU:1,595,938\n\n
+
+İLÇELERİ:\nAnamur, Aydıncık, Bozkaya, Çamlıyayla, Erdemli, Gülnar, Mut, Silifke ve Tarsus.
+\n\n
+TARİHÇESİ:\nEski bir yerleşim merkezi olan Mersin ve civarı, arkeolojik kazılara göre çok eski çağlarda insanların yaşadığı bir bölgedir. Mersin yakınında "Yumuktepe" deki kazılardan çıkan eşyalar bu bölgede binlerce sene önce yaşamış insanları gösterir. Yumuktepe civarında bulunan kalenin ise en az 6 bin sene önceye ait olduğu tespit edilmiştir. Anadolu\'da en eski tarihî eser olarak kabul edilmektedir. Mersin ve civarı tarih sahnesinde Hititlerle çıkar. Fatih Sultan Mehmet Han devrinin sonlarında İçel ve 1472\'de Silifke; Yavuz Sultan Selim Han zamanında (1516) Mersin-Tarsus bölgesi Osmanlı toprağına katılmıştır. Birinci Dünya Harbinden sonra Fransızlar, Mersin\'i işgal ettiler. Mersin 17 Aralık 1918\'den 4 Ocak 1922\'ye kadar 3 yıl 18 gün Fransız işgalinde kaldı. Türkiye Büyük Millet Meclisi Hükümeti ile anlaşan Fransızlar, geri çekildi. Fransızlar işgalleri sırasında Ermenilerle birlik olup savunmasız sivil halktan ihtiyar, kadın, çocuk demeden binlercesini işkence yaparak öldürdü.
+\n\n
+NEREDE GEZİLİR:\nİçel (Mersin) Müzesi, Silifke Atatürk Evi, Anamur Müzesi, Tarsus Müzesi, Cennet ve Cehennem Obrukları, Narlıkuyu Mağarası, Eshab-ı Kehf Mağarası, Tarsos, Neopolis, Krykos, Kilindra, Selevkeia, ve Anemurin İlkçağ Kent Kalıntıları, Kleopatra kapısı, Anamur, Kız, Mut, Silifke Kaleleri, Alahan Manastırı, Tarsus Camisi, Lal Ağa Camisi, Erdemli, Silifke, Tarsus ve Narlıkuyu Mozaik Müzeleri.
+\n\n
+NE YENİR:\nBalık ızgaraları, kaya koruğu turşusu, küflü çökelek salatası, zahter salatası, lagos şiş, tantuni, cezerye, kuşgözü, humus, telatur, eya dolması, sırdan, bandırma, yüzük çorbası, kerebici, zahter ve övelemeç.
+\n\n
+NEREDE YENİR:\nMersin Anamur\'daki Asmaaltı Lokantası ve Bergüzâr Aile Lokantası, Fabrikalar Caddesi\'ndeki Özkan Tantuni ayrıca Yenişehir\'deki Şadırvan Restoran buradaki lezzetlerin tadılabileceği yerlerdendir.
+\n\n
+NE ÜRETİR:\nPortakal, mandalina, limon, elma, şeftali, kiraz, soğan, pırasa, ıspanak, incir, erik, badem, muz, pamuk, mercimek ve kuru fasulye.</item>
+        <item>
+İSTANBUL  34 \n\n
+
+NÜFUSU:12,573,836\n\n
+
+İLÇELERİ:\nAdalar, Avcılar, Bağcılar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beykoz, Beyoğlu, Çatalca, Büyükçekmece, Eminönü, Esenler, Eyüp, Fatih, Gaziosmanpaşa, Güngören, Kadıköy, Kâğıthane, Kartal, Küçükçekmece, Maltepe, Pendik, Sarıyer, Sultanbeyli, Silivri, Şile, Şişli, Ümraniye, Üsküdar, Tuzla ve Zeytinburnu
+\n\n
+TARİHÇESİ:\n İstanbul\'un yerleşme tarihi Paleolitik Çağa kadar uzanır. Yapılan kazılar sonucunda Yanmburgaz Mağarasında Paleolitik Çağa, Firiktepe ve Pendik\'te ise Kalkolitik Çağa (İ.Ö.5500-3500) ait kalıntılar ele geçmiştir. Ayrıca Sarayburnu\'nda Trakyalılann kurduğu Lygosadlı bir kentin duvar kalıntılarına, Kadıköy\'de de Fenikelilerden kalma yapı kalıntılarına rastlanmıştır. Trak kökenli komutan Byzas önderliğinde yola çıkan Megarahların bir başka kolu da Delphoi kâhininin öğüdüne uyarak, İÖ 660\'ta Khalkedon\'un karşı kıyısında, bugünkü Sarayburnu çevresinde bir kent kurdular. Megaralılar kente önderlerinin adını vererek Byzantion dediler. 1909\'da yaşanan 31 Mart Olayı ve Hareket Ordusu\'nun II. Abdülhamit\'i tahttan indirmesi, 1912\'de başlayan Balkan Savaşları\'nda Bulgarların Çatalca\'ya kadar ilerlemesi ve ardından I. Dünya Savaşı\'nm başlaması bu dönemin en önemli olaylarıdır. İzmir\'in işgalini kınamak maksadıyla 23 ve 30 Mayıs 1919\'da gerçekleştirilen Sultanahmet mitingleri büyük yankı uyandırdı. İstanbul 15-16 Mart 1920\'de İtilaf Devletleri tarafından fiilen işgal edilerek, Heyet-i Mebusan kapatıldı. 23 Nisan 1920\'de Ankara\'da TBMM\'nin kurulması, sarayı ve bir anlamda İstanbul\'u boşlukta bıraktı.
+\n\n
+NEREDE GEZİLİR:\nİstanbul Boğazı, Topkapı Sarayı, Arkeoloji Müzesi, Askerî Müze, Atatürk Müzesi, Aya İrini Kilisesi (St. İrene), Ayasofya Müzesi, Büyük Saray Mozaikleri Müzesi, Havacılık Müzesi, Şehir Müzesi, Türk-İslâm Eserleri Müzesi, Yerebatan Sarnıcı, Kız Kulesi, Galata Kulesi, Beyazıt Kulesi, Anadolu Hisarı, Rumeli Hisarı, Beylerbeyi Sarayı, Çırağan Sarayı, Dolmabahçe Sarayı, Sultanahmet Cami, Süleymaniye Cami, Rüstem Paşa Camii, Fatih Camii, Eyüp Camii, Yeni Cami, Sokullu Mehmet Paşa Camii, Mihriban Sultan Camii, Aziz Mahmut Hüdai Camii, Studios Manastin Kilisesi, Sergios-Bakhos Kilisesi, Hagia Eirene Kilisesi, Pantakrator Manastır Kilisesi, Vefa Kilisesi (Hagios Theoderos), Nyrelaion Manastır Kilisesi, Eglise D\'hagia Thekla Manastırı, Eski İmaret Cami (Pantepoptes Manastir Kilisesi), Kelenderhane Camii (Akataleotos Manastırı), Fenan İsa Camii (Lios Manastır Kilisesi), Fethiye Camii (Pammakaristos Manastır Kilisesi), Theodosius Dikilitaş, Gotlar Sütunu, Çemberlitaş (Konstantin Sütunu), Yılanlı Sütun (Burmalı Sütun) ve Beyazıt Meydanı.
+\n\n
+NE YENİR:\nİstanbul mutfağında, kuzu, koyun veya dana etine ilave edilen çeşitli sebzeler esas yemeklerdir. Pilav, börek çeşitleri, bulgur, kuru fasulye, zengin zeytinyağlı sebzeler yan öğünler olarak servis yapılır. Köfte ve şiş kebabı, döner kebap veya acılı, yoğurtlu, patlıcanlı diğer kebap çeşitlerinin makbulleri özel kebapçılarda bulunur. Kanlıca yoğurdu, Sultanahmet köftesi, beyinli Beykoz kebabı ve çiroz salatası.
+\n\n
+Ünlü Tatlılar:\nHamur tartları, baklava, kadayıf ve benzerlerinin hakiki lezzetlisi, bu işi bazen birkaç nesildir devam ettiren küçük dükkânlardan temin edilir.
+\n\n
+NEREDE YENİR:\n
+
+RB Et Lokantası: Türk yemekleri ile ızgara çeşitleri, ve bir çok Türk lezzetinin sunulduğu mekan Esenler Giyim Kent Çamlık Sosyal Tesisi - Lale sarayı ile hizmet vermektedir. Beyoğlu Fıccın Lokantası: Çerkez Yemekleri yapan bir lokantadır. Beyoğlu Naumpaşa Konağı: Erzurum sofrasından lezzetler sunar. Cızbız Köfte İstanbul\'da birçok şubesi bulunan ve köfte çeşitlerini piyaz ile sunan bir yerdir. Çavuşoğlu kebap ve baklavacısı firik pilavı, ekşili ufak köftesi ve çağla aşısı ile servis vermektedir. Gülistan Sofrası: Maltepe sahilinde Osmanlı mutfağından lezzetler sunan bir mekân. Hacı Abdullah Lokantası: Kebap çeşitleri, Osmanlı mutfağı ve yöresel birçok yemeği bulabileceğiniz nezih bir mekan. İskender İskender oğlunun İskender kebapçısı Türkiye\'nin en meşhur Bursa İskender\'ini yapmakta olup,  İstanbul\'daki sayılı mekânlarından bir tanesi Beşiktaş Ihlamur Süslü Karakolundadır. İstanbul\'un en eski lokantalarından olup birçok yemek çeşidiyle hizmet veren Kanaat Lokantası özellikle turistlerin denemesi gereken mekânlardandır. Kaburga Sofrası doğu yemekleriyle hizmet vermektedir. Konyalı restoran Konya yemeklerini tadabileceğiniz bir mekândır. Konya Mevlanâ Sofras:   Konya lezzetlerini tadabileceğiniz bir mekândır. Köşkeroğlu kebap ve baklavaları. Güllüoğlu baklavacısı, en başta baklavası ve hamurlu şerbetli tatlılarıyla meşhur tatlıcılardır. İstanbul’daki Simit Saraylarında meşhur Türk simidinin kaşarlı, sucuklu, zeytinli gibi bütün çeşitlerini bulabilirsiniz. Şazeli Restoran kebap çeşitleri ve tatlılarıyla İstanbul\'daki lezzet noktalarınızdan biridir. Şehzade Mehmet Sofrası otantik bir mekân olup Osmanlı mutfağından lezzetler sunar. Şekerci Cafer Erol Şeker, lokum, çikolata gibi lezzetleri satın alabileceğiniz en kaliteli yerlerden biridir. Şeref Büryan büryan kebabı, perde pilavı, dolması içli köftesi ve bumbar gibi doğu yemekleriyle hizmet vermektedir. Şirvan kebap, nar suyu, Diyarbakır tava, içli köfte, perde pilavı gibi daha çok Diyarbakır yöresinin yemeklerini bulunduran bir mekândır. Van Kahvaltı Sofrası Van’ın meşhur kahvaltısını İstanbul’da bulabileceğiniz bir mekândır. Vezir Sofrasında, Karalahana çorbası, kuru fasulye, karalahana sarması,   hamsili pilav gibi Karadeniz yemeklerini bulmanız mümkün. Ziya Şark Sofrası İstanbul\'un en meşhur kebapçılarından olup, çoğunlukla doğu yemeklerine ağırlık verir. İstanbul\'da birçok şubesi bulunmaktadır.
+\n\n
+NE ÜRETİR:\nİstanbul ilinde nüfusa nazaran ekilen arazi az olmasına rağmen, verimi yüksektir. İl dahilinde her bakımdan modern bir tarım yapılmaktadır. Modern tarım araçları oldukça fazladır. Buğday, arpa, yulaf, mısır, bakla, ayçiçeği, domates, lahana, patlıcan, taze soğan, taze fasulye, kabak, bezelye ve karnabahar, yetişir. Elma, armut, üzüm, şeftali, ayva ile az miktarda erik, kiraz, vişne, muşmula, incir, nar il dahilinde yetiştirilen meyvelerdir. İstanbul ilinde çiçek yetiştirme oldukça gelişmiştir. Esasen Türkiye\'de en çok çiçek tüketen il İstanbul\'dur. Yalova ile Kanlıkavak-Emirgan arasında modern ve büyük çiçek seraları vardır. Balıkçılık: İstanbul balıkçılık bakımından Türkiye\'nin ve Marmara bölgesinin merkezidir. İstanbul, Türk ekonomisinin en mühim merkezidir. Sanayinin üçte biri İstanbul\'dadır. İthalatın üçte biri, ihracatın beşte biri İstanbul\'dan yapılmaktadır.</item>
+        <item>İZMİR  35\n\n
+
+NÜFUSU:3,739,353\n\n
+
+İLÇELERİ:\nBalçova, Çiğli, Gaziemir, Karşıyaka, Konak, Aliağa, Bayındır, Bergama, Beydağ, Bornova, Buca, Çeşme, Dikili, Foça, Karaburun, Kemalpaşa, Kınık, Kiraz, Menderes, Menemen, Narlıdere, Ödemiş, Seferihisar, Selçuk, Tire, Torbalı ve Urla ile Güzelbahçe.
+\n\n
+TARİHÇESİ:\nİzmir (Smyrna-Samornia) M.Ö 3000 yıllarında Lelegler tarafından, bugünkü Bayraklı yakınında bulunan Tepekule mevkiinde kurulmuştur. İzmir kelimesi daha ziyade bir Amazon Kraliçesine atfedilmektedir. M.Ö 2000-1200 yılları arasında yaşamış olan Hitit Krallığı\'nın tesiri altında kalan İzmir, Hitit Devleti\'nin M.Ö  1200 yılında Frig akınlarıyla yıkılması sonucu, M.Ö  133 yılında kesin olarak Romalıların eline geçmiştir. M.Ö 88 yılında Pontus Kralı Mihridades ele geçirmiştir. Roma İmparatorluğu\'nun ikiye ayrılmasıyla, Bizanslıların bir eyalet merkezi olan İzmir, M.S 440 yıllarında Hun Hükümdarı Atilla\'nın istilâsına uğramıştır. M.S. 695 yılından itibaren iki defa Arapların akınyıa maruz kalmış, sonra yine Bizanslıların eline geçmiştir. 1081 yılında İzmir şehri Selçuklular tarafından fethedilmiştir. 1097 yılında Haçlıların Anadolu\'da ilerlemesinden istifade eden Bizanslılar, İzmir de dahil olmak üzere, Ege\'de Türklerin elinde bulunan tüm yerleri işgal ettiler. Bu tarihlerden sonra Osmanlı Devleti idaresine giren İzmir, 500 yıla yakın bir süre Osmanlı idaresinde kaldı. 15 Mayıs 1919\'da Yunanlılar tarafından işgal edilen İzmir, üç yıldan fazla işgal altında kaldıktan sonra, Türk Kurtuluş Savaşı\'yla 9 Eylül 1922\'de Yunan işgalinden kurtarılmış, Cumhuriyetin ilanından sonra da, il statüsüne kavuşturulmuştur.
+\n\n
+NEREDE GEZİLİR:\nBalçova-Agamemnon, Çeşme-Şifne, Bergama-Güzellik, Menemen, Seferihisar, Bayındır, Foça (Phokaia), Larisa, Erythrai, Klazomenai, Teos, Lebedos, Kolophon, Klaros, Notion ve Efes (Ephesos), İlkçağ Kent Kalıntıları, Çeşme ve Selçuk kaleleri, Belevi Tümülüsü ve Mezar Anıtı, Bergama, Ödemiş ve Tire Ulu Camileri. Aynı zamanda Kızlarağası, Mirkelâmoğlu ve Karaosmanoğlu Hanları Kemeraltı çarşısında bulunmaktadır. Sultan Şah, Mehmed Bey, İbn Melek ve Süleyman Şah Türbeleri, İzmir Saat Kulesi, İzmir Arkeoloji, İzmir Resim ve Heykel, İzmir Atatürk, Efes Arkeoloji, Bergama ve Tire Müzeleri, Yamanlar-Karagöl, Tunay, Uzunkuyu, Belkah ve Çamlık orman içi dinlenme yerleri. Kemeraltın\'da 7 adet havra bulunmaktadır. Bunların içinde Sebatay Sevi\'nin evi de bulunmaktadır. Bu ev henüz restore edilmemiştir.
+\n\n
+NE YENİR:\nBulamaç çorbası, kumru, Ayvalık tostu, sura, mücmeri, radika salatası, gerdan tatşısı, tere çorbası, trança kellesi çorbası, kirde, sakız yahnisi, mücver, İzmir tire köftesi, papaz yahnisi, enginar dolması, domates bastısı, revani, ıspanak boranisi, razı kavurması, efes arapsaçı, şevketi bostan, radika salatası. Asma yaprağından sarma. Foça\'nın yoğurtlu balığı, Ödemiş\'in tereyağlı kebabı, Şirince\'nin Sultan kebabı, Bergama\'nın çığırtması, Bağyüzü\'nün fıstık helvası en meşhur yemeklerindendir.
+\n\n
+Ünlü Tatlılar;\nBalkabağı reçeli, bal kaymak, cevizli musakka ve gerdan tatlısı.
+\n\n
+NEREDE YENİR:\nİzmir Ödemiş\'in tereyağlı kebabının yenebileceği en güzel mekânlardan birisi Hurşiî Kebap \'tır.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, mısır, pirinç, pamuk, tütün, kenevir, susam, anason, kereviz, biber, fasulye, bezelye, bakla, barbunya, enginar, marul, ıspanak, lahana, zeytin, incir, şeftali, kestane, mandalina, elma, ayva, kiraz, vişne, ceviz, nar, kayısı. İzmir sanayi olarak da ülkemizin önde gelen illeri arasındadır. Tekstil, endüstriyel tarım ürünleri, yaş ve kuru meyve sebze, konserve, bitkisel yağ, pamuk ve deri ürünleri, elektrik-elektronik, plastik, ambalaj, otomotiv, büro, otel ve hastane malzemeleri. Soğutma sistemleri, yapı malzemeleri, lâstik ve kauçuk, döküm, endüstriyel makineler, cam ve orman ürünlerini İzmir\' deki sanayi kollan olarak sayabiliriz. Bunun yanında İzmir\'de irili ufaklı birçok organize sanayi bölgesi de bulunmaktadır.</item>
+        <item>KARS  36
+\n\n
+NÜFUSU:312,205\n\n
+
+İLÇELERİ:\n\nAkkaya, Arpaçay, Digor, Kağızman, Sarıkamış, Selim ve Susuz.
+\n\n
+TARİHÇESİ:\nKars\'ın bilinen ilk sakinleri Hurrilerdir. Daha sonra Hititlerin hâkimiyetine girmişlerdir. Hurriler bölgeye "yüksek ülke" veya "yukarı eller" demişlerdir. Bölge, daha sonra Urartuların işgaline uğradı. M.Ö. 8. Asırda Kimmerler buradan geçtiler. Asurlar ve Babiller buraya hâkim olamadılar. İskitler M.Ö. 7. Asırda bu bölgeye hâkim oldular. Birinci Dünya Harbinde Ruslar, Kars Türklerini Osmanlı ordusuna yardım ediyor diyerek katlettiler. Bu katliamdan sadece 22.000 Türk kurtularak, Bakü\'deki Müslüman Cemiyetinin himayesinde yaşadılar. Azerbaycanlı Türkler soydaşlarına sahip çıktılar.
+\n\n
+NEREDE GEZİLİR:\nAğrı Dağı, Sarıkamış Kış Sporları ve Kayak Tesisleri, Soğuksu ve Karıncadüzü Orman İçi Dinlenme Yerleri, Kars, Ardahan ve Şeytan Kaleleri, Ani Kenti Kalıntıları arasındaki surlar, Büyük Katedral, Surp Gregor Kilisesi, Çoban Kilisesi, Kars Şelalesi, Keçeli (Halaskar) Kilisesi, Ebul Muammeran ve Menuşehr Camileri, Taş Köprü, İğdır Selçuklu Kervansarayı ve Kars Müzesi.
+\n\n
+NE YENİR:\nKafkas çorbası, yayla çorbası, bozbaş çorbası, ekşili et, tencerede şiş kebap, piti kebabı, sulu köfte, tandır kaz çekmesi, elma dolması, hörre (un) çorbası, evelik aşı, ekmek aşı, pişi, kuymak, hmgel, yarma buğdaydan yapılan haşıl, piti (bozbaş), erişte pilavı, sultani üzümle yapılan pilav, Kars böreği. Bal, kaymak, kaşar, gravyer, hangel, haşıl, feselli ve tandırda kaz çekmesi.
+\n\n
+Ünlü Tatlılar:\nKağızman unun elması, umaç helvası, bademli pestili ve kurusu, dut pekmezi ve Frenk üzümü.
+\n\n
+NEREDE YENİR:\nAtatürk caddesindeki Ocakbaşı Restaurant ve Belediye caddesindeki Özyıldız Restaurant, Kars\'ın yöresel yemeklerini denemek için güzel mekânlardır.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, mercimek, fasulye, şekerpancarı, patates, kayısı, hayvancılık ve hayvanı ürünler; bal, tavuk ve kaz üretimi.</item>
+        <item>KASTAMONU  37
+\n\n
+NÜFUSU:360, 366
+\n\n
+İLÇELERİ:\nAbana, Ağlı, Araç, Azdavay, Bozkurt, Cide, Çatalzeytin, Daday, Devrekani, Doğanyurt, Hanönü, İhsangazi, İnebolu, Küre, Pınarbaşı, Şeydiler, Şenpazar, Taşköprü ve Tosya.
+\n\n
+TARİHÇESİ:\nKastamonu çok eski bir yerleşim merkezidir. Tarih öncesi çağlara ait kalıntılar bulunmuştur. M.Ö. 1780-1200 senelerinde Sümerlerin bir kolu olan Kaşkalar (Gaslar) bu bölgeye hâkim olmuşlardır. Anadolu\'da ilk siyasî birliği teşkil eden Hitit İmparatorluğu\'nun sınırları içinde bulunmuştur. Tanzimat\'tan sonra vilâyet (eyalet) merkezi oldu. Cumhuriyet devrinde ise eyaletin merkez sancağına (vilâyetine) Kastamonu vilâyeti dendi. Bugün birer il olan Bolu, Çankırı ve Sinop, Kastamonu\'ya bağlıydı. Birinci Dünya Harbi sonrası dâhil hiçbir istilâya maruz kalmayan bir şehir olan Kastamonu, İstiklâl Harbinde büyük hizmetlerde bulunmuştur. İstanbul\'dan silâh ve cephane, İnebolu ve Kastamonu üzerinden Ankara\'ya ulaştırılmıştır. Cumhuriyetin ilânından sonra Atatürk, 23 Ağustos 1925\'te "Şapka Devrimi"ni bu ilde ilân etmiştir.
+\n\n
+NEREDE GEZİLİR:\nTimonion ve Pompeipolis ilkçağ kent kalıntıları, Kastamonu kalesi, Pervaneoğlu AH şifahanesi (Yılanlı Şifahane), Atabey, İbn Neccar, Halil Bey, Mahmud Bey, Nasrullah, Sinan Bey, Şeyh Şaban-ı Veli, Kötürüm Bayezıd, Hoca Şemseddin, Kasım Bey ve Abdurrahman Paşa camileri. İsmail Bey ve Yakup Ağa külliyeleri, Münire medresesi, Kastamonu Kalesi, Atabay, Aşir efendi, Deve, İsmail Bey ve Urgan hanları, Nasrullah köprüsü ve Taş köprü, Gökçeağaç\'taki Kervansaray ve Kastamonu müzesi,
+\n\n
+NE YENİR:\nPastırmalı ekmek, tarhana çorbası, ana-kız çorbası, yoğurtlu paça dondurması, patates paçası, ekşili pilav, ecevit çorbası, külbastı, mıklama, kapatma, kavurma, erişte, köle hamuru, banduma, kaygana, cırık, biryan kebabı, mantı, haluçka, simit tiridi, mısır çöreği, etli ekmek, kuyu kebabı, delioğlan sarığı, fincan böreği, haluçga, avuz ve şurra.
+\n\n
+Ünlü Tatlılar:\nKaşık helvası, pekmezli un helvası, cırık tatlısı, çekme helva ve hasüde.
+\n\n
+NEREDE YENİR:\nSadece Kastamonu\'ya has bir yemek olan simit Tiridi (nam-ı diğer Osmanlı Tiridi), Kastamonu Yılanlı sokaktaki Tirit ve Kuyu Kebabında yiyebilirsiniz. Ayrıca Kastamonu denince akla gelen diğer bir yemek olan Etli Ekmek yiyebilmek için, tarihî bir konak olan Sinan Bey konağım deneyebilirsiniz.</item>
+        <item>KAYSERİ  38\n\n
+
+NÜFUSU:1,165,088\n\n
+
+İLÇELERİ:\nAkkışla, Bünyan, Develi, Felahiye, Hacılar, İncesu, Kocasinan, Melikgazi, Özvatan, Pınarbaşı, Sarıoğlan, Sarız, Talaş, Tomarza, Yahyalı, Yeşilhisar
+\n\n
+TARİHÇESİ:\nKayseri, tarih boyunca Anadolu\'nun önemli ticaret merkezlerinden olmuştur. Kayseri, M.Ö. 4000 ile M.S. 2000 olmak üzere, 6 bin yıllık bir tarihe sahiptir. M.Ö 2 bin yıllarında Anadolu\'ya gelen Hititler, Kayseri\'ye 22 km. uzaklıkta bulunan Kültepe (Kaniş) şehrini kurmuşlardır. Kültepe\'nin hemen yanında yer alan Karum\'da yapılan kazılarda bu döneme ait çeşitli yazılı tabletler bulunmuş ve bu tabletlerden Asurlu tüccarlarla Hititli yerliler arasındaki ticarî ilişkilere ait bilgiler elde edilmiştir. Kültepe, M.Ö. 4 bin yılında Roma devri sonuna kadar devamlı olarak yerleşme görmüştür. M.Ö. 11 ve 7. yüzyıllarda, Eciyes\'in eteğinde yer alan Mazaka şehri kurulmuştur. M.Ö. 6 ve 5. Yüzyıllarda bu bölge, Med ve Perslerin egemenliğine girmiştir. M.Ö. 280 yıllarında kurulan Bağımsız Kapadokya Krallığının başkenti olan Mazaka, bu dönemde 400 bin nüfuslu büyük bir şehirdi. M.S. 17 yılında Roma*eyaletinin eline geçen Mazaka ismi, Kaisareia olarak değiştirilmiştir. 395 yılında Doğu Roma (Bizans) İmparatorluğu içerisinde yer alan bu bölgede, büyük bir şehir olarak yerini korumuştur. 691 ve 721 yıllarında Kayseri, kısa sürelerle Arapların akınlarına uğramış ve 1071 yılında Malazgirt zaferinden sonra Türk topraklarına katılmıştır. 1127 yılında Danişmendlilerin, 1162 yılında ise Anadolu Selçuklularının olan şehir, Selçuklular zamanında Konya\'dan sonra ikinci başkent olmuştur. 1244 yılında İlhanlıların saldırısına uğramış, bir süre Moğol-İlhanlı valilerince yönetilmiştir. Kayseri, 1343 yılında Eretna Beyliğinin, 1398 yılında Osmanlıların eline geçmiştir. 1402 yılında Ankara savaşından sonra Karamanoğullarının ve Dulkadiroğullarının olan şehir, 1515 yılında Yavuz Sultan Selim\'in İran seferi dönüşünde kesin olarak Osmanlı Devletine bağlamıştır.
+\n\n
+NEREDE GEZİLİR:\nErciyes dağı, Şahmelik ve Develi kaleleri, Huand Hatun külliyesi, Avgunu, Çifte, Sahibiye Köşk ve Hatuniye medreseleri. Kölük, HacıKılıç cami ve medreseleri. Kayseri, Bünyan ve Develi Ulucamileri. Kurşunlu camii. Keykubadiye sarayı, Raşid Efendi kütüphanesi, Tekgöz ve Çokgöz köprüleri. Kültepe Ören Yeri, Kayseri arkeoloji ve Kayseri etnografya müzeleri. Soğanlı, Erdemli Vadisi, Kapuzbaşı Takım Şelâleleri. Sultan Sazlığı, Gesi Güvercinlikleri, Ağırnas Yeraltı Şehri, Bayramhacı, Tekgöz Kaplıcaları. Ulu Cami, Güllük, Han, Hacıkılıç, Kurşunlu ve Kale Camileri, Avgunlu, Çifte, Sırçalı, Şah Kutlu Hatun, Ali Cafer, Köşk Kümbetleri, Melik Mehmet Gazi ve Seyit Burhanettin Türbeleri, Sahabiye, Hunat, Seracettin, Köşk, Hatuniye Medreseleri, Sultanhan, Karatay ve Kara Mustafa Paşa Kervansarayları. Vezir Han, Bedesten, Kapalı Çarşı, Şehir Surları ve Kalesi.
+\n\n
+NE YENİR:\nPastırma, sucuk, mantı, pehli, yağbari, pöç, kovalama, üzüm yemeği, fincan ağzı, nevzine, aside, kesme çorba, kâğıtta pastırma, havleter, yamula patlıcan yemekleri, cırgalan, biberli pastırma ve yemekleri, gendime çorbası, mantı çorbası, kayseri köftesi. Sucuk içi, arabası, kurşun aşı, buhara pilavı, bünyan pilavı, cevizli börek, erişte pilavı. Katmer, tandır böreği, dolaz, yağbari, pöç, kovalama, üzüm yemeği, fincan ağzı, pide ve fırın kelle.
+\n\n
+Ünlü Tatlılar:\nBedir bağı üzümleri, fincan tatlısı, nevzine, incesu pekmezi, turşusu ve reçeli.
+\n\n
+NEREDE YENİR:\nMerkezde bulunan Bizim sofra, Kayseri Sofrası ve Yıldız Restaurant, Elmacıoğlu Restaurant (Melikgazi) Taş Mekan Et lokantası (Hisarcık), İskender Kebap, Kayseri\'nin lezzetlerini tadabileceğiniz birkaç mekândır.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, çavdar, mahlut, baklagiller (nohut, fasulye, mercimek ve burçak), şekerpancarı, patates ve soğan. Elma, erik, zerdali, kayısı, armut, ceviz, vişne, üzüm. Sığır, koyun, kıl keçisi, manda, arıcılık ve tavukçuluk.</item>
+        <item>KIRKLARELİ  39 \n\n
+
+NÜFUSU:333,256\n\n
+
+İLÇELERİ:\nBabaeski, Demirköy, Kofçaz, Lüleburgaz, Pehlivanköy, Pınarhisar ve Vize.
+\n\n
+TARİHÇESİ:\nBu bölge tarih sahnesine Traklarla girmiştir. Traklar, Trakya\'ya adını veren fakat bugün yok olan bir kavimdir. Traklar M.Ö. 1200-513 arasında bu bölgede yaşamışlardır. Traklar Önasya ve Tuna dolaylarından gelen Türk kavimleridir. Traklar gibi, Çanakkale civarında yaşayan Truvalılar da Türk asıllıdır. ABD Harvard Üniversitesi profesörü Calvert Watkins, Truvalılann konuştukları Luvian dilinin Hitit dili ile aynı kökten geldiğini; Hititler gibi Truvalıların da Türk kavimleri olduğunu, Truva Kralı Priam ile oğlu Paris isimlerinin de aynı kökten geldiğini tarihî vesikalarla ispat etmiştir. Birinci Dünya Harbinden sonra Yunanlılar, Kırklareli ve çevresini işgal ettiler. Şehir iki sene Yunan işgal ve istilası altında kaldıktan sonra, 10 Kasım 1922\'de Türkler tarafından geri alınmıştır. Bulgar ve Yunanlılar, Kırklareli ve çevresini baştan aşağı yakıp, yıkmış ve yağmalamıştır. Halkın büyük kısmı göç etmiştir. 1924 Lozan Muahedesi (Antlaşması) ile Kırklareli\'nde bulunan Yunan ve Bulgar azınlık iade edilmiştir.
+\n\n
+NEREDE GEZİLİR:\nKırklareli müzesi, Hızır Bey külliyesi, Sokullu Mehmet Paşa külliyesi, Cedit Ali Paşa cami, Küçük Ayasofya kilisesi, Mağara manastırı. Ayanikola ayazma ve manastın, Kırklareli A, B,G tümülüsleri, Alpullu Höyük Tepe tümülüsü, Lüleburgaz Kepirtepe tümülüsü, Düz orman tümülüsü, İslâm Bey tümülüsüdür. Kapaklı Kaya mezarları, Menhir (Dikili Taşlar), Dupnisa mağarası, Yenesu mağarası, Domuzdere mağarası, Longoz Ormanları, Kıyıköy mağarası ve Kaptanın mağarası.
+\n\n
+NE YENİR:\nKuzu kapama, keşkek, zerde, kaymakçına, plaska, sulu kaçamak, kuru kaçamak, külür, batallaş, çalma. Isırgan böreği, kapama, sebzeli gerdan, soğanlı börek, çoban böreği, ısırgan otu çorbası, bıldırcın kâğıt kebabı. Hardaliye adlı içeceği 100 senelik bir geçmişe sahip olup, yörede çok meşhurdur.
+\n\n
+NEREDE YENİR:\nYörenin ünlü bir yemeği olan tavuk kapamayı 288 Kafe Restaurant da birlikte servis yapılan et sulu ve naneli kuskus ile birlikte afiyetle yenebilir.
+\n\n
+NE ÜRETİR:\nAyçiçeği, çavdar, buğday, yulaf, mısır, fasulye. Şekerpancarı, ayçiçeği, kozadır. Lahana, pırasa, erik, elma, armut, şeftali, kiraz, taze fasulye, soğan, sarımsak, biber, domates, sığır, koyun, kıl keçisi ve arıcılık.</item>
+        <item>KIRŞEHİR  40\n\n
+
+NÜFUSU:223,170\n\n
+
+İLÇELERİ:\nAkçakent, Akpınar, Boztepe, Çiçekdağı, Kaman ve Mucur.
+\n\n
+TARİHÇESİ:\nKırşehir ilinin bulunduğu topraklar, tarihte Anadolu\'da ilk siyasî birliği kuran Hititlerin toprakları içinde bulunuyordu. Hititlerin iç savaş ve iktidar kavgaları ile dağılıp yıkılmasından sonra, bu topraklara Asurlular hâkim olmuştur. Persler M.Ö. 6. Asırda bu bölgeyi istilâ etmişlerdir. M.Ö. 4. Asırda Makedonya Kralı İskender, Persleri yenmiş, Anadolu ve İran\'ı istilâ ederek, Makedonya Devletine katmıştır. Osmanlı devrinde Kırşehir, Konya (Karaman) Beylerbeyliğinin (eyaletinin) 7 sancağından (vilâyetinden) birine merkez olmuştur. Kırşehir\'in 4 kazası vardı. Cumhuriyet\'ten sonra Kırşehir kendi adım taşıyan ilin merkezi, 1954\'te Nevşehir, Kırşehir\'den ayrılarak il, Kırşehir ise ilçe olmuştur. 1957\'de Kırşehir tekrar il hâline getirilmiştir.
+\n\n
+NEREDE GEZİLİR:\nAlâeddin Camii, Ahi Evren Camii ve Türbesi, Caca Bey medresesi, Melik Gazi türbesi, Âşık PaşI türbesi, Kesik köprü, Kesikköprü kervansarayı, Hitit kalıntıları. Mucur yeraltı şehri, Karakurt kaplıcası, Terme kaplıcası, Bulamaçlı kaplıcası, Mahmutlu kaplıcası.
+\n\n
+NE YENİR:\nTandırda çömlek paça, keykef, temal, çullama, ahi bulgur pilavı. Kırşehir usulü sebzeli yoğurt çorbası, gendeme ve soğanlama.
+\n\n
+NEREDE YENİR:\nMerkezdeki Doyum Lokantası ve Göl Restaurant Kırşehir\'in iki lezzet noktasıdır.
+\n\n
+NE ÜRETİR:\nEl sanatları; Bakırcılık, dokumacılık, taş işlemeciliğidir. Halı ve kilim dokumacılığı; Tarım ürünleri buğday, arpa, çavdar, mahlut, fasulye, mercimek, patates, şekerpancarı ve ketendir. Meyveler ise, Elma, armut, erik, ceviz ve üzüm.</item>
+        <item>KOCAELİ  41
+\n\n
+NÜFUSU:1,437,926\n\n
+
+İLÇELERİ:\nGebze, Gölcük, Karamürsel, Kandıra ve Körfez.
+\n\n
+TARİHÇESİ:\nKocaeli\'nin tarihi Frikyahlara dayanır. M.Ö. 8. Asırda Magaralılar İzmit Körfezinin ucuna yerleşmişlerdir. "Astakos" ismini verdikleri bir kent kurmuşlardır. Balkanlardan gelen Traklar muhtelif tarihlerde bu bölgeye gelmişlerdir. M.Ö. 3. Asırda Trakya Kralı Lysimacos "Astakos" kentini tahrip etmiştir. 1337\'de Orhan Gazi zamanında Akça Koca emrindeki Türk ordusu İzmit ve çevresini fethetmiştir. Orhan Gazi İzmit\'i il olarak büyük oğlu Rumeli Fâtihi Veliaht-Şehzâde Gazi Süleyman Paşaya vermiştir. Akçakoca Karadeniz\'e kadar bütün bölgeyi fethetmiştir. Böylece ilk defa Karadeniz sahiline inilmiştir.  1481 senesinde Fâtih Sultan Mehmed Han büyük bir ordu ile İtalya üzerine sefere çıkarken, İzmit\'in Gebze ilçesinde şehid olmuştur. Birinci Dünya Harbinden sonra 6 Temmuz 1920 ile 27 Haziran 1921 arasında 11 ay 22 gün (244 gün) İngiliz ve Yunan işgalinden sonra yeniden geri alınmıştır. Cumhuriyet devrinde Gölcük Türk donanmasının en mühim üssü hâline getirildi ve modern tersaneler, tarihî İzmit tersanesinin yerini aldı.
+\n\n
+NEREDE GEZİLİR: \n Ballıkayalar,  Eskihisar kalesi,  Hannibal mezarı. Pertev Mehmed Paşa ve Çoban Mustafa Paşa külliyeleri. Orhan Gazi, Mehmed Bey (Fevziye) ve İmaret camileri. Sultan Süleyman köprüsü, Yalı ve Mehmed Bey hamamları ile Yenihamam ve Küçükhamam, Canfeda Kethüda Kadın ve Mısıroğlu çeşmeleri, Hünkâr kasrı, İzmit saat kulesi, İzmit, Yarımca ve Osman Hamdi. Bey müzeleri.
+\n\n
+NE YENİR:\nCızlama, kıvırma, kandıra yoğurdu, pişmaniye, saray helvası ve çiğceli kavurma.
+\n\n
+Ünlü Tatlılar:\nHöşmerim ve otur Fatma tatlısı.
+\n\n
+NEREDE   YENİR: \n   Merkezdeki    Öz   Babayiğit   Restaurant, Maşukiye\'deki  Maşukiye Balık Restaurant, Kocaeli\'ne  yolu düşenlerin uğrayabileceği iki durak.
+\n\n
+NE ÜRETİR:\nBuğday, yulaf, mısır, ayçiçeği, şekerpancarı, tütün, keten, domates, lahana, ıspanak, bakla, kereviz, enginar, elma, kiraz, vişne, erik, şeftali, fındık, üzüm, dut. Pişmaniyesi, kirazı ve \        fındığı, İzmit çene suyu meşhurdur.</item>
+        <item>KONYA  42
+\n\n
+NÜFUSU:1,959,082\n\n
+
+İLÇELERİ:\nKaratay, Meram, Selçuklu, Ahırlı, AkÖren, Akşehir, Altınekin, Beyşehir, Bozkır, Cihanbeyli, Çeltik, Çumra, Derbent, Derebucak, Doğanhisar, Emirgazi, Ereğli, Güneysınır, Hadım, Halkapınar, Höyük, Ilgın, Kadınhanı, Karapınar, Kulu, Sarayönü, Seydişehir, Taşkent, Tuzlukçu, Yahhöyük ve Yunak.
+\n\n
+TARİHÇESİ:\nKonya çok eski bir yerleşim merkezidir. M.Ö. 6000-5000 yıllarında burada yerleşme merkezi kurulduğu araştırmalarla anlaşılmıştır. Konya târih sahnesine ise M.Ö. 1400-1200 arasında Hitit İmparatorluğunun bir bölgesi olarak girmiştir. Hititler iç savaş ve bölücü faaliyetlerle yıkılınca Konya sırası ile Frikyahlar, sonra Lidyalıların, Kimmerlerîn hâkimiyeti altına girmiştir. Hazret-i Ömer zamanında İslâm orduları Konya\'yı  fethettiler. Anadolu Selçuklu Devleti yarım asır İlhanlılara tâbi oldu. Selçukluların son devresinde Oğuzların Avşar (Afşar) Türkmen Beyleri olan Karamanoğulları bu bölgeye yerleştiler. Ermenek kasabasını başkent yaparak beylik kurdular. Daha sonra (Karaman) adı   verilen   "Lârende"ye   yerleştiler.   Anadolu Beyliklerinden Osmanlılardan sonra en mühimi olan Karamanoğulları zengin mimarî ve kültür eserleri bırakmışlardır. Yavuz Sultan Selim Han, Mevlâna hazretlerinin türbesini yeni baştan tamir ettirdi. Kanunî Sultan Süleyman Han "Irâkeyn"  Seferinde Konya\'ya uğradı. Meşrutiyetten sonra nüfus ve ekonomisi gerileyen Konya Cumhuriyet devrinde yeniden gelişmeye başlamıştır.   1867\'de büyük bir yangın ve 1873 \'te korkunç kıtlık Konya\'yı altüst etmiştir. 1922 senesine kadar eyalet merkezi olan Konya 1923 \'te il (vilayet)olmuştur.
+\n\n
+NEREDE GEZİLİR:\nMeram Bağlan, Ilgın Kaplıcası, Meram Taş Köprü, İvriz Kaya Kabartması, Beyşehir Kalesi, Akmanastır, Hagia Eleni Kilisesi, Sırçalı Medrese, Tacül Vezir Medresesi veTürbesi, İnce Minareli Medrese, Ali Gav, Küçük Karatay, Karatay ve İsmail Aka (Taş Medrese) Medreseleri. Has Bey ve Nasuh Bey Darülhuffazları. Seydişehir Muallimhanesi, İplikçi Camisi ve Medresesi, Sadreddin Konevi Camisi ve Türbesi. Alaeddin Dursunoğlu, Selimiye, Kapı, Aziziye, Eşrefoğlu ve Pir Hüseyin        Camileri. Sahip Ata, Karabaş Veli ve Lala Mustafa Paşa Külliyeleri. Akşehir ve Ereğli Ulucamileri.  Mevlana Türbesi  ve Dergâhı, Nasreddin Hoca Türbesi, Taş Mescit, Sırçalı Mescit, Karatay,Tahir ile Zühre, Altunkalem. Güdük Minare ve Küçük Ayasofya Mescitleri, Ereğli müzesi İvriz Kaya Anıtı, Sille (Siyata), Ak Manastır, Çatal Höyük, Sille \' Aya-Elena Müzesi, Eflatunpmar Hitit Anıtı, Kilistra Antik Kenti, Karahöyük, Bolat Örenleri, Nekropol Alanı, Bouleteferion, Selçuklu Köşkü. Kubadabad Sarayı, Yerköprü Mağarası, Balatini Mağarası, Körükini Mağarası, Suluin (Değirmen İni) Mağarası, Sakaltutan Mağarası, Susuz Mağarası, Tınaztepe Mağarası, Pınarbaşı Mağarası, Büyük Düden Mağarası ve Feyzullah Düdeni.
+\n\n
+NE YENİR:\nTayga, havuç çorbası, tarhun çorbası, et tiridi, tandır kuzusu, patatesli köfte, erik dolması, et kabağı, sac böreği, mercimekli oğmaç, arapaşı çorbası, düğün yemeği, tandır çorba, bamya, tutmaçe, erişte çorbası, fırın kebabı, etli ekmek, çullama, iki bıçak arası ciğer, topalak köfte, calla, ekşili kabak, yumurtalı kabak, zülbiye (Papaz Yahisi), patlıcan bayıltan, lahana kapaması, patlıcan böğürmesi, çöpleme, peynirli kıymalı börek, kıkırdaklı börek, tandır saç, sedirler, tatar böreği. Bamya Çorbası, Çebiç, Çebiçin Suyuyla Pişirilmiş Bulgur Pilavı, Su Böreği, Etli Ekmek (Etli Pide), Fırın Kebabı, Sacarası, Tayga, Mercimekli Oğmaç, Arapaşı, Tandır, Tutmaç ve Erişte, Çullama, İki Bıçak Arası Ciğer, Höşmerim, Topalak Köfte, Kabak Tatlısı, Zülbiye (Papaz Yahisi), Patlıcan Bayıltan, Lahana Kapaması, Patlıcan Böğürmesi, Peynirli Kıymalı Börek, Kıkırdaklı Börek, Tandır Saç, Sedirler ve Tatar Böreği.
+\n\n
+NEREDE YENİR:\nKonya\'nın meşhur etli ekmeği 20 yıllık geçmişi olan Cemo adlı lokantada yenebilir. Konya\'nın diğer bir lezzet noktası ise fırın kebabıyla ünlü Hacı Şükrü lokantasıdır. Ali Baba, Şifa Restoran, Bolu Lokantası, Müthiş Konya Manzarasıyla Geleneksel Tatlar için Eselya, Köşk Konya Mutfağı, Gülbahçesi Konya Mutfağı, Aydınçavuş, Sultan Sofrası (Su Böreği), Elit Restoran ve Akyokuş Restoran.
+\n\n
+NE ÜRETİR:\nArpa, Şeker Pancarı, Yulaf, Nohut, Mısır (Slaj), Yonca, Elma, Kiraz, Vişne, Armut, Kayısı, Domates, Havuç, Kavun, Karpuz, Hıyar, Ispanak, Marul, Lâle, Fasulye, Beyaz ve Kırmızı Et. Otomotiv Yan Sanayi, Ziraat Alet Makineleri İmalât Sanayi. Makine ve Yedek Parça İmalât Sanayi. Döküm Sanayi, Kâğıt ve Ambalaj Sanayi. Sondaj Boru ve Sulama Sistemleri, Plastik, Boya ve Kimya Sanayi, İnşaat Malzemeleri Sanayi. Deri ve Tekstil Ürünleri -İmalât Sanayi, Madeni Eşya İmalât Sanayi ve Hırdavat, Değirmen Makineleri İmalât Sanayi, Demir Dışı Metaller Sanayi (Alüminyum Sanayi.) Krom, Magnezit, Linyit Kömürü, Barit, Çinko, Manganez, Sodyum Sülfat, Kükürt, Mermer, Boksit ve Andezit.</item>
+        <item>KÜTAHYA  43\n\n
+
+NÜFUSU:583,910
+\n\n
+İL ÇELERİ:\nAltıntaş, Aslanapa, Çavdarhisar, Domaniç, Dumlupınar, Emet, Gediz, Pazarlar, Şaphane, Hisarcık, Simav ve Tavşanlı.
+\n\n
+TARİHÇESİ:\nKütahya ve çevresinin tarihî Hititlerle başlar. Hititlerin iç savaş ile bölünüp yıkılmasından sonra, Kütahya ve çevresi Frikya, sonra da Lidya devletlerinin hâkimiyeti altına girdi. Persler, M.Ö. 6. asırda Lidya\'yı yenince Anadolu gibi bu bölgeler de Perslerin istilâsına uğradı. M.Ö. 4. Asırda Makedonya Kralı İskender, Anadolu ve İran\'ı istilâ etti. Pers Devletini ortadan kaldırdı. M.Ö. ikinci asırda Roma bütün Anadolu\'yu imparatorluğuna kattı. Afyon, Ankara, Antalya, Aydın, Balıkesir, Bilecik, Bolu, Burdur, Bursa, Çankırı, Denizli, Eskişehir, Isparta, İzmir, Kastamonu, Manisa, Muğla, Sakarya, Uşak ve Zonguldak. Kütahya, 17 Temmuz 1921\'den 30 Ağustos 1922\'ye kadar 1 yıl 1 ay 14 gün Yunan işgalinde kalmıştır. Büyük taarruzda geri alınan şehir, yakılıp yıkılmıştı. Kütahya, İstiklâl harbinde mühim yer işgal etmiş ve bu harbin neticeye ulaşması topraklarında kazanılan zaferle sağlanmıştır. Nitekim İstiklâl Harbinin en çetin çarpışmaları, Kütahya topraklarında olmuş, 30 Ağustos 1922\'de Başkomutanlık Meydan Savaşı burada yapılmış ve Yunan ordusu Dumlupınar bucağında hezimete uğratılmıştır.
+\n\n
+NEREDE GEZİLİR:\n Balıklı Camii, Hıdırlık Mescidi, Ali Paşa Camii, Câmi-iKebir(Ulucami),Kurşunlu Cami(KasımpaşaCâmii), Dönenler Camii (Mevlevihane Dergâhı), Çinili Cami, Kütahya müzesi, Çavdarhisar Açık Hava müzesi, Macar (Lajos Kossuth) evi, Dumlupınar anıtı. Hükümet Konağı, Kütahya kalesi, Aizani (Çavdarhisar) harabeleri, Taş Köprü, Ansir ve Sieaus. Kütahya, ormanları, yayları, mesire yerleri ve kaplıcaları ile meşhurdur. Emet Kaplıcaları, Kaynarca kaplıcası, Gediz kaplıcaları, Gediz ılıcası ve Simav-Eynal kaplıcası görülmesi gereken yerlerdir.
+\n\n
+NE YENİR:\nŞibit (ıspanaklı börek), mantı, kızılcık tarhanası, ak tarhana çorbası, miyane çorbası, cimcik, labada dolması, gözleme, tosunum, kaygana, kapamapelüze, dolamber böreği, namaz dolması, gökçümen hamursuzu, tekke çorbası, çene çarpan çorbası, kalbur köftesi, kuru köfte, etli bükme, göveç, küp kebabı, çevirme kebabı ve kuyu kebabı.
+\n\n
+Ünlü Tatlılar:\nHöşmerim, kaymak baklavası, yufka tatlısı ve kötdür tatlısı.
+\n\n
+NEREDE YENİR:\nKütahya merkezdeki Asilzade Restaurant ve Huzur Restaurant Kütahya lezzetlerini tadabileceğiniz iki önemli noktadır.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, mısır, nohut, fasulye, burçak, şekerpancarı, kenevir lifi, kenevir tohumu, sakız ve tohum olarak haşhaş, patates ve soğandır. Ayçiçeği, domates, patlıcan, biber, lahana. Kiraz, vişne, elma, armut, şeftali, ceviz, kestane, çilek, kavun ve karpuz. Büyü ve küçükbaş hayvancılık ile arıcılık yapılır. El sanatlarında, tabakçılık, urgancılık, hasırcılık, yemenicilik, çini ve porselen önde gelen sanatlardır.</item>
+        <item>MALATYA  44
+\n\n
+NÜFUSU:722, 065
+\n\n
+İLÇELERİ:\nAkçadağ, Arapkir, Arguvan, Battalgazi, Darende, Doğanşehir, Doğanyol, Hekimhan, Kale, Kuluncak, Pötürge, Yazıhan ve Yeşilyurt.
+\n\n
+TARİHÇESİ:\nMalatya\'nın tarihî Hititlere dayanır. Merkez ilçenin 4 km yakınında Aslantepe Höyüğünde M.Ö. 8. Asra ait Hitit Sarayı çıkmıştır. Hititlerden sonra bu bölgeye Hitit asıllı Kargamış Krallığı, Mitanniler, Hurriler, Sami Babilleri, Asurlular, Medler ve M.Ö. 6. Asırda Persler hâkim oldu. 1071 Malazgirt Savaşından sonra 1085\'te Selçuklular, Malatya\'yı fethettiler. Selçuklulara bağlı Danişmendoğullarımn 1135-1175 seneleri arasında 40 sene başkenti oldu.  1175\'te Malatya Türkiye Selçukluları Devletine(Konya\'ya) bağlandı. 1516 senesinde Yavuz Sultan Selim Han, Memlûk Devletine son verince, Malatya kesin olarak Osmanlı Devletine katıldı. On sekizinci asır ortalarında iç ayaklanmalar sebebiyle, Kahramanmaraş\'tan ayrılarak, Diyarbakır eyaletine bağlandı. Cumhuriyet devrinde il oldu. 1931’ de demiryolunun Malatya\'ya varması ve 1937\'de şehrin demiryolu ile Sivas\'a bağlanması kalkınmasını temin etti.
+\n\n
+NEREDE GEZİLİR:\nUlu Cami, Akminâre Camii, Darende Somuncu Baba, Abdüsselâm Camii, Köprülü Mehmed Paşa Camii, Şahâbıyye-i Kübrâ medresesi, Malatya kalesi, Malatya arkeoloji müzesi; Mağaralar: Onar, Ansur (Buzluk köyü), Orman Sırtı köyündedir ve tarih öncesi çağlara aittir. Aşağı İspendere ılıcası, Rotükan maden suyu da önemli bir mekândır.
+\n\n
+NE YENİR:\n Erişte çorbası, irinti çorbası, pirpirim çorbası, sütlü çorba, kulak çorbası, yoğurtlu çorba. Çökelek salatası, kuru fasulye pilakisi, mercimek salatası, patates salatası, pazı cacığı, pirpirim cacığı, pirpirim salatası, dereotlu balık, herse, kabuk aşı, şam kebabı; kann-bumbar dolması, çimdik köfte, çökelekli çiğ köfte, darende köftesi, ekşili köfte, elmalı köfte, etli dolma köfte, kabaklı çimdik köfte, keloğlu köftesi, mercimek köftesi. Sıcak çiğleme, sıkma köfte, tiritli köfte, yassı köfte, yavanda içli köfte, tavşanlı yufka, bildik dolması, domates-biber dolması, ekşili kabak dolması, etli kevek köftesi, fasulye kavurması, geleli kebap, hırçikli lahana köftesi, kabak ekşisi, kabak kavurması, pat köfte, patlıcan kavurması, pazı sarması, tava, mahluta pilavı, pirinçli halle, simit pilavı, yarmacalı pilav. Akıtma, kömbe, serun, bilik, kâğıt kebabı, kayısı, kınalı ekmek, pileke, taş küllüğü, gurut çorbası, analı-kızlı, gilgirikli köfte. Keloğlan köftesi, zeytinyağlı marul sarması, fasulye yaprağı sarması, kabak çiçeği dolması, soğan dolması, patlıcan dövmesi, içli köfte, bulgur ve kurşun geçmez köftesi.
+\n\n
+Ünlü Tatlılar:\nDemir tatlısı, fışfış, kabuk kavurma, kayısı dolması, peynir helvası, peynir lokma, yassı kadayıf ve kayısı tatlıları.
+\n\n
+NEREDE YENİR:\nMalatya\'nın yöresel lezzetlerini sunan Hacı Baba Kervansaray Lokantası Malatya\'da uğramanız gereken bir lezzet noktasıdır.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, nohut, fasulye, tütün, şekerpancarı, patatestir. Kayısı, elma, kiraz, armut, dut, ceviz, kavun, karpuz, domates, patlıcan, taze fasulye, Beyaz oğul balı (kayısısı ve balı çok meşhurdur. El sanatları; ahşap oymacılığı, bakırcılık, çömlekçilik, halı ve kilim dokumacılığı (şayak dokumacılığadır. İğne ve tığ oyası da meşhurdur.</item>
+        <item>MANİSA  45\n\n
+
+NÜFUSU:1,319,920\n\n
+
+İLÇELERİ:\nAhmetli, Akhisar, Alaşehir, Demirci, Gölmarmara, Gördes, Kırkağaç, Köprübaşı, Kula, Salihli, Sarıgöl, Saruhanlı, Selendi, Soma ve Turgutlu.
+\n\n
+TARİHÇESİ:\nManisa\'nın tarihi, Hititlerle başlar (M.Ö. 1450-1200) Hititlerin hakimiyeti altındaki topraklarda yaşayan İyonlar, bu bölgede İyon medeniyetini kurdular. Daha sonra bölgeye Lidyalılar, Persler, Makedonyalılar, Romalılar sahip oldu. Romanın ikiye bölünmesiyle, bölge Doğu Roma (Bizans) İmparatorluğu\'na kaldı. Bizans’a karşı elde edilen 1071 Malazgirt Zaferinden sonra Anadolu Fatihi Süleyman Şah, 1076\'da Anadolu Selçukluları Devletini kurdu ve Manisa\'yı İzmir Fatihi Çaka Bey fethetti. Birinci Haçlı Seferinde Bizanslılar Manisa\'yı ikinci defa Saruhan Bey fethetti. Selçuklu uç beylerinden olan Saruhan Bey, Manisa\'yı başşehir yaparak Saruhan Sultanı Yıldırım Bayezid Manisa\'yı Osmanlı topraklarına kattı. Tanzimat\'tan sonra Manisa "Saruhan" adı ile anılır olmuştur. Birinci Dünya Harbinden sonra Anadolu\'ya çıkan Yunan birlikleri, Manisa\'yı işgal etmişler ve Manisa, 3 yıl 3 ay 12 gün (26 Mayıs 1919-8 Eylül 1922) Yunan işgalinde kalmıştır. Yunan ordusu bozguna uğrayıp geri çekilirken, Manisa\'da bulunan 12 binanın 8 binini yakıp yıkmıştır. Cumhuriyetin ilânından sonra, sancaklara (vilâyet) il ismi verilince, Saruhan da il olmuş, 1927\'de şehrin adı Manisa olarak değiştirilmiştir.
+\n\n
+NEREDE GEZİLİR: \nManisa Müzesi, Şart, Akhisar (Thyatira), Alaşehir (Philadelphia), Bintepeler-Lidya Kral Mezarları, Aigai, Kybele, Niobe, Ulu Cami, Sultan Camii, Akhisar ilçesindeki Ulu Cami, Saruhan Bey Türbesi, Yirmi İki Sultanlar Türbesi, Süleyman Şah Türbesi, Kurşunlu Kaplıcaları, Urganlı Kaplıcaları, Emir Kaplıcaları, Şart Kaplıcaları, Niobe-Ağlayan Kaya, Sipil Daği Millî Parkı ve Kula Evleri.
+\n\n
+NE YENİR: \nManisa kebabı, şevketi bostan. Salihli odun köftesi, patlıcan pidesi, sebzeli kebap, enginar dolması, yalancı sarma, sirkeli havuç, börülce tarator. Sikonata, simit ekmeği, mesir macunu, kula güveç kapaması, şekerli pide ve otlu pide.
+\n\n
+Ünlü Tatlılar:\n Mantar tatlısı ile zerde.
+\n\n
+NEREDE YENİR: \nManisa merkezde bulunan Gülcemâl Kebapçısında Manisa kebabı yenilebilir. Ayrıca Akhisar\'ın meşhur Akhisar köfte ve salatasını Köfteci Ramız Ustada tatmanız mümkündür.
+\n\n
+NE ÜRETİR: \nZeytin, buğday, mısır, pirinç, türün pamuk; karnabahar, kereviz, domates, patlıcan, üzüm, şeftali, kavun, karpuz, kiraz, nar ve kestane.</item>
+        <item>KAHRAMANMARAŞ  46 \n\n
+
+NÜFUSU:1,004,414\n\n
+
+İLÇELERİ:\nAfşin, Andırın, Çağlayancerit, Ekinözü, Elbistan, Göksün, Nurhak, Pazarcık ve Türkoğlu.
+\n\n
+TARİHÇESİ:\nAnadolu\'da çok eski devirlerde kurulmuş şehirlerden biri olan Maraş, çeşitli tarihî hâdiselere sahne olmuştur. M.Ö. 2000 senesinde Batıdan gelen Hititler bu bölgeye hâkim olmuş. Hititli General "Maraj" bugünkü Maraş\'ın yakınında kurduğu şehre kendi adını vermiştir. Maraş bir ara "Gurgun" isimli genç Hitit Devletine başkentlik de yaptı. Hititlerin en faal olduğu yerlerden biri olan bu bölgede, Hititlere ait çok sayıda eser bulunmuştur. Gaziantep, Hatay, Urfa, Maraş\'a bağlıydı. Birinci Dünya Harbinden sonra İngilizler Maraş\'ı işgal ederek, Fransızlara verdi.    Fransızlar, Maraş\'taki Ermenileri ve Türkiye dışından, Avrupa\'dan getirdikleri Ermenileri silahlandırarak, Türklere büyük zulüm yaptılar.
+\n\n
+NEREDE GEZİLİR:\nKahramanmaraş müzesi, Kahramanmaraş kalesi, Hurman kalesi, Taş medrese, Kahramanmaraş Ulu Cami, N.F.K. Kültür Merkezi, Hatuniye Cami, Elbistan Ulu Cami, Eshab-ı Keyf mağrası, Döngel mağarası, Bulut Deliği mağarası, Göksün Büyükkızılcık içmesi; Ekinözü (Cela) içmesi, Yavşan yaylası, Başkonuş yaylası. Yaylaüstü, Çukurhisar, Değirmendere, Orçan, Köroğlu, Kızlar, Akkale, Hurman, Hastırm, Azgıt, Meryemçil ve Mencik Kaleleri. Kahramanmaraş Ulu Camii, Hatuniye, Arasa, Acemli Camileri, İklime Hatun Mescidi ve Türbesi, Afşin Eshab-ı Kehf Külliyesi, Taş Medrese, Taşhan, Katiphan, Hışırhan; Ceyhan, DalyanveSüleymanhKöprüleri. ŞeyhAdil,Uyuzpmarı,Süleymanlı, Sütçü İmam ve Meydan Çeşmeleri gibi yerlerdir. Yavşan, Başkonuş, Kozludere Yaylaları, Döngel, Bulutdeliği, Savruk, Gümüşkaya, Ballık ve Cancık mağaraları; Güvercinlik, Fırnız ve Körsulu vadileri. Ali Kayası, Tekir Yeşilgöz, Pınarbaşı ve Kapıçam Mesire yeri. Kumaşır Gölü, Atatürk Parkı, Menzelet ile Sır baraj gölü ve çevreleridir. Ilıca Kasabası Kaplıcaları, Ekinözü İlçesi İçmeleri, Göksün Büyükkızılcık İçmesi ve Şerefoğlu Köyü Çamur Banyosu Ilıcası sağlık turizmi yönünden önemli bir konuma sahiptir. İde 14 turizm seyahat acentesi faaliyet göstermektedir. Bunlardan 12\'si İl Merkezinde, ikisi Elbistan İlçesinde bulunmaktadır.
+\n\n
+NE YENİR:\nEkşili çorba, döğmeli mercimekli çorba, yoğurtlu döğmeli çorba, leğen çorbası, tırşık çorbası, Maraş paçası gibi çorbalar. Simit köftesi, kısır köftesi, içli köfte, sömelek köfte, suluyağlı köfte, ekşili köfte, yoğurtlu köfte, yavan köfte, ekşili aya köftesi gibi köfte çeşitleri; keşk aşı (döğme aşı), Maraş pilavı, tavuktu pilav, pırpıt lapası, sömelek, un sucuğu, bastık, çullama, ilende, hapısa, ravanda, peynirli ve çökelekli börek, bayram çöreği. Kahramanmaraş Yoğurtlu Kebab, Maraş Paçası, Bezdirme, Et Böreği, Saç Kavurması, Tavuklu Pilav, Maraş Pilavı, Kabak Lapası, Pıt Pıt Lapası, Bulamaç, Ekşili Bamya, Ciğer Kebabı, Biber dolması, Patlıcan dolması, Ekşili köfte, Bezdirme köftesi, Çiğ köfte, İçli köfte, Yavan köfte, Kısır köftesi, Tarhana çorbası, Tirşik çorbası, Mimbar Dolması. Bazlama, Leğen Çorbası. Peynirli Börek, Dövme Aşı, Yoğurtlu Dövme Çorbası, Kuru Dolması, Patlıcan Kebabı, Yaprak Sarması, Ekşili Kebab, Kabak dolması, Yoğurtlu köfte, Bayram çöreği, Çökelek böreği, Fıstıklı pilav. Acem (Havuçlu) Pilavı, Tas pilavı, Söörme, Nohut yahnisi, Eşkilaye sulusu, Ekşili et kabak, Kahramanmaraş\'ın en önemli lezzetlerinden biri de meşhur dondurmasıdır.
+\n\n
+NEREDE YENİR:\nBilindiği gibi, Kahramanmaraş\'ın en önemli lezzetlerinden biri dondurmasıdır. Salep ve keçi sütünden yapılan dondurmanın en iyisini bulabileceğiniz mekân İstanbul\'da Mado olarak bilinen Yaşar Usta adlı dondurmacıdır. Ayrıca merkezdeki Tuğra Lokantası, Maraş\'ın diğer lezzetlerini tadabileceğiniz bir mekândır. Kahramanmaraş Merkezde Bulunan Tüm MADO Şubelerinde Kahramanmaraş Yöresine ait yemek yiyebilmek mümkündür. Buna ek olarak, Küçük Ev ve Sezallar Restoran\'da şehre has yemekler mevcuttur.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, pirinç, çavdar, mahlut, nohut, fasulye; şekerpancarı, pamuk, üzüm, çilek, elma, kayısı, armut, zeytin, dut; antepfıstığı, fındık, yerfıstığı, çamfıstığı ile domates, biber, lahana, soğan, kabak ve hıyar.</item>
+        <item>MARDİN  47
+\n\n
+NÜFUSU:745,778\n\n
+
+İLÇELERİ: \n Midyat, Dargeçit,   Derik,   Kızıltepe,   Mazıdağı, Nusaybin, Ömerli, Savur ve Yeşilli.
+\n\n
+TARİHÇESİ:\nMardin\'in bilinen tarihi, 3000 sene öncesine dayanır. Mardin bölgesi, Anadolu\'da ilk siyasî birliği kuran Hitit İmparatorluğunun sınırları dışında kalmıştır. Hititler zamanında bu bölge, Hurri Mitanni Krallığının elindeydi. Uzun müddet Bâbil ve Asur hâkimiyeti altında kalan Mardin\'i Medler ele geçirdi. 1507\'de ise İran\'daki Safevîler, Mardin\'i ele geçirdi. Yavuz Sultan Selim Han, 1517 Çaldıran Zaferi ile Safevîleri Anadolu\'dan attı. Bıyıklı Mehmed Paşa, Mardin\'i fethederek, Osmanlı Devletine bağladı. İstiklâl Harbinde Mardin halkı mücadelesini silâhsız, fakat birlik içinde  düşmanı korkutarak yapmıştı.  İcap  etseydi, Mardin  de düşmana karşı kahramanca savaşırdı. Mardin\'de düşmana karşı mücadele şu şekilde verildi: Mardin önce İngilizler tarafından işgal edilmek istendi. İstasyonda silâhlı, eli kazma, kürek, satırlarla dolu halk Norman\'ı karşıladı. Norman, Mardin\'in teslim olmasını istedi. Norman korktuğu için trenle Mardin\'den ayrıldı. Diyrabakır\'a da gitmekten korktu. Mardinlilerin bu kahramanca hareketi, hem Mardin\'i hem de Diyarbakır\'ı Fransız işgalinden kurtardı. Cumhuriyet devrinde, Mardin, 1923\'te il merkezi oldu.
+\n\n
+NEREDE GEZİLİR:\nMardin müzesi, Necmeddîn Camii, Abdüllatif (Latifıye) Camii, Hâtuniye Medresesi, Zinciriye Medresesi, Dara harabeleri, Deyrulumur manastırı, Mardin kalesi, Dara kalesi, merkezde Ulu Cami, Meryemana Kilisesi ve Patrikhanesi, Mor Yusuf Kilisesi (Surp Hovsep), Deyruülzzafaran manastırı (Mor Hananya), Deyrulumur manastırı (Mor Gabriyel), Mor Yakup manastırı (Nusaybin), Midyat Meryemana manastırı ve Mor Dimet manastırı.
+\n\n
+NE YENİR:\nLahmacun, ikbebet (içli köfte), semberuk, irok, kibe, dobo, kaburga dolması, kişke, tavuk dolması, kitel, raha, lebeniyye, şehriyeli bulgur pilavı, ice, sembusek, çiğ köfte, sini köftesi, kaburga dolması, kibemumbar, saç ekmeğidir. Fırına verilen tereyağlı karpuz ve keşkek.
+\n\n
+Ünlü Tatlılar:\nZerde, badem şekeri, rumiber nuriye tatlısı, cevizli sucuk, harire (pekmezli muhallebi) helva çeşitleri ve cevizli tatlılar yenebilir.
+\n\n
+NEREDE YENİR:\nMardin\'in leziz yöresel yemeklerini tatmak isterseniz, Hasankeyfin ortasından geçen nehrin kıyısında bulunan Cercis Murat Konağı yöresel yemeklerin özenle sunulduğu bir mekândır. Ayrıca Mardin\'in Münir Ustası buranın lezzetlerinin tadılması gereken önemli bir yerdir.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, pirinç, nohut, pamuk, domates, patlıcan, hıyar, kavun-karpuz ve üzüm.</item>
+        <item>MUĞLA  48 \n\n
+
+NÜFUSU:766,156
+\n\n
+İLÇELERİ:\nBodrum, Dalaman, Datça, Fethiye, Kavaklıdere, Köyceğiz, Marmaris, Milas, Ortaca, Ula ve Yatağan.
+\n\n
+TARİHÇESİ:\nMuğla ve çevresinin tarihî çok eskilere dayanır. M.Ö. 3000 yıllarında Kargalılarm bu bölgeye hâkim oldukları, M.Ö. 2500 senelerinde Luvilerin yerleştiği ifade edilir. Eldeki bilgiler, bu bölgeye Hititlerin hâkim olduğunu ve Lugga ismini verdiklerini göstermektedir. Hitit İmparatorluğunun iç savaş ve iktidar kavgaları ile zayıflayıp yıkılması üzerine, bölgeye Frikya Krallığı hâkim oldu. Frikya Devletinin yıkılışı ile bölge Lidya Krallığının eline geçti. Ege adalarında oturanlar bu bölgenin kıyılarında Dor Siteleri kurdu. Pers Kralı Kiros, M.Ö. 6. Asırda Lidya Devletini yıkınca bu bölgeyi de işgal etti. Hatta Menteşe Beyliği, bir ara Rodos Adasının bir kısmına sahip oldu. Anadolu\'nun savunması Ege Adalarından başlar görüşü, ilk çağlardan bu yana değişmemiştir. Birinci Dünya Harbinden sonra, sembolik sayıda İtalyan askerinden ibaret bir işgal kuvveti, (1920-1921) yıllarında kısa bir müddet kaldıktan sonra, Muğla\'yı Millî Kuvvetlere çarpışmadan devretti. Cumhuriyet devrinde bütün mutasarrıflıklar (sancaklar) il olunca Muğla da il oldu. Lozan\'dan önce Muğla\'nın % 92\'si Türk, % 7\'si Rum idi. Lozan Antlaşması ile Rumlar Yunanistan\'a gönderildi.
+\n\n
+NEREDE GEZİLİR:\nUlu Cami, Kurşunlu Camii, Şeyh Camii, Pazaryeri Camii, Firuz Bey Camii; Ahmed Gazi Medresesi, Beçin Kalesi, Bodrum Kalesi, Keramos Kalesi, Mozule Anıtı (Mausoleum), Tiyatro, Agora, Mars tapmağı ve kilise, Bodrum\'da bulunan en eski eserlerden başlı çalarıdır. Myndos şehri harabeleri, Knidos şehri harabeleri, Amos şehri harabeleri ile Ören harabeleri görülmeye değer yerlerdir.
+\n\n
+NE YENİR:\nKuzu ve oğlak etinden yapılan püryan kebabı, ahtapot güveç, albakor çiğ balık, kefal pilavı, çökertme kebabı, ciğer balıkemisi, top top köfte; kanlı kavurma, ahtapot pilavı, otlu dolama, velikharç böreği, ara, dutmeç, çopur, döş dolması, balıklen, çmtar kavurması; ot ekşilemesi, gali patlıcan, ebegümeci kavurması, börülce kavurması, teltorlu börülce, yalankı, üzüm köftesi, betsel, dülek reçeli, bumbar dolması. Milas\'ın Keşkeşi ve şiş kebabı, Bodrum\'un Paşa Makarnası ve Saraylısı, Datça\'nın Mürdümerik Çorbası ve Hernep Pekmezi meşhurdur. Levrek balığı da, bu yörenin lezzetli balıklarındandır.
+\n\n
+NEREDE YENİR:\nMarmaris Çamlı Köyü, Sedir adasında bulunan Çınar restoranda şahane bir kahvaltı yapabilir. Ortaca\'daki Toprak ana restoranda fırında kuzu ve nar suyuyla kendinize ziyafet çekebilirsiniz.
+\n\n
+NE ÜRETİR:\nPamuk, tütün, arpa, mısır, bakla, susam, anason, kuşkonmaz, lahana, pırasa, ıspanak, patlıcan, hıyar, domates, fasulye, biber, soğan; bakla, karnabahar, zeytin, üzüm, elma, armut, şeftali, erik, incir, badem, turunç, altıntop, bal ve antepfıstığı.</item>
+        <item>MUŞ  49
+\n\n
+NÜFUSU:405,509\n\n
+
+İLÇELERİ:\nBulanık, Hasköy, Korkut, Malazgirt ve Varto.
+\n\n
+TARİHÇESİ:\nHurri-Mitanni Krallığı ve bölgede bulunan Urartu kitabelerinden Urartu Krallığının bu bölgeye hâkim olduğu anlaşılmaktadır. M.Ö. 7. Asırdan itibaren Medler ve bilahare Persler bölgeyi ele geçirdiler. Babilliler bu bölgeye gelmişlerse de, bölgeyi tamamen ele geçirememiştir. M.Ö. 4. Asırda Makedonya Kralı İskender, Anadolu ve İran\'ı istila edip, Pers Devletini ortadan kaldırarak, bölgeyi Makedonya Krallığına bağladı. İskender\'in ölümünden sonra, Makedonya Krallığı, bu topraklarda hâkimiyetini devam ettiremedi. Muş, Anadolu\'nun kapısı konumdadır. Malazgirt Savaşıyla birlikte bin yıllık bir Türk Müslüman geleneğini yansıtır. 1901\'den itibaren Rusya\'nın yardımı ve İngiltere\'nin teşvikiyle, Ermeni Taşnak Komitesi, Muş çevresinde Müslüman-Türk köylerini basarak, çok büyük katliamlar yaptılar. Osmanlı Devleti bu isyanları şiddetle bastırdı. Birinci Dünya Harbinde Rusların teşvik ve yardımı ile yine, Ermeniler, Ermeni Devleti kurma hayaliyle büyük katliamlar yaptı. Müslümanlara âit binalar, ağaçlar, hattâ mukaddes kitabımız Kur\'ân-ı Kerîm dahil her türlü dinî eserleri yaktılar. 18 Şubat 1916\'da Ruslar, Muş\'u işgal etti. 26 Temmuz 1916\'da Türkler Muş\'u yeniden ele geçirmesine rağmen, takviye alan Rus birlikleri, 9 Ağustos 1916\'da yeniden Muş\'u işgal etti. Böylece 5 ay 6 gün ve 8 ay 23 gün olmak üzere, toplam; 1 sene 1 ay 29 gün devam eden işgal esnasında, Ruslar ve Ermeniler çok büyük katliamlar yaptılar.
+\n\n
+NEREDE GEZİLİR:\nUlu Cami, Alâaddîn Camii, Hacı Şeref Camii, Muş Kalesi, Malazgirt sahrası, Kale tepe, Kızıl Ziyaret tepe, Bulanık gölü ve Barikon kaplıcası.
+\n\n
+NE YENİR:\nMuş köftesi, hazüt dolması, kırçıklı kalem dolması, teter helvası, kurçık, keşkek, herse, murtoge, cevbelek, helimaşi, jag, gülük, cortı aşı, kenger, sepidak, muş büryan uçkun ve kak yenebilir.
+\n\n
+NEREDE YENİR:\nMuş lezzetlerini tadabileceğiniz mekânlardan biri, Belediye çarşısında bulunan Şark Lokantasıdır.
+\n\n
+NE ÜRETİR:\nKavun, karpuz, üzüm, lahana, buğday, arpa, mısır, nohut, tütün ve şekerpancarı.</item>
+        <item>NEVŞEHİR  50       \n\n
+
+NÜFUSU:280,058
+\n\n
+İLÇELERİ:\nAcıgöl, Avanos, Derinkuyu, Gülşehir, Hacıbektaş, Kozaklı ve Ürgüp.
+\n\n
+TARİHÇESİ:\nNevşehir ve civarının yaklaşık beş bin senelik bir tarihî geçmişi vardır. Bölgenin ilk sakinleri Hititler olup, bu bölgeye "Nissa" ismini verdiler. Hititlerden sonra Frigler ve Lidyalılar bölgeye hâkim oldu. İslâm orduları "Niğde-Aksaray-Kayseri" üçgeni içinde kalan bu bölgeyi 8. Asırda fethederek, 300 sene hâkim oldular. İslâm Devleti, iç isyan ve bölücü faaliyetlerle zayıflayınca, bölge tekrar Bizans\'ın eline geçti. 1071 Malazgirt Zaferinden sonra Anadolu Fatihi Kutalmışoğlu Süleyman Şah, bütün Anadolu gibi bu bölgeyi de fethetti. Türkler bu köye "Muşkara" ismini verdiler. Selçuklu Devletinin yıkılışından sonra İlhanlılar, 14. Asır ortalarında da Eratnaoğulları ve Karamanoğulları bölgeye hakim oldular. On dördüncü asrın sonlarında Nevşehir ve civarı Osmanlı Devletinin hâkimiyeti altına girdi.
+\n\n
+NEREDE GEZİLİR:\nNevşehir kalesi, Dâmâd" İbrahim Paşa külliyesi, Alâaddîn Camii, Karavezir külliyesi, Kızılkaya Köyü Camii, Hacı Bektaş Velî Dergâhı ve külliyesi, peri bacaları, Kapadokya, Zelve harabeleri, Yeraltı şehirleri, Göreme vadisi, Kadirah deresi, Üçhisar, Kozaklı kaplıcaları ve Gümüşkent (Salanda) içmesi.
+\n\n
+NE YENİR:\nTandır çorbası, biryan, çömlekte kuru kayısı yahnisi, fırında çömlek eti, üzümlü et, yaprak, bumbar dolması, koripaparani. Çömlekte kuru fasulye, du pilavı, pekmezli bulamaç, düğü, kesme, katma aşı, ağpakla, dıvıl, ayva dolması. Nevşehir tavası, sızgıt, çitme fasıl, osbar kebabı, peravu mantı, tandırda kuru fasulye ve bitirgen.
+\n\n
+Ünlü Tatlılar:\nKayısı tatlısı.
+\n\n
+NEREDE YENİR:\nNevşehir Kapadokya\'daki Tafana Pide ve Kebap Salonu, Nevşehir\'in en iyi lezzet duraklarından biridir.
+\n\n
+NE ÜRETİR:\nPatates, şekerpancarı, buğday, arpa, çavdar, bakla, nohut, fasulye, mercimek, üzüm, elma, zerdali, armut, kayısı, ceviz, dut, iğde, ayva, badem. El sanatları olarak da hah, kilim, sicim dokumacılığı ve çanak çömlek yapımı.</item>
+        <item>NİĞDE  51
+\n\n
+NÜFUSU:331,677\n\n
+
+İLÇELERİ:\nAltunhisar, Bor, Çamardı, Çiftlik ve Ulukışla.
+\n\n
+TARİHÇESİ:\nNiğde ilinin bilinen tarihi beş bin sene önceye dayanır. Eski çağlarda Niğde şehrinin bulunduğu yerde yerleşme merkezi yoktu. Hititler zamanında Niğde, "Nahita" isimli bir yerleşme merkeziydi. Hitit Devletinin yıkılışı ile bu bölge, M.Ö. 8. Asırda Frikya Devletinin hâkimiyeti altına girdi. Anadolu\'da kurulan Frikya ve sonradan Lidya Devleti, yine iç karışıklıklar ve bölünme neticesi yıkılınca, bu bölge Perslerin eline geçti. Fatih Sultan Mehmed Hanın oğlu Şehzade Mustafa tarafından büyük bir yenilgiye uğratılıp, doğuya sürüldüler. Aynı sene İshak Paşa, Niğde’yi Karamanoğullarından   geri   alarak,   Karamanoğulları Beyliğini kesin bir şekilde tarihten sildi. Böylece Anadolu, Osmanlı idaresinde Fırat veToroslara kadar birleşti. Osmanlı devrinde Niğde, zaman zaman isyanlara ve çatışmalara sahne oldu, bundan zarar gördü ve göçler başladı. Kayseri ve Konya gelişirken, Niğde iç isyanlarla ikinci derecede bir şehir durumuna düştü. İsyan eden Abaza Mehmed Paşa, Niğde\'yi yağma etti. Düşman istilâsı görmemiş bir ilimiz olan Niğde, Cumhuriyet devrinde (1923) il merkezi oldu.
+\n\n
+NEREDE GEZİLİR;\nNiğde Müzesi, Alaaddin Camii, Sungurbey Câmi(1335), Paşa Cami (17.yy.), Kale Camii (1747), Hanım Camii (1452), Selçuklardan kalma Hüdavend Hatun Türbesi, Dörtayak Türbesi ve Osmanlı Dönemi Şerifali Türbesi, Niğde Kalesi, Saat Kulesi, Kuşkayası mezarlığı, Gümüşler ören yeri ve manastırı.
+\n\n
+NE YENİR:\nNiğde tavası, saç kavurma, tandır ve çanak fasulyesi, mangır çorbası, oğma çorbası, pancar çorbası, erişte pilâvı ve çorbası. Ayva boranisi, elma dolması, tarhana çorbası, kuskus pilavı ve çorbası, üzüm boranisi, kabak köftesi, kabak musakkası, ditme, tirit, söğürme, valu söğürme, tatlı havu, ayvan boranisi, soğan yahnisi, ekkabağı, yoğurtlu çorba, mumbar dolması, papara ve kaygana.
+\n\n
+Ünlü Tatlılar:\nAşure, burma tatlısı ve kaşık kayganası.
+\n\n
+NE ÜRETİR:\nAyçiçeği, patates, buğday, arpa, çavdar, fasulye, nohut, sarımsak, şekerpancarı, elma, misket elması ve üzüm.</item>
+        <item>ORDU:  52
+\n\n
+NÜFUSU:715,409\n\n
+
+İLÇELERİ:\n Akkuş, Aybast, Çamaş, Çatalpınar, Çaybaşı, Fatsa, Gölköy, Gölyalı, Görgentepe, İkizce, Kabadüz, Kabataş, Korgan, Kumru, Mesudiye, Perşembe, Ulubey ve Ünye.
+\n\n
+TARİHÇESİ:\nOrdu ilinin bulunduğu toprakların tarihi çok eski devirlere dayanır. Anadolu\'ya hâkim olan Hititlerin sınırında fakat Hitit hâkimiyetinin dışında kalan bu bölge, Hitit Devletinin yıkılışından sonra, mirasını paylaşan Frikya ve Lidya devletlerinin de, hâkimiyetine geçmemiştir. Ancak Batı Anadolu (İyonyalı) tacirler, burada ticarî koloniler kurdular. 1204\'te Dördüncü Haçlı Seferi sonrasında kurulan Trabzon Rum İmparatorluğu bu topraklara hâkim oldu. Bağımsız olmasına rağmen, Konya Selçuklularına tâbi olan bu imparatorluğun toprakları gittikçe daraldı. Devamlı Türkmen göçleriyle Türkleşen bölge, 1346\'da Canik Beyliğini kuran Hacıeminoğullarının idaresine geçti. 1391\'de Yıldırım Bâyezîd Han, tarafından bölge toprakları Osmanlı Devletine katıldı. 1402 senesinde Sultan Bâyezîd\'i yenen Timur Hanı, bölgeyi tekrar Hacıeminoğullarına verdi. Fatih Sultan Mehmed Hân, 1461\'de Trabzon Rum Pontus Devletini ortadan kaldırarak, bütün bu bölgeyi kesin olarak Osmanlı Devletine kattı.
+\n\n
+NEREDE GEZİLİR:\nEtnografya Müzesi, Kurul Kayası, Yason Burnu, Orta Cami-Merkez, Çambaşı yaylası, Aybastı-Perşembe yaylası, Mesudiye-Keyfalan yaylası, Yeşilce-Topçam yaylalar, Hoynat kalesi ve Ünye kalesi.
+\n\n
+NE YENİR:\nHamsili pilav, karalâhana çorbası, ısırgan çorbası, kara kabak çorbası, karalâhana sarması ve Ünye pilâvı; hamsi tava, hamsi buğulaması, içli hamsi, pancar sarması, mısır çorbası. Çerkez tavuğu, yoğurtlu domates salatası, tirmit (mantar), yumurtalı sakarca ve yağlı...
+\n\n
+NEREDE YENİR: \nOrdu\'nun merkezindeki Kervansaray Lokantası ve Cihan Lokantası yöresel lezzetler için önemli duraktır.
+\n\n
+NE ÜRETİR:\nFındık, çay, lahana, barbunya, mısır, patates, arpa, çavdar, yulaf; armut, elma, kestane, kivi, Trabzon hurması, kiraz, dut. En çok avlanan balıklar hamsi, istavrit, kefal, palamut, torik, zargana, uskumru, mezgit, kalkan ve barbunya.</item>
+        <item>RİZE  53
+\n\n
+NÜFUSU:316, 252
+\n\n
+İLÇELERİ:\nArdeşen, Çamlıhemşin, Çayeli, Derepazarı, Fındıklı, Güneysu, Hemsin, İkizdere, İyidere, Kalkandere ve Pazar.
+\n\n
+TARİHÇESİ:\nRize adının M.Ö. 7. Yüzyılda başlayan kolonizasyon döneminde, yörede bol pirinç yetiştirilmesinden ötürü kent yakınlarından geçen çaya verilen "Rhizios" veya sonraki dönemlerde verilen "Rhizaion"dan geldiği söylenmektedir. M.Ö. 2. Binin başlarında tarım ve hayvancılıkla uğraşan kimi toplulukların yaşadığı tahmin edilen Rize ve çevresinin yazılı tarih dönemi, M.Ö. 7. Yüzyılda Miletli denizcilerin yaptıkları seferlerle başlamaktadır. Bu dönemde Miletliler Doğu Karadeniz kıyılarında ticarî yerleşimler kurmuşlardır. Daha sonra Kimmer, Med, ve Pers akınlarına uğrayan yöreyi MÖ. 1. yüzyılda da Partlar ele geçirmiş olup, yöre M.S. 10 yılında Roma egemenliğine girmiştir. M.S. 4. Yüzyıldan başlayarak Sasani ve Bizans Malazgirt Savaşı\'ndan sonra Türklerin eline geçmiş, ancak Selçukluların batıya yönelmesiyle tekrar Bizans arasında sürekli el değiştirmiş, 1071 Malazgirt Savaşı\'ndan sonra Türklerin eline geçmiş, ancak Selçukluların batıya yönelmesiyle tekrar Bizans egemenliğine girmiştir. Rize\'nin bir kısmı 1461\'de diğer yöreleri de 1509\'da Osmanlı topraklarına katılmıştır. Birinci dünya savaşında Ruslar tarafından işgal edilen Rize, 2 Mart 1918 \'de kurtuldu ve 1924\'te il merkezi oldu.
+\n\n
+NEREDE GEZİLİR:\nAtatürk Evi Müzesi (Sarı ev), Etnografya Müzesi, Rize Kalesi, Zil Kalesi, Kale-i Bala Kız Kalesi, Zeleki Kalesi, İslâm Paşa Camii, Ayder Yaylası ve Kaplıcası, Andon içmesi, Ağaran şelâlesi, Ayder yaylası, Çamlıhemşin-Aşağı ve Yukarı Kavran yaylaları, İkizdere-Anzer (BallıkÖy) Yaylası turizm merkezi, İkizdere-Çağırankaya yaylası ve Elevit yaylası.
+\n\n
+NE YENİR:\nAnzer balı, Rize simidi, çumur, pepçura, ayran doğraması, çılbır, çırıhta, çirmulis, fasulye tavalisi, hamsili pilav, hamsili ekmek, hamsi kuşu, hamsi tavahsı, herse, hoşme, kabak felisi, kabak sütlisi, korkota çorbası, lahana çorbası (vurma lahana) Minci, muhlama, ormanlı hamsi, paluze, lahana ezmesi, kiremitte balık, ezme lahana; fındık dolması, turşu kavurması, papara, pasmanika, pekmezli kabak, sarma (lahana sarması), enişte lokumu ve Çayeli fasulyesi\'dir.
+\n\n
+Ünlü tatlıları:\nLaz böreği, laz aşuresi ve pekmezli aşure.
+\n\n
+NEREDE YENİR:\nRize\'nin meşhur hamsili pilavı ve hamsili ekmeğini denemek için, Rize\'nin merkezinde bulunan Evvel Zaman Yöresel Lokantasını deneyebilirsiniz. Ayrıca Rize\'nin meşhur laz böreğini yemek için Eski vali konağı olan Sevimli Konağa uğrayabilirsiniz. Meşhur Çayeli fasulyesi içinse, tavsiye edeceğimiz yerlerden biri, Çayeli\'nin çıkışında bulunan Hüsrev lokantasıdır. Rize Güneysu\'da bulunan 4 mevsim Balık Lokantasında ise balık kavurmanın doyulmaz lezzetini tadabilirsiniz.
+\n\n
+NE ÜRETİR:\nÇay, mısır, fasulye, patates, armut, elma, fındık, mandalina. Dünyaca ünlü Puro tütünü Rize\'nin Pazar ilçesinde yetişir.</item>
+        <item>SAKARYA  54
+\n\n
+NÜFUSU:835,222
+\n\n
+İLÇELERİ:\nAkyazı, Ferizli, Geyve, Hendek, Karapürçek, Karasu, Kaynarca, Kocaali, Pamukova, Sapanca, Söğütlü ve Taraklı.
+\n\n
+TARİHÇESİ:\nSakarya ilinin bilinen tarihi Hititlerle başlar. Anadolu\'da ilk siyasî birliği kuran Hititler, bu bölgeyi sınırları içinde bulundurmuşlardır. Hitit Devleti iç karışıklıklar ve bölünmeler neticesi yıkılınca, bu bölge Friglerin eline geçti. Dış güçlerin tahrikiyle iç karışıklıklar ve bölünmelerden sonra yıkılan Friglerin yerine bölgeye Lidyalılar hâkim oldular. Persler, M.Ö. 6. Asırda Lidya Devletini yenerek, Anadolu\'nun mühim kısmını işgal ettiler. M.Ö. 4. Asırda Makedonya Kralı İskender, Pers Devletini yenerek İran\'ı ele geçirdi. 1071 Malazgirt Zaferinden sonra, Anadolu Fatihi Kutalmışoğlu Süleyman Şah emrindeki Türk ordusu, bütün Anadolu gibi Sakarya bölgesini de fethetti. 1921\' de Yunan ordusunun işgaline uğrayan Sakarya, Millî Mücadelede çok önemli bir rol oynayan şehirdir. Adapazarı, Karasu, Kandıra ve Geyve çarpışmaları Sakarya ilinin kahraman evlâtları sayesinde zaferle neticelendi. 25 Mart 1921\'de başlayan işgal, 21 Haziran 1921\'de sona erdi. Adapazarı; Tanzimat\'tan sonra kurulan, müstakil sancak hâline getirilen Kocaeli sancağına, Cumhuriyet devrinde de 1954\'e kadar Kocaeli\'ne bağlı kaldı. 1954\'te Kocaeli ilinden ayrılan bir bölüm, Adapazarı il merkezi olmak üzere, Sakarya ili kuruldu. Kocaeli\'nin doğu yarısında kalan ilçeleri Sakarya iline bağlandı.
+\n\n
+NEREDE GEZİLİR:\nSakarya Müzesi, Deprem Müzesi, Rüstempaşa Camii ve hamamı, Orhan Gazi Camii, İmaret Camii, Şeyh Muslihiddin Camii, Başköprü (Justinianus köprüsü), Harmantepe kalesi, Çobanlar kalesi, Söğütlük kalesi, Roma anıt mezarı, Bitinya Mezarları. Hasan dağı, Sakarya ağzı, Sapanca gölü, Kuzuluk kaplıca ve maden suyu ile Ilıcaköy içmesi.
+\n\n
+NE YENİR:\nIslama köfte, alişka, dil peynirli domates salatası, ıslama köfte, köfteli kabak, köbete. Boşnak böreği, maydanozlu alabalık, kabaklı kol böreği, çerkes tavuğu, çerkes pastası (peynirli), ezme fasulye, Dartılı Keşkek, haluj, pekmez ve yoğurt.
+\n\n
+Ünlü Tatlılar:\nÜre tatlısı, sütlü kabak tatlısı ve kabak tatlısı.
+\n\n
+NEREDE YENİR:\nAdapazarı\'nın meşhur ıslama köftesini en güzel yapan yerlerden biri Meşhur Köfteci Mustafa Usta\'dır. Alaşara Restoran ise leziz yemekler yapan; haluj, Çerkez tavuğu gibi  yemeklerin  denenebileceği   güzel  bir  mekân.   Restaurant Adapazarı Kayalar Memduhiye köyünün hemen girişinde.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, mısır, fasulye, şekerpancarı, ayçiçeği, patates, soğan, tütün, elma, armut, ayva, erik, kiraz, şeftali, ceviz, fındık, kestane, çilek, üzüm, patates ve şekerpancarı.</item>
+        <item>SAMSUN  55
+\n\n
+NÜFUSU:1,228,959
+\n\n
+İLÇELERİ:\nAlaçam, Asarcık, Ayvacık, Bafra, Çarşamba, Havza, Kavak, Lâdik, 19 Mayıs, Sahpazarı, Tekkeköy, Terme, Vezirköprü ve Yakakent.
+\n\n
+TARİHÇESİ:\nSamsun\'da ilk yerleşmeler tarih öncesi dönemlere kadar uzanmaktadır. İlk yerleşmenin Samsun\'un 14 km doğusunda Tekkeköy\'ün hemen güneyinde yer aldığı tespit edilmiştir. Buradaki mağaralarda düz yerleşim yerlerinde yapılan kazılarda PALEOLİTİK (eski taş devri-M.Ö.600,000-10,000) ve MEZOTOLİK(orta taş devri-M.Ö. 10,000-8,000) çağa ait eserler bulunmuştur. Şehir pek çok defalar el değiştirmiştir. M.Ö.5, yy\'da Atinalılar; M.Ö4.yy \'dan önce Persler, daha somada Makedonyalılar(Büyük İskender) egemen olmuştur. M,Ö.331. Yılında Büyük İskender Amisos\'u bağımsız şehir olarak ilân etmiş ve büyük Ölçüde hasar görmüştür.
+\n\n
+NEREDE GEZİLİR:\nKale Camii, Pazar Camii, Şeyh Seyyid Kutbiddin Camii ve türbesi, Yalı Camii, Isâ Baba Camii ve türbesi, Ulu Cami (Valide Camii), Fâzıl Ahmed Paşa medresesi, Saat kulesi, Amisos harabeleri, Çakırlar korusu, Hasköy korusu, Havza kaplıcası ve Hamam yağı Hıllaz kaplıcası.
+\n\n
+NE YENİR:\nPeynirli, kıymalı, hamsili ve yumurtalı uzun ve yuvarlak Samsun pidesi, ıspanak çorbası, balık ekşilisi, hamsili bıldırcın, haşlama kefal, palamut tavası, çubuk kebabı, çerkes lepsisi, çerkes tavuğu, herse, kaz çevirmesi, sipsi, topalak, zeti, yanıç, pirinçli pide, bulgurlu börek, turşu kavurması, yer pancarı, kocakarı gerdanı, katık böreği, mısır çorbası ve hamsi çıtlaması.
+\n\n
+Ünlü Tatlılar:\nKabak reçeli, mısır unu helvası ve alaçam yufka tatlısıdır.
+\n\n
+NE ÜRETİR:\nBuğday, çavdar, yulaf, mısır, pirinç, nohut, fasulye, şekerpancarı, ayçiçeği, bol miktarda soya, soğan, sarımsak, patates ve her çeşit sebze, bilhassa domates, biber, lahana, pırasa, patlıcan, taze fasulye, ıspanak, hıyar ve barbunya yetişir. Türkiye\'de mısır ve fasulyenin en çok yetiştiği yer Samsun\'dur. Kaliteli tütün yetişir ve mühim gelir kaynağıdır. Meyvecilik ileridir. Fındık, armut, şeftali, erik, ceviz, kızılcık ve kiraz bol miktarda yetişir.</item>
+        <item>SİİRT  56
+\n\n
+NÜFUSU:264, 778
+\n\n
+İLÇELERİ:\nAydınlar, Baykan, Eruh, Kurtulan, Şirvan ve Pervari.
+\n\n
+TARİHÇESİ:\nTarihi M.Ö.2000 li yıllara kadar dayanan  Siirt, sırasıyla Samiler, Babil ve Asur İmparatorluğu, Medler, Persler, Büyük İskender, Romalılar ve Sasanilerin hakimiyetinde kalmış, Hz. Ömer zamanında Müslümanlar tarafından fethedilmiş, 1071 Malazgirt Meydan Savaşından sonra Selçuklulara bağlanmış, İlhanlılar, Akkoyunlular ve Safevilerin yönetiminde kalmış, 1514 Çaldıran Zaferinden sonra, Osmanlı İmparatorluğuna bağlanmış, Cumhuriyetin ilk yıllarında il yapılmıştır.
+\n
+Toplam nüfusu 250.000\'i aşan İlimizin Merkez İlçe, Aydınlar, Baykan, Eruh, Kurtalan, Pervari ve Şirvan olmak üzere, 7 ilçesi, 278 köyü ve köylere bağlı 217 mezrası mevcuttur.
+\n\n
+NEREDE GEZİLİR:\nUlu Cami, Veysel Karani Hz. Türbesi, İbrahim Hakkı Hz. Türbesi, Ebul Vefa Camii, Billoris kaplıcası, Sağlarca kaplıcası; Pervari İlçesindeki Çemikari,  Cema ve Herekol yaylaları ile Şirvan İlçesinde Baçova yaylası yöre halkı tarafından ilgi görmektedir. Yaz, kış bol yağışlı olan bu yüksek platolar, zengin çayırlarla kaplıdır. Botan mağaraları vardır.
+\n\n
+NE YENİR:\nSiirt köftesi, pırtıke, lahem ala udeyn, ıkruş, taptap, bellog, ırık, kıftel leben, kitel fum, pırtıke, bulgur pilavı, perde pilavı, gebole, irmik dolması, varakkaak, büryan, imcerket, perde pilavı, ayranlı yarma, rayoşu meketip ve bumbar, zivzik narı ve Pervari balı.
+\n\n
+Ünlü Tatlılar:\nSarılı muska tatlısı, varak kek, kar helvası, kalbur hurması ve aside (un helvası.)
+\n\n
+NEREDE YENİR:\nSiirt\'in en iyi restoranlarından ve yöresel yemeklerde tek isim olan Ardıl Mahallî Yemek Salonu Siirt merkezde bulunmaktadır. Ayrıca Büryan Kuyu Kebabı isimli mekânda en iyi büryan kuyu kebabını tadabilirsiniz.
+\n\n
+NE ÜRETİR:\nEl sanatları; Jirkan kilimi, battaniye, şal ve heybe dokumacılığı.</item>
+        <item>SİNOP  57
+\n\n
+NÜFUSU:198,412
+\n\n
+İLÇELERİ:\nAyancık, Boyabat, Dikmen, Durağan, Erfelek, Gerze, Saraydüzü ve Türkeli.
+\n\n
+TARİHÇESİ:\nSinop Anadolu\'nun en kuzeyinde, Boztepe Yarımadası\'nın kıstağında kurulmuş bir şehirdir. İki doğal limana sahip olması ona, tarih boyunca deniz ticaretinde önemli bir ayrıcalık sağlamıştır. Bu durum, Prehistorik çağlardan itibaren topraklarında değişik kültürlerin yerleşip iz bırakmasına vesile olmuştur. Son yıllardaki araştırmalar şehrin tarih öncesini önemli ölçüde aydınlatmıştır. Eylül 1919\'da şehirdeki küçük İngiliz birliği, Sinop Mutasarrıfı Mazhar Tevfık Bey\'i tutuklamak ve hükümet konağına İngiliz Bayrağı asmak istemişse de, halkın sert tepkisi üzerine bundan vazgeçmek zorunda kalmışlardır. Sinop, İstiklâl Savaşı\'na da bütün gücüyle katılmıştır. Sinop Sancağı\'nın Ayancık-Boyabat ve Merkez İlçeleri İstiklâl Harbi\'nde en çok şehit veren bölgelerden kabul edilir.
+\n\n
+NEREDE GEZİLİR:\nSinop müzesi, Sinop kafesi, Eski Sinop cezaevi, Alâeddin Cami, Seyyit Bilal Hazretleri Türbesi, Saat Kulesi, Balatlar Kilisesi, Guzfındık-Bozarmut yaylaları ve İnaltı mağarası.
+\n\n
+NE YENİR:\nMısır unu tarhanası, balıklı bulgur pilakisi, hamsi içli tavası, palamut bulgur pilakisi, pilaki, kuzu dolması, ıslama, kabak millesi, cızlama, etli hamuru, etli ekmek, nokul, ve çeşitli pideler. Keşkek, katlama, saç böreği, kulak hamuru, ayva yemeği ve kırlangıç çorbası, Sinop kestanesi, içli Tavas ve mamalika.
+\n\n
+Ünlü Tatlılar:\nMısır pastası, nişasta helvası, pekmez helvası ve kestane helvası.
+\n\n
+NEREDE YENİR:\nSinop merkezdeki Saray Restaurant, yöresel yemekleri tadabileceğiniz bir mekân.
+\n\n
+NE ÜRETİR:\nTahta oymacılık ve dokumacılık çok ileri durumdadır. Kestane, armut, kiraz, muşmula ve kızılcık; keten, buğday, arpa, mısır, pirinç, mahlut, fasulye, bezelye, tütün, şekerpancarı ve ceviz.</item>
+        <item>SİVAS  58
+\n\n
+NÜFUSU:638, 464
+\n\n
+İLÇELERİ:\nAkıncılar, Altınyayla, Divriği, Doğanşar, Gemerek, Gölova,  Gürün,  Hafik,  İmranlı,  Kangal,  Koyulhisar,  Suşehri, Şarkışla, Ulaş, Yıldızeli ve Zara.
+\n\n
+TARİHÇESİ:\n   Sivas’ın yazılı tarihi M.Ö.2000 yılı başlarında Hititlerle başlamakta olup, merkez Tatlıcak Köyü ile Uzuntepe köylerinde bulunan höyük ve Gürün Şuğul Vadisindeki Hititçe1919 günü geldikleri Sivas\'ta 108 gün kaldıktan sonra, 18 Aralık 1919 günü Ankara\'ya hareket etmişlerdir. Bu 108 gün boyunca Sivas Millî Mücadele merkezi olmuş, Sivaslılar bütün içtenlikleri ile bu kutlu konuklara ev sahipliği yapmış ve önemli birçok tarihî olay bu süreçte yaşanmıştır.
+\n\n
+NEREDE GEZİLİR:\nArkeoloji müzesi, Etnografya müzesi, Sivas arkeoloji müzesi, Divriği Ulu Camii, Ulu Camii, Şeyh Hasan Bey kümbeti (Güdük minare), Ahi Emir Ahmet Türbesi, Şemseddin Sivas-i Türbesi, Akbaşbaba Türbesi, Şeyh Erzurum-i Türbesi, Kadı Burhaneddin Türbesi, Süt Evliyası Türbesi, Bum Baba Türbesi, Arap Evliyası Türbesi, Arap Şeyh Türbesi, Meydan Camii, Ali Ağa Camii, Ahbaba Camii ve türbesi. Demiryurt mağaraları; Dumanlıca yaylası, Sarıçiçek yaylası, Kalınpınar yaylası, Arpacık yaylası, Gürün Gökpmar Gölü, Kengercik Yaylası, Topalan yaylası ve Basyayla.
+\n\n
+NE YENİR:\nYazları ayranlı, pancarlı çorba, madımak, evelik, düğürcek aşı; kışları ise tırhıt, sübüra, kelecoş, tarhana, içli köfte, hıngel gibi hamur işi yemekler yenir. Ayrıca Sivas kebabı da ünlüdür. Bacaklı çorba, hamurlu mercimek çorbası, herle, patates çorbası, şehriye çorbası, tarhana çorbası, çirli et, karın dolması, karın yahnisi, bulgur köfte, sini köftesi, çığırtma, kavurma eiştesi, lokul, patates böreği, tandırda kül çöreği, peskutan çorbası, pezik turşusu, fodla, patates veya peynirle yapılan kömbe, kete, lavaş, yufka yörede yaygın ekmek çeşitlerindendir.
+\n\n
+Ünlü tatlıları:\nBal helvası, hurma tatlısı ve nişasta helvası.
+\n\n
+NEREDE YENİR:\nSivas\'ta küçük ama lezzetli yöresel yemekler sunan Sofa ev yemekleri lokantası tercih edebileceğiniz mekânlardandır. Gürün Gökpınar\'da alabalık yenir.
+\n\n
+NE ÜRETİR:\nBuğday, çavdar, fasulye, mercimek, fiğ, şekerpancarı, patates. İlde en çok koyun, sığır, kıl keçisi, kümes hayvanları beslenir. El sanatları olarak ise, halı, kilim, dokumacılık, çeşitli motiflerde çorap Örücülüğü; çubuk ve sigara ağızlığı; bakır işleme, bıçak ve çakı yapımı meşhurdur.</item>
+        <item>TEKİRDAĞ  59
+\n\n
+NÜFUSU:728,396
+\n\n
+İLÇELERİ:\nÇerkezköy, Çorlu, Hayrabolu, Malkara, Marmaraereğlisi, Muratlı, Saray ve Şarköy.
+\n\n
+TARİHÇESİ:\nTekirdağ\' da Eski Taş devrinin üst tabakalarına ait yerleşmelere Saray ilçesindeki Güneşkaya ve Güngörmez vadilerinde bulunan mağaralarda rastlanmıştır. (İ.Ö. 40000-10000) Tekirdağ, Roma döneminde, İS. 3. Yüzyılda Rhaedestus ismi ile tarih sahnesine çıkmış olup, Bizans döneminde Rodosto ismi ile anılmıştır. Osmanlılar 14. Yüzyılda Tekirdağ\'ı Bizans Tekfurundan aldıktan sonra, Rodosto adı Rodosçuk\'a dönüşmüştür. 16 Mart 1920\'de İstanbul\'un işgal edildiği sırada, bir İngiliz savaş gemisi Tekirdağ\'a gelerek, bir direniş olması hâlinde şehri topa tutmakla tehdit etti. Anadolu\'da Yunan kuvveti kırılmaya başlayınca, on binlerce Rum, Tekirdağ\'a kaçtı. 1922\'de Tekirdağ, işgalinin en acı günlerini yaşadı. Bu durum Mudanya Mütarekesine kadar sürdü. 13 Kasım 1922\'de sabah namazı vakti Tekirdağ\'ına devir teslim töreni için bir araba hazırlanmış ve Tümen komutanı Salih (Omurtak), jandarma müfettişi Cemil Cahit Bey (Orgeneral Cemil Cahit Toydemir), Trakya Paşaeli Cemiyeti temsilcisi Şakir (Yorulmaz) Bey, o zaman üsteğmendi, Tekirdağ Paşaeli Cemiyeti temsilcisi Av.Hüseyin Rahmi Bey (Rahmi Ertin) Tekirdağ\'ına doğru yola çıkmışlardı.
+\n\n
+NEREDE GEZİLİR:\nTekirdağ Müzesi, Eski Cami, Rüstempaşa Camii, Hasan Efendi Camii, Gazi Ömer Bey Camii, Rakoczi Müzesi, Eski Eserler: Marmara Ereğlisi.
+\n\n
+NE YENİR:\nTekirdağ köftesi, keşkek, çeneçarpan çorbası, kabak çorbası, köfteli çorba, kereviz salatası, papaz mancası; sardalya salatası, tolçka, çılbır, menemen, balık köftesi, dil balığı, kâğıtta lüfer, salçalı sardalya, çıllık, elbasan tava, gülbarak böreği, hakuk, kodrul, mangır, kaile, pireşe, yoğurtlu borana ve ciğer sarma.
+\n\n
+Ünlü Tatlılar:\nPeynirli helvası ile Tekirdağ baklavası. .
+\n\n
+NEREDE YENİR:\nTekirdağ köftesi, Tekirdağ\'ın Meşhur Köftecisi Erciyes Köfte ve Özcanlarda yenmesi tavsiye edilir.
+\n\n
+NE ÜRETİR:\nArpa, yulaf, mısır, ayçiçeği, şekerpancarı, kolza, soğan, domates, patlıcan, kabak, bezelye, bakla, semizotu, taze soğan, kavun, karpuz, üzüm, sarımsak, erik, iğde, muşmula, kiraz, Sığır, koyun, kıl keçisi, hindi beslenir. Başlıca balık cinsleriyse barbunya, tekir, karagöz, mırmır, ispari, istavrit, kefal, levrek ve lüferdir.</item>
+        <item>TOKAT  60
+\n\n
+NÜFUSU:620, 722
+\n\n
+İLÇELERİ:\nAlmus, Artova, Başçiftlik, Erbaa, Niksar, Pazar, Reşadiye, Sulusaray, Turhal, Yeşilyurt ve Zile.
+\n\n
+TARİHÇESİ:\nM.Ö.3000 yıllarından başlayarak, 14 devlet ve birçok beyliğin yaşadığı ve egemen olduğu Yeşilırmak havzası içinde yer alan Tokat, birçok uygarlığa ev sahipliği yapmıştır. Hitit, Frig, Med, Pers, Makedon, Roma, Bizans, Araplar, Danişment, Selçuklu, Moğol, İlhanlı, Osmanlı, bu bereketli topraklarda hüküm sürmüştür. Tokat ve kazalarında Redd-i İlhak Cemiyetleri kuruldu. TBMM hükümeti, 1921\'de Mayıs 1922 günü meclise verdiği önerge ile Dâhiliye Vekilinden Pontusculuk hakkında açıklama yapmasını istedi. Karadeniz\'deki Rumların büyük bir kısmı memleketin başka bölgelerine gönderilmek suretiyle, Pontusculuk hareketi önemli ölçüde çözüme kavuştu. Böylece Tokat\'ta etnik bütünlük sağlanmış oldu.
+\n\n
+NEREDE GEZİLİR:\nGaripler Camii, Alaca Mescid, Hâtuniye meydan Camii, Hamza Bey Câmii,Ulu Cami, Silahtar Ömer Paşa Camii, Çukur medrese, Ebü\'l-Kâsım Türbesi, Kırk kızlar kümbeti, Melik Gazi türbesi, Tokat köprüsü, Saat kulesi, Tokat kalesi, Taşhan, Turhal kalesi, Niksar kalesi, Zile kalesi (Nama hisarı), Nikopolis, Neokaseria (Kaberie),Tokat müzesi, Zinav gölü, Sulusaray kaplıcası,Reşâdiye kaplıcası, Başören içmesi ve Ayvaz suyu.
+\n\n
+NE YENİR:\nEn meşhur olanları Tokat kebabı, çemenli yumurta, mumbar dolması, etli yaprak dolması, mercimekli bulgur pilavı, sac çökeleklisi; madımak, bat, köme (cevizli sucuk), Zile pekmezi, ciğer çorbası, keşkek, katmer, bacaklı çorba, mantı, patlıcan pekmezi.
+\n\n
+Ünlü Tatlılar:\nUn helvası.
+\n\n
+NEREDE YENİR:\nTokat\'ın merkezindeki Nadir Restaurant burada gidebileceğiniz nadir mekânlardan biri.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, mısır, nohut, fiğ, şekerpancarı, yeşil mercimek, yonca, tütün, soğan, ayçiçeği ve patatestir. Başta domates olmak üzere, her çeşit sebze ve meyve yetişir. Tokat\'ta yetişen tütün, kokulu ve en iyi cinstendir. Çavuş üzümüne benzeyen "narince" üzümü meşhurdur. İlde el sanatlarından yazmacılık, halıcılık ve bakırcılık yapılmaktadır.</item>
+        <item>TRABZON  61
+\n\n
+NÜFUSU: 740, 569
+\n\n
+İLÇELERİ: \nAkçaabat, Araklı, Arsin, Beşikdüzü, Çarşıbaşı, Çaykara, Dernekpazarı, Düzköy, Hayrat, Köprübaşı, Maçka, Of, Sürmene, Şalpazarı, Tonya, Vakfıkebir ve Yomra.
+\n\n
+TARİHÇESİ:\n Bilinen tarihî geçmişi en az 4000 yıl öncesine dayanan Trabzon, konumu itibarıyla tarihin bütün evrelerinde tüm dünyanın ilgisini çekmiş ender şehirlerden biridir. İyon kökenli Miletoslular Batı Anadolu\'dan sonra M.Ö. 7. Yüzyılda Karadeniz\'e de gelerek, kıyılarda koloni kentleri kurmuşlardır. Trabzon da, merkezi Sinop olan bu kolonilerin arasında sayılmaktadır ve birçok araştırmacı, kentin ilk kuruluşu olarak bu dönemi göstermektedir. Aynı yüzyılda Karadeniz Bölgesi Kafkasya\'dan gelen Kimmerler ve onların ardından İskitlerin akınlarına uğramıştır. I. Bayezid\'in 1398\'de Samsun yöresini almasından sonra, Trabzon Komnenos Krallığı Osmanlı Devletine yıllık vergi ödemek zorunda bırakılmıştır. Fatih Sultan Mehmet\'in öncülüğündeki Osmanlı Kuvvetleri Bölgeyi kuşatarak, 1461 yılında Trabzon\'u ele geçirmiş ve Komnenosların egemenliğine son vermiştir. Trabzon, Osmanlı Döneminde önce eyalet ve sancak olarak şehzade ve mutasarrıflar tarafından idare edilmiştir. Trabzon 16. Yüzyılda, merkezi Batum olan Lazistan Sancağı ile birleştirilerek, eyalete dönüştürülmüş ve bu yeni idari birimin merkezi olmuştur. 1917\' de Rusya\'da "Bolşevik Devrimi" olur, Bu Rusların Trabzon\'dan çekilmesine de yol açar. Karadağ\'da toplanan Türk Çeteleri, Akçaabat\'a inerek, Yüzbaşı Kahraman Bey\'in komutasında üç koldan Trabzon\'a doğru yürür ve 24 Şubat 1918 tarihinde Trabzon\'a girerler.
+\n\n
+NEREDE GEZİLİR:\n Gülbahar Hâtûn külliyesi, Iskenderpaşa Camii, Semerciler Camii, Fâtih Camii, Kudreddîn Camii, Haghios Eugenius Kilisesi (Yeni Cuma Camii), Panaghia Chrysocephalos Kilisesi, Santa Maria Kilisesi, Ayasofya Kilisesi, Santa (Dumanlı) Alaca Han, Paşa Hamamı, Hacı Arif Hamamı, İmaret Deresi su kemeri, Kuzgundere su kemeri, İrene kulesi, Ayasofya Müzesi, Trabzon Kalesi, Çamburnu, Kisarna ve Yomra içmesi, Çalköy mağarası, Akarsu köyü mağarası, Karadağ Yaylası, Hıdırnebi Yaylası, Haçkalıbaba yaylası ile bir tabiat harikası olan Uzun Göl..
+\n\n
+NE YENİR:\n Vakfıkebir ekmeği, karalâhana çorbası, mısır çorbası, süt çorbası, sütlü kabak çorbası, balık turşusu, fasulye kavurması, malohta, hamsi kuşu; fasulye diplemesi, kabaklama, kıymalı etli karalâhana yığması; parça etli lahana sarması, pazı kayganası; yoğurtlu patates, bakla pilavı, balkabaklı pilav, kurze, kuymak, ağuz. Hamsi buğulaması, mısır ekmeği. Trabzon yağı, hamsi ızgarası, hamsi salamurası, hamsi haşlaması, hamsi çıtlatması, hamsili ekmek, içli tava. Tereyağı. Telli peyniri, lahana çorbası,
+
+ peynirli ve kıymalı pide meşhurdur. Akçaabat köftesi, Maçka\'nın alabalığı çok meşhurdur.
+\n\n
+Ünlü Tatlılar: \nBalkabağı tatlısı, laz böreği ve hamsiköy sütlacı.
+\n\n
+NEREDE YENİR:\n Şehrin merkezinde çok meşhur olan ve 1856 yılından beri hizmet vermekte olan Kalkanoğlu pilavcısının meşhur etli pilavından yiyebilirsiniz. Ayrıca Akçaabatta Körfez Restaurant,
+
+Nihaî Usta, Fevzi Usta, Trabzon’da ise; Kadakal, Sürmenede Serender Resîaurant, Maçka\'da Çobandere Tesisleri, Zigana Pervanoğlu Et Lokantaları, Akçaabat köftesi, Cemil Ustanm ise balıkları ve sıcak ev baklavası denemeye değer lezzetlerdendir. Ayrıca Trabzon\'un Sümela manastırı, Uzungöl gibi yüksek yerlerine çıkıldıkça alabalık tesislerinde taze alabalık ızgarası tatmak pekâlâ mümkün. Sürmene ilçesindeki Kalafatoğlu köftesi de, unutulmaz bir lezzettir.
+\n\n
+NE ÜRETİR:\n Çay, patates, mısır, fındık, tütün, buğday ve fasulye. Armut, elma, kiraz. Hayvancılık; sığır, koyun, kıl keçisi ve kümes hayvanı beslenir. Arıcılık gelişmektedir. Trabzon\'da mücevherat, bakır işleri, dantel; Vakfıkebir\'de heybe, şal, peştamal; Araklı\'da sepet, şimşir kaşık; Sürmene\'de bıçakçılık gibi el sanatı gelişmiştir. Hatta "Çift ağızlı Sürmene bıçağı" ülke çapında tanınmıştır.</item>
+        <item>TUNCELİ   62
+\n\n
+NÜFUSU: 84, 022
+\n\n
+İLÇELERİ:\n Çemişgezek, Hozat, Mazgirt, Nazimiye, Ovacık, Pertek ve Pülümür.
+\n\n
+TARİHÇESİ:\n Tarihte İlk Anadolu Birliğini kuran Hititler, Tunceli\' ye kadar ulaşmışlar, fakat çevreye tam hakim olamamışlardır. Tunceli\'de Hurriler, Bâbil ve Asur İmparatorluklarının da etkileri görülmektedir. Med\'ler zamanında kısmen ve Pers\'ler zamanında ( M.Ö. VI. yüz yılda ) Büyük İskender burasını Makedonya Devletine katmıştır. M.S. Tunceli 1071 tarihinden 1252 tarihine kadar Erzincan\'da hüküm süren Mengüçlerin idaresi altında idi. Doğu Anadolu\'da Akkoyunlu, Karakoyunlu, Türkmenlerin mücadeleleri zamanında Çemişgezek beyi (Mengüç ailesinden ) Emir Şah Hasan\'dan söz edilmektedir. Bunun torunu Hacı Rüstem Bey zamanında Şah İsmail Çemişgezek\'e Nur Ali isminde birisini Halife olarak göndermiş, Hacı Rüstem Bey de, İran\' a muhalefet etmeden Çemişgezek\'i Nur Ali\'ye teslim etmiştir.
+\n\n
+NEREDE GEZİLİR: \nMalazgirt kalesi, Dedebağ, Kaleköyü, Sağman kaleleri. Yelmaniye Cami, Ulukale Cami, Baysungur Cami, Çelebi Ali Cami, Sağman Cami, Hamidiye Medresesi, Eltihatun Cami, Uzun Hasan ve Eltihatun Türbeleri, İn Mağaraları, Gözen köyü, Sarıtaş, Gökçek, Karagöl ve Alacık yaylaları; Pülümür ilçesinde Sağlamtaş, Karagöl, yelekli, Dereboyu, Dağbek ve Çakırkaya yaylaları; Ovacık ilçesinde Koyungölü, Burnak, Eğripmar, Paşadüzü, Gözeler ve Mollaaliler yaylaları öne çıkmaktadır.
+\n\n
+NE YENİR: \nSaç kavurması, Ovacık dağ sarımsağı, Savak tulum peyniri, dede kebabı, pülümür balı, cirikurt, şirakurt, babiko, bablo, keşkek, cumhur, patila, piyaz, tava biçiği, zerefet, sirekurt, sirepati, gömmer erişte\'dir. Çaysız sofraya oturulmaz ve çöken ayranı meşhurdur.
+\n\n
+NE ÜRETİR:\n Buğday, arpa, şekerpancarı, fasulye, soğan ve az miktarda pamuk ve iyi cins kokulu tütün üretilir. Başlıca meyveleri ceviz, dut ve bademdir. Sığır, koyun ve kıl keçisi beslenir. Arıcılık gelişmiştir. Sakız, kilim ve çorap meşhurdur. Hozat ve Çemişgezek\'in kilimleri aranılan güzelliktedir. Hozat\'ın yün çorapları renk renk yünden örülür. Evde süs eşyası olarak saklanan bir dekordur. Ovacıkta sakız tarlaları vardır."Kenger"denilen bitkinin kökünden kokulu ve nefis bir sakız çıkarılır.</item>
+        <item>ŞANLIURFA  63
+\n\n
+NÜFUSU: 1,523,099
+\n\n
+İLÇELERİ:\n Akçakale, Birecik, Bozova, Ceylanpınar, Halfeti, Harran, Hilvan, Siverek, Suruç ve Viran şehirdir.
+\n\n
+TARİHÇESİ:\n M.Ö. 2300 yıllarına ait Ebla tabletlerinde, Harran\'ın en eski ismine "Haranki" olarak rastlıyoruz. Bu isim, Assurca "karayolu, yol, patika, yolculuk, iş seyahati, akın ve ordu" anlamlarında kullanılmıştır. Urfa\'nın 20 km. doğusundaki Örencik Köyü yakınlarında bulunan dünyanın ilk tapınak tepesi tespit edilmiştir.
+
+Urfa\'yı işgale gerekçe yapılarak 24 Mart 1919 (bazı kaynaklara göre 7 Mart 1919) tarihinde Urfa, İngilizler tarafından işgal edildi. İngilizler, yörede bulundukları süre içerisinde özellikle aşiretlerle ilişik kurmaya çalıştılar. Ekim ayı içerisinde İngilizlerce işgal edilen yerlerin Fransızlara devredileceği söylentileri yaygınlaştı. Urfa\'yı boşaltmayı düşünür olmuşlardı. 10 Nisan\'ı 11 Nisan\'a bağlayan yarı gece Fransız kuvvetleri, Hastane ve Hızmalı Köprü yolunu izleyerek iki koldan Suruç yönüne doğru yola çıktı.
+\n\n
+NEREDE GEZİLİR:\n Peygamberler diyarı olarak adlandırılan Şanlıurfa tarih hazinesiyle dolu bir ilimizdir. Halilürrahman Camii, Ulu Cami, Rizvâniye Camii, Ak Cami (Nîmetullah Camii), Hazret-i Eyyûb Mağarası, Dergâh (Nakşın) Mağarası, Hazret-i Şuayb Mağarası, Hayat bin Kays Harrâni Türbesi, Urfa Kalesi, Birecik Kalesi, Harran şehir harabeleri, Sumatar, Nemrud tahtı, Aynızeliha gölü, Halilürrahman gölü ve Karaköprü.
+\n\n
+NE YENİR: \nAyran çorbası, çagala aşı, pakla aşı, hitti bastırması, sarımsak aşı, isot çömleği, erik tavası, semsek, has (marul) dolması, mimbar, acir bastırması, masluka, lebeni, boranı, Bakla Boranisi, duvaklı pilav, perdeli pilav, etli köfte (çiğ köfte), Yumurtalı Köfte, Kıymalı (Hakiki ev lahmacunu.) Peynirli Ekmek haş haş kebabı, elmalı kebap, ciğer kebabı, lıklıkı köfte, doğrama, lolaz dürümü, ağzı yumuk, kemeli kebap, tike kebabı, tepsi kebabı, frenkli (domatesli) kebap; kemeli cacık, bostana, koruk salatası, katmer, aşir aşı, paliza, haside, kuymak, zingil, palıza geleneksel yöresel yemekler arasında sayılabilir.
+\n\n
+Ünlü Tatlıları:\n Tava Katmeri,Tepsi Katmeri, Burma, Sade yağlı Kadayıf, Şıllık tatlısı ve peynirli irmik helvası.
+\n\n
+NEREDE YENİR:\n Birecik’teki Memoş adlı mekânda meşhur Şanlıurfa ciğerini yiyebilirsiniz.Ayrıca Urfa Sofrası yöresel yemeklerin âlâsını ve özellikle şıllık tatlısını tadabileceğiniz diğer bir mekân. Urfa\'daki birçok lezzet noktasından bir diğeri de,  Çardaklı Köşk Restauranî,  Cevahir KonukEvi,Yıldız Sarayı, Urfa Sofrası, GülhanEt Lokantası,Gülizar Konuk Evi,Pmarbaşı Konuk Evi,Sultan Sarayı,Edessa Oteli Narlı Urfa Evi gibi Şanlıurfa\'nın mahallî yemek lezzetlerini sunan nezih mekânlarının yanında kendine özgü Patlıcanlı Kebap ve Ciğer Kebabının günün her saatinde yenebileceği, Dedecan ve Sağlık Ciğer Salonlarıdır.
+\n\n
+NE ÜRETİR: \nMercimek, burçak, pamuk, kenevirdir. Buğday, arpa, dane mısır, nohut, soğan, sarımsak, ayçiçeği, domates patlıcan, biber hıyar, isot, urfa fıstığı, badem, üzüm, kimyon, nane, maydanoz, karpuz, kavun, erik, kayısı ve kara üzüm.</item>
+        <item>UŞAK  64
+\n\n
+NÜFUSU: 334,115
+\n\n
+İLÇELERİ:\n Banaz, Eşme, Karahallı, Sivaslı ve Ulubey.
+\n\n
+TARİHÇESİ: \nUşak ve çevresinin M.Ö. 4000 yılından itibaren yerleşime açıldığı anlaşılmaktadır. Özellikle bronz çağında yerleşimin daha yaygınlaştığı görülmektedir. MÖ.2000\'de Anadolu\'da ilk siyasî birliği kuran Hititlerin, daha sonra da Friglerin batı sınırını oluşturan Uşak ve çevresi bu kültürlerden ziyade, İon Kültürünün etkisi altında kalmıştır. 1071\'den sonra yöre zaman zaman Selçuklular ile Bizanslılar arasında el değiştirmiş, 1176 yılında Selçuklu Sultanı II. Kılıçarslan ile Bizans İmparatoru Manuel Komnenos arasında yapılan Miryakefalon (Kumdanlı) Savası sonucunda şehir Selçuklulara geçmiştir. Beylikler döneminde Yunanlılar silah zoruyla Sevr Antlaşmasını Osmanlı Devletine kabul ettirebilmek için 22 Haziran 1920 tarihinde taarruza başladılar. 29 Ağustosta Uşak\'ı işgal etti. Yunanlılar Uşak\'a girdikleri zaman eşraftan ve köklülerden pek çoğunun evlerini yağmaladılar. Yunanlılar işgalden sonra şehre yerleşmek için, bazı evlere el koydular.
+\n\n
+NEREDE GEZİLİR:\n Arkeoloji müzesi, Etnografya müzesi, Blaundops ve Sebaste ilkçağ kentleri, Delikkaya kilisesi, Uşak Ulu Camii, Burmalı Cami ve Çakaloz Cami.
+\n\n
+NE YENİR:\n Uşak tarhanası, çömlek eti, çömlek yoğurdu, tas kapama, keşkek, haşhaş sürtmesi, ciğerli bulgur, alacatene, patlıcan salatası, güveç eti, et köftesi, domates yemeği; ıspanak kavurması, bulgur pilavı, kuskus pilavı ve ıspanaklı börek.
+\n\n
+NEREDE YENİR:\n Uşak merkezdeki Nizam Lokantası ve Toros Lokantası bu ilimizde deneyebileceğiniz birkaç mekândan ikisidir.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, şeker pancarı, tütün, üzüm, vişne, ayva, armut ve kiraz.</item>
+        <item>VAN   65
+\n\n
+NÜFUSU: 979, 671
+\n\n
+İLÇELERİ: \nBahçesaray, Başkale, Çaldıran, Çatak, Edremit, Erciş, Gevaş, Gürpınar, Muradiye, Özalp ve Saray.
+\n\n
+TARİHÇESİ:\n Van tarih boyunca birçok medeniyete beşiklik yapmış illerimizden biridir. Urartular döneminde Tuşba adıyla başkentlik yapmış, Alpaslan\'ın oğlu Melikşah tarafından 1064 tarihinde fethedilmesiyle, Türk hakimiyetine girmiştir. Osmanlılar döneminde \'Vilâyet-i Sitte\' adı verilen ve bugünkü bütün Doğu ve Güneydoğu Anadolu illerini içine alan altı ilden birisi Van\'dır. Bugün Van Şehrinin Kurulu bulunduğu yer, Osmanlılar döneminde bağlık, bahçelik olarak kullanılmıştır. Urartulular, Bizanslılar, Ermeniler, Müslüman Araplar, Selçuklular, İlhanlılar, Karakoyunlular, Akkoyunlular, Safeviler ve Osmanlılar\'dan kalan tarihî eserlerle tam anlamıyla tarihî bir şehir olan Van güzel golü, eşsiz su ve ışık potansiyeli; ılımlı iklim ve tabiat güzellikleriyle aynı zamanda bir turizm şehridir.
+\n\n
+NEREDE GEZİLİR:\n Van gölü kıyıları, Akdamar adası, Bendimahi çağlayanı, Hosap ve Körzüt kaleleri, Akdama kilisesi, Ulucami, Hüsrev paşa ve İzdisar Camileri, Halime Hatun kümbeti ve Van müzesi.
+\n\n
+NE ÜRETİR: \nÜzüm, elma, kavun, kayısı, buğday, arpa, çavdar, şeker pancarı, et, yumurta ve bal.
+\n\n
+NE YENİR:\n Murtuğa (kahvaltılık), cacık (kahvaltılık), ekmekli et, ekseli, bulgur aşı, ilitme, ekşili, senseger, otlu peynir, Van balığı ve senseger.
+\n\n
+NEREDE YENİR:\n Van\'ın meşhur olan yöresel kahvaltısı için Sütçü Fevzi, uğrayabileceğiniz mekânlardan. Van\'ın Bostaniçi beldesindeki Yöresel Yemekler Evi\'nde ise Van\'ın lezzetlerini tadabilirsiniz.</item>
+        <item>YOZGAT    66
+\n\n
+NÜFUSU: 492,127
+\n\n
+İLÇELERİ: \nAkdağmadeni, Aydıncık, Boğazlıyan, Çandır, Çayıralan, Çekerek, Kadışehri, Saraykent, Sarıkaya, Sorgun, Şefaatli, Yenifakılı ve Yerköy\'dür.
+\n\n
+TARİHÇESİ: \nYozgat; Anadolu\'nun en eski yerleşim merkezlerinden biridir. Sorgun ilçesi sınırları içerisinde bulunan "Alişar Höyüğü"nde yapılan kazılar neticesinde 5000 sene öncesine ait eserler bulunmuştur. Yozgat Hitit\'lerin hâkimiyetinden sonra, M.Ö. 1200\'lerde Frig\'lerin hâkimiyetine girmiştir. M.Ö. 6. Yüzyılda Lidya Krallığına bağlanarak, müteakiben Pers\'ler, M.Ö. 4. Yüzyılda da Makedonyalılar tarafından ele geçirilmiştir. Yozgat, ülkemizin, mütareke ve millî mücadele yıllarında adını önemle duyuran iller arasında yer almaktadır. Yozgat, Kurtuluş Savaşı\'nda merkezi Ankara\'da bulunan 20. Kolordu\'nun denetimi altında bulunmaktaydı. Sivas Kongresi günlerine kadar Yozgat\'ta direnişle ilgili önlemli bir gelişme olmamıştır. Ancak, Muhittin Paşa\'nm 19 Eylül 1919\'da Kuva-yi Milliyece tutuklanması, Necip Bey\'in de 20 Ekim 1919\'da Heyet-i Temsiliyenin isteği üzerine görevden alınmasıyla, bu durum değişmiştir. Yozgat hâlen, idarî açıdan; 14 ilçe ve 65 belediye olmak üzere, toplam 684 yerleşim yerinden ibarettir.
+\n\n
+NEREDE GEZİLİR: \nYozgat Ulu Camisi, Cevahir Ali Efendi Camii, Başçavuşoğlu Camii ve Yozgat Saat Kulesi, Yozgat Çamligi Millî Parki, Yozgat Müzesi, Akdağmadeni Kadı Pınarı Orman içi Dinlenme Yeri, Sarikaya Terzili Kaplicasi, Tavion İlkçağ Kenti Kalıntıları, Yerköy Çapanoğlu Camileri.
+\n\n
+NE YENİR: \nArabası, madımak, salçalı çılbır, çuhama, hedik, bulgur pilavı, tas kebaplı bulgur pilavı, Yozgat böreği testi kebabı ve Yozgat tandır kebabı, başlıca yiyecekler arasındadır.
+\n\n
+NE ÜRETİR:\n Buğday, arpa, çavdar, mısır, nohut, fasulye, yeşil mercimek, şekerpancarı, ayçiçeği, patates, lahana, patlıcan, kabak, domates. Elma, armut, kayısı, vişne, üzüm, ayva, badem ve ceviz.</item>
+        <item>ZONGULDAK   67
+\n\n
+NÜFUSU: 615,890
+\n\n
+İLÇELERİ:\n Alaplı, Çaycuma, Devrek, Ereğli ve Gökçebey.
+\n\n
+TARİHÇESİ:\n Zonguldak, antik dönemde Bithynia ve Paplogonia sınırlarının kesiştiği noktada bulunmaktaydı. Bölgede, Hitit, İskit, Mariandin, Frig, Megara, Milet, Boietya, Kimmer, Asur, Pers, Makedon, Roma, Bizans, Ceneviz ve Türk kavimlerinin izlerini görmek mümkündür. 1460 yılında Fatih Sultan Mehmed\'in Amasra\'yı almasıyla birlikte, yörede Türk egemenliği pekişmiştir. 1829 yılında taşkömürünün bulunmasıyla farklı bir önem kazanan bölgede, 1848\'de ilk kömür ocakları kurulmuş; 19. Yüzyılın sonuna doğru İngiliz, Fransız, Belçika ve Rus şirketleri taşkömürü üretimi yapmak üzere yöreye akın etmiştir. Yöredeki şirketlerin haklarını korumak ve üretimi arttırmak bahanesiyle, Fransız askerleri önce Zonguldak\'ı, ardından da Karadeniz Ereğli\'yi işgal etmiş (1919); ancak Zonguldak ve çevresinde oluşturulan Müdafaa-i Hukuk Cemiyetlerine bağlı milis güçlerinin karşı koymasıyla, 18.06.1920\'de Karadeniz Ereğli\'den, 21.06.1920\'de de Zonguldak\'tan çekilmek zorunda kalmışlardır. Zonguldak, 1 Nisan 1924 tarihinde, Cumhuriyet sonrası kurulan ilk il olma unvanını kazanmıştır.
+\n\n
+NEREDE GEZİLİR:\n Ereğli Müzesi, Halil Pasa Konağı, Cehennemağzı Mağarası, Gökgöl, Kızılelma, İnağzı ve Cumayanı Mağaraları. Ereğli Müzesi, 19 yy.\'dan kalma Halil Paşa Konağı, Sofular, Erçek, Ilıksu, Harmankaya (Merkez) ve Güneşli (Kdz. Ereğli) şelâleleri, 100. Yıl Atatürk Hizmet Köyü, Filyos kale ve antik tiyatronun yanısıra mabet kilisesi, antik liman, antik su dağıtım merkezi ve su kemerleri kalıntıları. Cehennem Ağzı mağaralarının bulunduğu Acheron Vadisi Ören Yeri, Sur Kalıntıları, Ereğli Kalesi, Çeştepe Feneri kulesi (Askeri Yasaklı Alanda Kalmaktadır), Bizans Su Sarnıcı, Krispos Anıt Mezarı, Bizans Kilisesi, Ayasofya Kilisesi, 19 yy. \'dan kalma 34 konut, Aliağa hamamı, Bozhane hamamı, Orta Cami, Heraklius Sarayı, 2 Adet Kilise Kalıntısı ve 7 Adet Tarihi Cami, İlin en yüksek tepesi olan Bacaklı Yayla (163 7 m) eteğindeki Bölüklü Yayla, yayla evleri, yaşayan yaylacılık geleneği ve zengin bitki örtüsüyle yayla turizmine aday bir doğal ortamdır.
+\n\n
+NE YENİR: \nSu böreği, havuç börtme, tuzlu balık, taze fasulyeli yumurta, bulgurlu kabak, mancar, zılbıt, baklaş, kabaklı börek, bazlama, cızlama, gözleme, kömeç ekmeği, pide, tarhana çorbası, uğmaç çorbası, göçe çorbası, malayı. Ereğli pidesi, Osmanlı çileği, Çaycuma yoğurdu, Devrek çöreği. Zonguldak ormanlarında yetişen kuzu kestanesi, beyaz baklava, kızılcık, cevizli dolma, kuzu tandır ve çeşitli yöresel yemekler NEREDE YENİR: Zonguldak\'taki Meşhur Pidecide Karadeniz pidesi, Plaj Restaurantda  ise kabak tatlısı yenebilir. Kdz. Ereğli\'de Şinasibey Lokantalarında yiyeceğiniz Kuzu Tandırının tadına doyamayacağınız gibi, tabldot ve alakart yemeklerini de özellikle tatmanızı öneririz. Yine Kdz. Ereğli\'de Nazar Pide ve Kebap Salonu, Bozhane mevkiindeki balık lokantaları, Karadeniz Yöresel yemeklerini sunan Keşan Lokantası, Şanlıurfa sofrasından değişik tatlar sunan Urfalı Kebap\'ta alternatif tercihleriniz için hizmetinizdedirler. Alaplı\'da Dere Restoranda Alabalık ve deniz ürünlerini, Alaplı Kavukkavlağı mevkiinde yer alan Semercioğlu Köfte Salonunda ise Köfte yemenizi tavsiye ederiz.
+\n\n
+NE ÜRETİR:\n Zonguldak\'ta üretim ağırlıklı olarak ağır sanayide şekillenmekte olup, ülkemizin iki büyük kurumu Türkiye Taş Kömürü Kurulu ve Ereğli Demir ve Çelik Fabrikaları bölgede bulunmaktadır. Tarımsal ürünler buğday, arpa, mısır, patates ayçiçeği, fındık, çilek, elmadır. Hayvansal Ürünler ise et, süt ve yumurta üretimi, kestane balı, yapağı, kıl, tiftik, Deniz ürünleri, tatlısu balık ürünleri olarak şekillenmektedir. Zonguldak\'ta Taşkömürü, Demir Çelik, Geni Tersaneleri, Orman Ürünleri, Taş ve Toprağa Dayalı Sanayi (Ateş Tuğlası, Seramik Sanayi), Boru Profil Fabrikaları, Makine ve Yedek Parça Sanayi başlıca sanayi dallarıdır.</item>
+        <item>AKSARAY   68
+\n\n
+NÜFUSU: 366,109
+\n\n
+İLÇELERİ: \nAğaçören, Eskil, Gülağaç, Güzelyurt, Ortaköy ve Sarıyahşi.
+\n\n
+TARİHÇESİ:\n Sırası ile Asur, Hitit, Kapadokya Krallığı ve Roma İmparatorluğu\'nun egemenliği altına girmiştir. 1076\'da Kutalmışoğlu Süleyman Şah tarafından Selçuklu topraklarına katıldı. 1318\'de Karamanoğulları\'nın hâkimiyeti altına girdi. On beşinci asırda kesin olarak Osmanlı yönetimi altına girdi. 1924\'te il merkezi yapılan Aksaray, 1933\'te ilçe merkezi olarak Niğde\'ye bağlandı. 15 Haziran 1989\'da tekrar il merkezi hâline geldi.
+\n\n
+ NEREDE GEZİLİR:\n Aksaray Kalesi, Acemhöyük, Antik Nora şehri, Ihlara vadisi ve Yer Altı şehirleri.
+\n\n
+NE YENİR: \nMayalı, dolma mantı, soğanlama, katmer ve çiğleme.
+\n\n
+Ünlü Tatlılar:\n Höşmerim, Napolyon kirazı ve sarığıburma.
+\n\n
+NE ÜRETİR: \nBuğday, arpa, mısır, patates, soğan, fasulye, keten, kenevir, üzüm ve elma.</item>
+        <item>BAYBURT   69
+\n\n
+NÜFUSU: 96, 609
+\n\n
+İLÇELERİ:\n Merkez, Aydıntepe ve Demirözü.
+\n\n
+TARİHÇESİ:\n Eski devirlerde Hadlilerin yaşadığı sahada bulunan Bayburt, daha sonra Urartu, İskit, Med, Pers, Makedonya ve Pontus krallıklarının egemenliği altında kaldı.
+
+1202 \'de Anadolu Selçuklularının hâkimiyeti altına girdi. 1828-1829 Osmanlı-Rus savaşı esnasında Rus birliklerinin işgaline uğradı. 21.6.1989 tarihinde 3578 sayılı yasa ile il statüsüne kavuştu.
+\n\n
+NEREDE GEZİLİR: \nAydıntepe yeraltı şehri, Bayburt Kalesi, Saruhan Kalesi, Ulu Cami, Kutluğ Bey Camii ve Abdulvahab Gazi Türbesi.
+\n\n
+NE YENİR: \nTel helvası, tatlı çorba, galaçoş, kabak boranisi, kesme çorba, sirkeli köfte, herse, lemis, siron, soymaca hoşafı, ekşi lahana, lor dolması, yalancı dolma, herle çorbası ve Bayburt tava.
+\n\n
+Ünlü Tatlılar: \nŞerbetli helva, süt helvası ve bal helvası,hasuta.
+\n\n
+NEREDE YENİR:\n Bayburt Cumhuriyet caddesinde bulunan Çoruh Et Lokantasında tüm yemek çeşitlerinin yanında günde 3 çeşit yöresel yemek bulmak mümkün.
+\n\n
+NE ÜRETİR: \nBuğday, arpa, korunga, elma, armut, kayısı ve zerdali.</item>
+        <item>KARAMAN   70
+\n\n
+NÜFUSU: 226, 049
+\n\n
+İLÇELERİ:  \n Ayrancı, Basyayla, Ermenek, Kâzımkarabekir ve Sarıveliler.
+\n\n
+TARİHÇESİ: \nKaraman kentinin ilk kuruluş tarihi kesin olarak bilinmemekle beraber, yapılan arkeolojik kazılar neticesinde, önemli bir yerleşim bölgesi, ticaret ve kültür merkezi olduğuna dair belgeler bulunmuştur. Karaman ve çevresinin M.Ö.8000 yıllarında yerleşik iskâna sahip olduğu ortaya konulmuştur. İl, Hititler zamanında bir askerî ve ticaret merkezi olmuş, daha sonra Firigya ve Lidyalıların egemenliğine geçmiş, M.Ö.322\'de Yunan Kralı Perdikkos ve Filippos\'un işgaline ve talanına uğramıştır. Bu devirde diğer bir güçlü beylik Osmanlı Beyliği idi. 14. Yüzyıldan itibaren bu iki güçlü beylik karşı karşıya geldi. İki beylik arasında yaklaşık 150 yıl süren savaşlar oldu. Fatih Sultan Mehmet Döneminde yapılan bir dizi savaştan sonra 1467 yılında Karamanoğulları Beyliğine son verildi ve toprakları Osmanlı Devletine katıldı. Cumhuriyetin ilânından sonra Konya iline bağlı olan şehrin Larende clan adı Karaman olarak değiştirilmiştir. 15 Haziran 1989 tarihinde çıkarılan 3589 sayılı yasa ile de, Türkiye\'nin 70. ili olmuştur.
+\n\n
+NEREDE GEZİLİR: \nKaraman müzesi, Karaman Kalesi, Ermenek Kalesi, Mennan Kalesi, İlisıra Kalesi, Divle Kalesi, Gaferiyet Kalesi, Görmel Köprüsü, Karaman Köprüsü, Selavat Köprüsü, Ak Köprü, Hışlayık Mağarası, Manazan Mağarası, Meraspolis (Meraspulla) Mağarası.
+\n\n
+NE YENİR:\n Arabası, toyga, paça, aşlık gibi çorba çeşitleri, cibe, batınk, yaprak ve köy dolmaları, batırık, bidik. Ermenek helvası, cibe ve ilisıra dolması, kayısı musakka, mıkla, mülükü, paraköfte, keşkek ve bulamaç.
+\n\n
+NEREDE YENİR:\n Karamanda bulunan Afra Restoranı buranın tercih edilen lezzet noktalarından biridir.
+\n\n
+NE ÜRETİR: \nTarımsal ürünler; Sulama yapılan alanlarda elma bahçesi, şekerpancarı, kuru fasulye, buğday, arpa, mısır, patates, kuru soğan ve çeşitli sebze ürünleri. El sanatlar olarak ise, halıcılık, yastıkçılık, yorgancılık, körük ocaklı demircilik ve çaput çul dokumacılığı.</item>
+        <item>KIRIKKALE  71
+\n\n
+NÜFUSU: 280, 234
+\n\n
+İLÇELERİ: \nBahşili, Balışeyh, Çelebi, Delice, Karakeçili, Keskin, Sulukyurt ve Yahşihan.
+\n\n
+TARİHÇESİ:\n Yörenin çok eski bir tarihî geçmişi bulunmaktadır. Yapılan araştırmalarda Hititler\'e, Firiglere, Romalılara, Bizanslılara ait eserler ve kalıntılar bulunmuştur. Malazgirt Zaferinin 1071\'de kazanılmasından sonra, Anadolu\'nun kapıları Türklere açılmış; buralar hızlı bir şekilde Türk-İslâm diyarı hâline getirilmiştir. İşte o dönemlerde Kırıkkale ili dahilinde bulunan bazı yerlerin de, ilk fethedilen beldelerden olduğu görülmektedir. Aslında Kırıkkale bölgesi tarihini Ankara tarihiyle birlikte düşünmek, incelemek ve araştırmak gerekir. Çünkü, çok yakın olması münasebetiyle buralar, eskiden beri Ankara\'ya bağlı bir yöre olarak kalmıştır. Ankara\'nın Türklerin eline ilk olarak 1073 yılında geçtiği dikkate alınırsa, Kırıkkale bölgesinin de genel olarak - aynı yıllarda Türkleşmeye ve İslâmlaşmaya başladığı kabul edilebilir. Bazı Haçlı seferleri sırasında buralar tekrar Bizanslıların eline geçmiş>olmasına rağmen, XII. Yüzyıldan itibaren Selçukluların hâkimiyetine kesin olarak geçilmiştir. Daha sonraki asırlarda Orta Asya\'dan, Anadolu\'ya göç eden Oğuz Türk boylarından pek çok aşiret ve cemaat, Kırıkkale bölgesinde iskan edilerek, buralar bütünüyle Türk ve İslâm diyarı hâline getirilmiştir.
+\n\n
+NEREDE GEZİLİR: \nHasandede Camii ve Türbesi, Şeyh Şamil Camii ve Türbesi, Çeşnigir köprüsü, Hopagan Tepe, Sarımusalı, Celal Bayar Parkı, Höyüktepe, Yaşçayır Höyük, Aşar Höyük ve Silah Müzesi.
+\n\n
+NE YENİR:\n Un tarhanası, yoğurtlu tarhana, alazlama, kömbe, külleme, batallaş, çalma, sızgıt, ekmek aşı (guymak); madımak, pelte, etli bulgur pilavı ve mantı.
+\n\n
+NEREDE YENİR: \n   Kırıkkale merkezdeki “Lezzeti Şahane Restaurant” bu ilimizdeki lezzet noktamızdır.
+\n\n
+NE ÜRETİR:\n Buğday, arpa, yeşil mercimek, nohut, kuru fasulye; ayçiçeği, şeker pancarı, karpuz, kavun ve üzüm.</item>
+        <item>BATMAN   72
+\n\n
+NÜFUSU: 472, 487
+\n\n
+İLÇELERİ:\n Beşiri, Gercüş, Hasankeyf, Kozluk ve Sason.
+\n\n
+TARİHÇESİ: \nM.Ö. 352 yılında Büyük İskender\'in istilâsına uğramıştır. Daha sonra Romalılar, Sasani ve Bizans\'ın hâkimiyetine girmiştir. Artuklular, Moğollar, ilhanlılar, Celâliler, Karakoyunlu (Pezrese)Akkoyunlularve 1500 yılında Savefllerin eline geçti. 1937 yılında bucak hâline getirilen Batman\'da, 1950\'li yılların başlarında petrol filizlerinin değerlendirilmesiyle, gelişme sağlanmıştır. 2 Eylül 1957 tarihinde ilçe oldu. 2 Kasım 1955 yılında Belediye teşkilâtı kurulmuştur. 16 Mayıs 1990 tarih ve 3647 sayılı kanunla, Türkiye\'nin 72. İli statüsünü kazandı.
+\n\n
+NEREDE GEZİLİR:\n Hasankeyf; Eski köprü, Gözetleme Kulesi, Büyük Saray ve Ulu Camii.
+\n\n
+NE YENİR: \nYöreye özgün çorbalar, yoğurtlu kuzu kavurma, kışlık dolma, Şam böreği, bumbar, perde pilavı, tandır ekmeği ve taş ekmeği. Hevranın tadına doyum olmaz.
+\n\n
+NEREDE YENİR:\n Batman\'ın en büyük lokantası olan Nirvana, birçok yemek çeşidini denemek için güzel bir mekândır.
+\n\n
+NE ÜRETİR:\n Pamuk, tütün, tahıl, baklagiller ve meyve-sebze.</item>
+        <item>ŞIRNAK  73
+\n\n
+NUFUSU:416,001
+\n\n
+İLÇELERİ: \nBeytüşşebap, Cizre, Güçlükonak, İdil, Silopi ve Uludere.
+\n\n
+TARİHÇESİ:\n Şırnak ili tarih olarak çok eski bir geçmişe sahiptir. Şırnak ili Katip Çelebi\'nin 17. Yüzyılda yazdığı, "Seyahatnameye ve tarihî rivayetlere göre, Nuh Tufanı öncesine dayanır. Bu rivayetlerde belirtildiğine göre, Cizre, tufandan sonra ikinci kez Hz. Nuh (AS) ve oğulları tarafından inşa edilirken, Cizre\'nin kızgın sıcağından korunmak için, Şırnak yazlık ve yaylak olarak inşa edilmiştir. 1913 yılında ilçe olmuş ve Siirt iline bağlanmıştır. Bu konumu 1990 yılma kadar sürmüştür. 18 Mayıs 1990 tarih ve 20522 tarihli Resmî Gazetede yayınlanan 16. 05.1990 tarih ve 3647 sayılı yasa ile il statüsüne kavuşmuştur. İle bağlı, 6 ilçe bulunmaktadır. Bu ilçeler Beytüşşebap, Cizre, Güçlükonak, İdil, Silopi ve Uludere\'dir.
+\n\n
+NEREDE GEZİLİR:\n Cizre Kalesi, Cizre JJlu Cami, Nuh Peygamber türbesi ve Camii, Abdaliye Medresesi ve Mem-u Zin Türbesi, Kırmızı Medrese ve Ahmet El Cezeri Türbesi. Finik ören yeri, Bâbil ören yeri, Dirheler (dev evleri), Şah örenyeri, Akabin Köprüsü (Fevzi Çakmak Köprüsü), Kasrik Köprüsü, Beyaz Köprü ile Besta ve Narfaran kaplıcası.
+\n\n
+NE YENİR:\n Büryan, pırtıke, bumbar, perde pilavı, kutlık, serbıdev, hekeheşandi, şımşıpe, meyre, bırınczer, mahmılatık, fireydin ve suryaz.
+\n\n
+NE ÜRETİR:\n Tarım ve hayvancılık; Şırnak\'ta tarım, hayvancılık ve sınır ticareti ekonominin temelini oluşturur. Buğday, arpa ve mercimek üretimi başta gelir. Sanayi bitkilerinden pamuk ekimi yaygındır. Cizre ve Silopi ilçelerinde yüksek kaliteli nar ve üzüm yetişir. Hayvancılık göçerlerin işidir. En çok kıl keçisi, koyun ve yöreye özgü kahverengi tüylü tiftik keçisi beslenir. El sanatları; Şırnak\'ta şal-şapik ve rençberi denilen dokuma türlerinde üretim yapılmaktadır. Ancak son yıllarda dokuma tezgâhlarında önemli ölçüde azalma görülmektedir. Hah, kilim dokumacılığı, keçecilik şehirdeki diğer el sanatlarının başında gelmektedir.</item>
+        <item>BARTIN   74
+\n\n
+NÜFUSU: 182,131
+\n\n
+İLÇELERİ:\n Amasra, Kurucaşile ve Ulus.
+\n\n
+TARİHÇESİ:\n Bartın, 1392\'de Yıldırım Bayezid zamanında Osmanlı topraklarına katıldı. 1461 \'de Fatih Sultan Mehmed Hanın Amasra\'yı fethi ile kesin olarak Osmanlı idaresine girdi. 1920 senesinde Zonguldak Mutasarrıflığına bağlanan Bartın, 1924\'te Zonguldak il olunca, buraya bağlı ilçe merkezi hâline getirildi. 28 Ağustos 1991\'de Zonguldak\'tan ayrılarak il oldu.
+\n\n
+NEREDE GEZİLİR:\n Amasra müzesi, Antik Tiyatro, Roma dönemi kalıntıları, Amasra Kalesi, Fatih Camii, İçkale Mescidi ve Yeraltı Çarşısı.
+\n\n
+NE YENİR: \n  Pirinçli mantı,  gartlaç,  çöven  ekmeği, pumpum çorbası, yumurtalı isbut, kabak burması, Amasra salatası, kirtil, halışka ve ısbıt. Ünlü Tatlılar: Sütlü Armut ve Gelinteli.
+\n\n
+NEREDE YENİR:\n Amasra Çeşmi Cihan Restaurantta balık tava ve salata yenir.
+\n\n
+NE ÜRETİR:\n Buğday, mısır ve çilek.</item>
+        <item>ARDAHAN   75
+\n\n
+NÜFUSU: 112,721
+\n\n
+İLÇELERİ:\n Çıldır, Damal, Göle, Hanak ve Posof.
+\n\n
+TARİHÇESİ: \nArdahan ili yaklaşık 3000 yıllık bir geçmişe sahiptir. İlimiz, M.S. 628 yılında Hazar Türklerinin eline geçerek, Ardahan adını almıştır. 1080 yılında Sultan Melikşah, Danişmendli Emi Ahmet Başbuğluğu\'nda bir orduyu buraya göndererek, bir yıldır işgal edilen Kars ve Ardahan\'ı geri aldı. 1225\'teRevan\'m güneyinde Gerni\'de yenmiş ve Ardahan ile Kars\'ı almıştı. III. Sultan Murad çağında Safevi-Osmanlı savaşları sonucunda, Osmanlı Devleti\'ne bağlandı.
+\n\n
+NEREDE  GEZİLİR: \n Akçakale Ada şehri kalıntıları,  Çıldır Taşköprü Kitabeleri, Ardahan Kalesi, Sevimli Kalesi, Kalecik Kalesi, Şeytan Kalesi, Kurtkale, Kazan Kale, Atlas (Ur) Kalesi,Kırnav Kale, Ardahan Merkez Mevlit Efendi Camii, Posof Merkez Camii, Övündü Mağaraları, Ortakent (Büyük Nakala) mağaraları ve Çıldır gölü.
+\n\n
+NE YENİR: \nArdahan\'ın kaşar peyniri ve balı ülke çapında isim yapmıştır. Elma dolması, kazlı bişli, şile, kaz pilavı, gevrek, evelik aşı, pişi, bozbaş; kuymak, ekmek aşı ve helvası en ünlü yemekleridir. Balı da çok meşhurdur.
+\n\n
+NEREDE YENİR:\n Ardahan merkezdeki Yörem Çağ Restaurant buranın yöresel yemeklerini tatmanız için güzel mekânlardan biridir.
+\n\n
+NE ÜRETİR: \nBuğday, arpa, çavdar ve patates.</item>
+        <item>IĞDIR   76
+\n\n
+NÜFUSU: 181,866
+\n\n
+İLÇELERİ: \nAralık, Karakoyunlu ve Tuzluca.
+\n\n
+TARİHÇESİ: \nIğdır\'ın adı; Oğuz Han\'ın altı oğlundan biri olan Cengiz Alp\'in en büyük oğlu olan \'İğdır Bey\'den gelmektedir. Günümüze kadar; Urartular, Moğollar, Sasaniler, Selçuklular, Karakoyunlular ve Osmanlı İmparatorluğu\'nun kültürleri bu yörede hayat bulmuştur. 14 Ekim 1920 tarihinde Kazım Karabekir komutasındaki Türk ordusu tarafından, Ermeni işgalinden kurtarılmıştır. Kars iline bağlı bir ilçe iken, 27 Mayıs 1992 tarihinde, Türkiye\'nin 76. İli olmuştur.
+\n\n
+NEREDE   GEZİLİR:  \n Soykırım Anıtı  ve  Müzesi,  Karakale, Serafeddin Ejder Kervansarayı ve Kültepe.
+\n\n
+NE ÜRETİR:\n Pamuk, buğday, arpa; domates, kavun, karpuz, hıyar; armut, elma, kayısı, şeftali, üzüm, ceviz, vişne ve kiraz.
+\n\n
+NE YENİR: \nBozbaş, taş köfte, yoğurt çorbası; helise, perzana, cızdık, salmanca, fetir, kaysafa ve patlıcan reçeli.</item>
+        <item>YALOVA   77
+\n\n
+NÜFUSU: 181,758\n\n
+
+İLÇELERİ: \nAltınova, Armutlu, Çiftlikköy, Çınarcık ve Termal.
+\n\n
+TARİHÇESİ:\n Yalova yöresi, tarihte, Bitinya, Roma, Doğu Roma (Bizans) toprakları içinde yer aldı. Yerleşmenin antik dönemdeki tam adı bilinmemekle birlikte, yöreye PYLOPYTHİA ve XENODOCHİON dendiği, çeşitli kaynaklarda yer almaktadır. Günümüzdeki Hersek ve Çiftlikköy arası, Roma, Doğu Roma (Bizans) İmparatorlarının ve saray çevrelerinin yazlık sayfiye kenti olarak ün yapmıştı. Adı geçen bölge, HALİZONES TOPRAKLARI ya da YALAKOVASI olarak tanınıyordu. 26 Ağustos 1922\'de başlayan Türk taarruzu karşısında Yunan askeri, büyük bir bozguna uğrayarak İzmir\'e doğru kaçtı. Yalova bölgesinde toplanan Halit(Karsıalan) Paşa komutasındaki Sağ ve Sol Kol Birlikleri (Yalova Müstakil Bölük unsurları da dâhil), 4 Eylül 1922\'de, Gemlik istikametine doğru harekata başladılar. Sonuçta, 18 Eylül 1922\'de, son Yunan askeri de Anadolu\'dan çekilmek zorunda kaldı.
+\n\n
+NEREDE GEZİLİR:\n Çınarcık, Esenköy ve Armutlu sahilleri, plajları, kampları ve piknik alanlarıyla eğlence ve dinlenme merkezleridir. Üvezpınar Şelalesi, Atatürk Köşkü Müzesi, Termal kaplıcaları, Armutlu kaplıcaları, Sudüşen şelâlesi ve Delmece yaylası gezilip, görülmesi gereken yerlerdir.
+\n\n
+NE YENİR:\n Ispanaklı Yalova böreği, Yalova köftesi, Yalova omleti, yumurta tiridi, yaprak pidesi, pavli, luhu şuşkey çirbuli, lalanga, çubiyiş gayi, papa, silohto, paponi, patlıcanlı piliç ve çeşitli balık yemekleri.
+\n\n
+NEREDE YENİR:\n Yalova\'daki Atatürk Köşkü Tesislerinde bazı lezzetleri tadabilirsiniz. Ayrıca Yalova Çınarcık\'taki Tahta Kaşık Restaurant tavsiye edebileceğimiz diğer bir lezzet noktasıdır.
+\n\n
+NE ÜRETİR:\n Zeytin, şeftali, elma, kiraz, kivi; kestane, ceviz, nar, incir, üzüm, vişne, karpuz, kavun; buğday, arpa ve yulaf. El sanatları ile hayvansal doku ürünleri.</item>
+        <item>KARABÜK   78
+\n\n
+NÜFUSU:227.610
+\n\n
+İLÇELERİ:\nEflani, Eskipazar, Ovacık, Safranbolu ve Yenice.
+\n\n
+TARİHÇESİ:\nKarabük ve çevresi, Antik Devirde, Homeros\'un İlyada destanında adından bahsettiği, "Paflagonya" (Paphlagonia) denilen bölgenin sınırları içinde idi. Paflagonya\'nm batısında Bitinya, doğusunda ise Pontos bölgesi vardı. Anadolu\'nun antik devirde bilindiği gibi siyasî, ekonomik ve toplumsal tarihi, Hitit Devleti\'nin kuruluşu ile başlamaktadır. Daha sonra bölge Firiglerin, helken kolonilerinin, Lidyalıların, Perslerin, Romalıların, Bizansın yönetimi altında kalmıştır. 1071 Malazgirt Savaşından sonra Türkler, Anadolu içlerine doğru hızla ilerlemeye başladı. Mondros Ateşkesi sonrasında, İtilâf Devletlerinin Anadolu\'yu işgal etmeleri tüm yurtta olduğu gibi, Safranbolu\'da da üzüntü ile karşılandı. Safranbolulular, 20 Mart 1920\'de düzenledikleri mitingle, İstanbul\'un resmen işgal edilmesini protesto etmişlerdir. Halkın ileri gelenlerinin düşman işgallerine karşı tepki gösterdiği Safranbolu, Millî Mücadele yıllarında Kastamonu\'ya bağlıydı. Kurtuluş Savaşı sırasında yörede çeteler oldukça çoğalmıştı. Bunların Eğri Ahmet çetesi dışındaki en ünlüleri, Eflani civarında Yanık Hüseyin ve Arap Çavuş çeteleri; Karabük civarında Zopranlı Sarı Efe ve Eskipazarlı Kel Sait Çeteleri\'dir.
+\n\n
+NEREDE GEZİLİR:\nSafranbolu evleri, St. Stefanos kilisesi(Ulu Cami), Eski Cami (Gazi Süleymen Paşa Camii.) Köprülü Mehmet Paşa Camii, Hidayetullah Camii, Taş Minare Camii, Dağdelen Camii, İzzet Mehmet Paşa Camii, Akçasu Camii, Eflani İlçesi Küre-i Hadit Camii, Sorkun yaylası, Ulu yayla, Sarıçiçek yaylası, Boduroğlu yaylası, Bulak (Mencilis) mağarası ve Kanyonlar.
+\n\n
+NE YENİR:\nGözleme, kuyu kebabı, bükme, yayım makarnası, göbü, kara mancar, katlaç, malak, perohi, şaptak, su böreği, sulu yayım, borana, bandırma, cevizli yayım ve çimdik makarna.
+\n\n
+Ünlü Tatlılar:\nHer zaman taze satılan, fındıklı, şamfıstıklı, akıtma tatlısı; ceviz helvası, lokma, tırtıl baklava, zerde, çingene baklavası; güllü ve safranlı çeşitleri bulunan, Safranbolu lokumu.
+\n\n
+NEREDE YENİR:\nKarabük\'teki çok önemli turizm merkezi olan Safranbolu ilçesi birçok yöresel yemek lokantasına ev sahipliği yapar. Kazan Ocağı, Yöresel Ev Yemekleri Lokantası Turistlerin uğrak yeri olup bu ildeki lezzet durağımızdır.
+\n\n
+NE ÜRETİR:\nKuru fasulye, buğday, arpa, yulaf, mısır, bakla (kuru), lahana (beyaz), lahana (kırmızı); manii, ıspanak, pırasa, barbunya, bamya, hıyar, patlıcan, domates; soğan, sarımsak, biber ve turp. Orman ürünleri olarak ise, tomruk, maden direği, tel direği, sanayi odunu; kâğıtlık odun, lif yonga, yakacak odun ve yapacak odun.</item>
+        <item>KİLİS    79
+\n\n
+NÜFUSU:118,457
+\n\n
+İLÇELERİ:\nElbeyli, Musabeyli ve Polateli.
+\n\n
+TARİHÇESİ:\nKilis İ.Ö. 1460 yıllarında Halep krallığına bağlıydı. Hitit imparatorluk döneminin başlamasıyla Hitit etkisine girdi. Türklerin bölgeye gelişi 8.yy\'da başlar. Osmanlı devleti topraklarına Yavuz Sultan Selim tarafından 23 Ağustos 1516\'da katılmıştır. Kilis Mondros mütarekesiyle, Aralık 1918\'de Önce İngilizler, daha sonra da Fransızlar tarafından işgal edilir. Kilis 1927 yılında Gazi Antep il olunca Gazi Antep\'e bağlı bir ilçe oldu. 6 Haziran 1995 tarihinde ise il statüsüne kavuştu.
+\n\n
+NEREDE GEZİLİR:\nKilis Ulu Cami, Şeyh Camii, Kurdağa Çeşmesi ve İpşir Paşa Çeşmesi.
+\n\n
+NE YENİR:\nTatlı mahlıta, ezo gelin çorbası, armut kebabı, ekşili yahni. Kilis kebabı, oruk, sini köftesi, sebzeli çürütme, şeyhülmuhşi, kolluk aşı, alinazik, teşrube, şıhılmahşe, gerebiç, belluriye, züngül,    pekmez, kübbülmüşviyye, tali malhıta, cennet çamuru, firik pilavı, kibe, mazlum, mıkşi, teşrübe, mayanalı kahve, haytayla ve sucuk hapısası.
+\n\n
+NEREDE YENİR:\nMerkezdeki Ekrem Çetin sofrası ve Cemal Ustanın yeri, Kilis lezzet duraklarıdır.
+\n\n
+NE ÜRETİR:\nBuğday, arpa, domates, salatalık. Antep fıstığı, zerdali, ceviz ve incir.</item>
+        <item>OSMANİYE   80
+\n\n
+NÜFUSU:452, 880
+\n\n
+İLÇELERİ: \nBahçe, Düziçi, Hasanbeyli, Kadirli, Sumbas ve Toprakkale.
+\n\n
+TARİHÇESİ:\nLelegler adlı kavmin hüküm sürdüğü topraklar, daha sonraları Büyük Hitit Devleti, Asur, Roma, Bizans, Selçuklular ve Nihayet Osmanlı Devletinin hâkimiyeti altına girmiştir. 1080\'li yıllarda Ulaşlı aşiretinin Osmaniye\'ye yerleşmesi kuruluşunun başlangıcı sayılabilir. 1250-1517 yılları arasında Memlukluların hâkimiyetinde kalmıştır. 1840 yılında Kavalalı Mehmet Ali Paşa döneminde, Osmanlılara bırakılmış ve Adana eyaletine bağlanmıştır. 24. 10.1996 tarihinde il statüsüne kavuşmuştur.
+\n\n
+NEREDE GEZİLİR:\n Karatepe-Aslantaş Açık Hava Müzesi, Hierapolis Antik Kent, Karatepe-Aslantaş Geç Hitit Kalesi ve Kadirli yaylaları.
+\n\n
+NE YENİR:\nİçli köfte, ekşili çorba, börek çorbası (yüssük çorbası) çiğ köfte; kısır, sarma içi, dolma, tolga, tırşık (pancar), yer fıstığı, çiçcire ve etli kömbe.
+\n\n
+NEREDE NE YENİR:\nOsmaniye\'de Arpacı Enver Usta Tesisleri bu bölgede gidilebilecek en iyi mekânlardan biridir. "Siz Hiç Enver Usta\'da 12 çeşit baharatlı sütlü kaymaklı gümüş bacaklı tavuk pirzola yediniz mi?" Burası, ayrıca mahallî yemeklerin de bulunduğu bir lezzet noktasıdır.
+\n\n
+NE ÜRETİR:\nYer fıstığı, buğday, soya, mısır ve pamuk.</item>
+        <item>DÜZCE    81
+\n\n
+NÜFUSU:323, 328
+\n\n
+İLÇELERİ:\nAkçakoca, Cumayeri, Çilimli, Gökyaka, Gümüşova, Kaynaşlı ve Yığılca.
+\n\n
+TARİHÇESİ:\nDüzce\'nin tarihi 14. yy\'dan daha derine dayanmamaktadır. Osman Gazi\' nin komutanlarından Konuralp B ey, 1321-1323 yılları arasında bu yöredeki Bizans tekfurları ile yaptığı savaş sonunda, DUZBAZAR (Düzce Ovası)\'m fethetti. Düzce\'nin ilk yöneticileri Konuralp Bey, Sungur Bey, Şemsi ve Gündüz Alp\'tir. Cumhuriyetin ilanıyla birlikte Düzce ilçesi Bolu vilayetine bağlandı. 1950\'den itibaren İl olma talebinde bulunmuştur.
+\n\n
+NEREDE GEZİLİR:\nKonuralp Müzesi, Konuralp Camii, Efteni Gölü, Güzeldere Şelâlesi ve Fakıllı mağarası.
+\n\n
+NE YENİR:\nArnavut böreği, şıl börek, göbete mantısı; Boşnak böreği, Çerkez tavuğu, lepsi, mamursa, haluj ve gözleme.
+\n\n
+Ünlü Tatlılar:\nHöşmerim.
+\n\n
+NEREDE YENİR:\nDüzce\'de balık yiyebileceğiniz bir mekân olan Hamsi Balık Lokantası ve yöresel yemekleri yiyebileceğiniz Kamelya Restaurant, Düzce\'deki iki önemli lezzet noktasıdır.
+\n\n
+NE ÜRETİR:\nFındık, çeltik ve virjinya tütünü, mısır tohumu, yonca tohumu, yumurta tavuğu ve alabalık üretimi.</item>
+
+
+    </string-array>         // İLLERİN TARİHÇESİ
+
+
+
+</resources>
